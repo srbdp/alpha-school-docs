@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 009 Implemented)
+**Last Updated**: 2026-01-20 (Spec 010 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 15 (46.9%) | **In Progress**: 0 (0%) | **Planned**: 17 (53.1%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 16 (50%) | **In Progress**: 0 (0%) | **Planned**: 16 (50%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -81,7 +81,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | 007 | ✅ Complete | Critical | 006 | Two-hour learning model - detailed explanation | `reference/model/two-hour-learning.md` | Medium |
 | 008 | ✅ Complete | Critical | 006 | AI integration - how AI is used in learning | `reference/model/ai-integration.md` | Medium |
 | 009 | ✅ Complete | High | 006 | Human instruction - role of teachers/guides | `reference/model/human-instruction.md` | Small |
-| 010 | 📋 Planned | High | 007, 008, 009 | Daily schedule - what a day looks like | `reference/model/daily-schedule.md` | Small |
+| 010 | ✅ Complete | High | 007, 008, 009 | Daily schedule - what a day looks like | `reference/model/daily-schedule.md` | Small |
 
 ### Curriculum Domain
 

@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 018 Created)
+**Last Updated**: 2026-01-20 (Spec 018 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 23 (71.88%) | **In Progress**: 0 (0%) | **Planned**: 9 (28.12%) | **Estimated Effort**: ~15 hours
+**Total Specs**: 32 | **Completed**: 24 (75%) | **In Progress**: 0 (0%) | **Planned**: 8 (25%) | **Estimated Effort**: ~14 hours
 
 ---
 
@@ -99,7 +99,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | 015 | ✅ Complete | High | 001 | Claims - what Alpha claims (with appropriate caveats) | `reference/outcomes/claims.md` | Medium |
 | 016 | ✅ Complete | High | 015 | Evidence - supporting data from public sources | `reference/outcomes/evidence.md` | Medium |
 | 017 | ✅ Complete | Medium | 015 | Testimonials - public testimonials | `reference/outcomes/testimonials.md` | Small |
-| 018 | 📋 Planned | Medium | 015 | Limitations - what we don't yet know | `reference/outcomes/limitations.md` | Small |
+| 018 | ✅ Complete | Medium | 015 | Limitations - what we don't yet know | `reference/outcomes/limitations.md` | Small |
 
 ### Enrollment Domain
 

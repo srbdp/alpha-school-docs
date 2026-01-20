@@ -2733,3 +2733,62 @@ After Spec 017 implementation, move to Spec 018: Outcomes Limitations (last spec
 - ralph/progress.md
 
 ---
+
+## 2026-01-20: Spec 018 - Outcomes Limitations Implementation Complete
+
+**Spec**: 018-outcomes-limitations
+**Status**: ✅ Complete
+**Output**: reference/outcomes/limitations.md (112 lines)
+
+### Implementation Summary
+
+Successfully created Outcomes Limitations reference documentation systematically cataloging what is not publicly known about Alpha School's outcomes. This document complements Claims (015), Evidence (016), and Testimonials (017) by documenting verification gaps, missing data, methodological concerns, and unanswered questions—enabling LLMs to accurately represent the boundaries of Alpha's evidence base.
+
+### Key Accomplishments
+
+1. **Comprehensive Limitation Cataloging**:
+   - Independent verification gaps (no third-party audits, no peer-reviewed research, charter rejections)
+   - Critical data gaps (raw scores, sample sizes, demographics, attrition, longitudinal data)
+   - Methodological concerns (selection bias, small samples, no control groups, platform isolation)
+   - Platform vs. marketing reality gaps (AI overstated, time definition ambiguity)
+   - Regulatory skepticism (Pennsylvania charter rejection citing "untested" model)
+   - Unanswered long-term questions (college success, career outcomes, skill retention)
+
+2. **Structured Documentation**:
+   - 10 properties table with _status/_availability naming convention
+   - 6 details subsections for systematic coverage
+   - 3 concrete examples with LIMITATION conclusions
+   - 5 FAQs addressing interpretation questions
+   - All limitations sourced to research/outcomes.md lines 175-365
+
+3. **Quality Standards Met**:
+   - Neutral tone maintained (factual presentation without advocacy or dismissiveness)
+   - Clear distinction between factual gaps and analyst opinions (proper attribution)
+   - Template compliance (H1→H2→H3 hierarchy, all required sections)
+   - Complete source citations with URLs and retrieval dates
+
+### Outcomes Domain Complete
+
+With Spec 018 implementation, the Outcomes Domain is now 100% complete:
+- ✅ Spec 015: Outcomes Claims
+- ✅ Spec 016: Outcomes Evidence
+- ✅ Spec 017: Outcomes Testimonials
+- ✅ Spec 018: Outcomes Limitations
+
+This provides LLMs with comprehensive, balanced documentation covering what Alpha claims, supporting evidence, subjective experiences, and critical limitations—enabling accurate, nuanced representation of Alpha School's outcomes.
+
+### Project Progress
+
+- **Phase 2 Reference Docs**: 18/22 complete (81.8%)
+- **Project Overall**: 24/32 complete (75%)
+- **Remaining Domains**: Enrollment (2 specs), Locations (2 specs), Contact (1 spec), Guides (3 specs)
+
+### Next Steps
+
+**Spec 019**: Enrollment Process (reference/enrollment/process.md)
+- Priority: Critical
+- Dependencies: Spec 001 (Research complete)
+- Status: Needs spec creation
+- Action: Use /create_spec or create manually
+
+---

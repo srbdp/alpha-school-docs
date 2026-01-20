@@ -1,0 +1,32 @@
+{
+  "name": "@alpha-school/mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Alpha School documentation",
+  "main": "dist/index.js",
+  "bin": {
+    "alpha-school-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "mcp",
+    "alpha-school",
+    "documentation",
+    "ai"
+  ],
+  "author": "Alpha School",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

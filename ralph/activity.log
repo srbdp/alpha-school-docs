@@ -4326,3 +4326,134 @@ Spec 025 is now ready for implementation using `/implement_spec` skill or manual
 
 ---
 
+
+## 2026-01-20: Spec 026 Created - Media Guide Specification
+
+**Activity Type**: Specification Creation  
+**Spec**: 026-guide-media  
+**Status Change**: Not Started → Spec Created (📋 Planned)  
+**Time**: ~30 minutes
+
+### What Was Done
+
+Created complete specification and implementation checklist for Spec 026: Media Guide, the final guide document in Phase 3.
+
+**Files Created**:
+- `ralph/specs/026-guide-media/spec.md` - Complete specification document
+- `ralph/specs/026-guide-media/checklist.md` - Implementation checklist with 25 tasks
+
+**Files Modified**:
+- `ralph/roadmap.md` - Updated "Last Updated" to reflect Spec 026 creation
+
+### Spec 026 Overview
+
+**Purpose**: Create a comprehensive media-focused guide that synthesizes all Phase 2 reference documentation into a neutral, fact-dense resource for journalists and media professionals covering Alpha School.
+
+**Key Requirements**:
+
+1. **Executive Summary** (FR1.1): Key facts for quick reference
+2. **Background & Context** (FR1.2): Organization domain synthesis
+3. **Educational Model** (FR1.3): Model domain with technical precision
+4. **Curriculum & Standards** (FR1.4): Curriculum domain with standards context
+5. **Outcomes, Evidence, & Research** (FR1.5): Outcomes domain with rigorous evidence distinction
+6. **Enrollment, Access, & Equity** (FR1.6): Enrollment/location with equity lens
+7. **Media Contact** (FR1.7): Clear media contact pathways
+
+### Critical Design Decisions
+
+1. **Third-Person Perspective**: Unlike parent/educator guides, media guide uses third-person throughout to maintain journalistic objectivity
+
+2. **Claims vs. Evidence Distinction**: Explicitly distinguishes Alpha School's claims from independently verified evidence using phrases like "According to Alpha School..."
+
+3. **No Editorial Stance**: Neither promotes nor critiques; presents facts neutrally for use by reporters with any editorial angle
+
+4. **Emphasis on Research Limitations**: Prominently notes what's not yet proven, sample sizes, methodological caveats, self-reported vs. peer-reviewed data
+
+5. **Inverted Pyramid Structure**: Most important facts first in each section, matching journalistic reading patterns
+
+6. **Factual Density**: Target 2,000-3,500 words with quotable facts and precise statistics suitable for media citation
+
+### Differentiation from Other Guides
+
+**vs. Parent Guide**:
+- Third-person (not second-person)
+- No emotional appeals or parental concerns framing
+- More emphasis on evidence quality and research methodology
+- Neutral tone (not welcoming/warm)
+
+**vs. Educator Guide**:
+- Less pedagogical theory depth
+- More focus on organizational context and founding story
+- Emphasis on verifiable facts over professional discourse
+- Shorter and more scannable for quick reference
+
+### Tone & Style Guidelines
+
+- **Voice**: Third-person, neutral, journalistic
+- **Language**: Professional but not academic; precise technical terms
+- **Stance**: Objective (neither promotional nor critical)
+- **Attribution**: Clear sourcing ("Alpha School reports...", "According to...")
+- **Transparency**: Explicit about limitations, caveats, and what's unproven
+- **Format**: Scannable with bullet points, tables, bold key terms
+
+### Implementation Structure
+
+**Phase 3.0**: Verification checklist (10 tasks)
+- Structure verification
+- Content verification
+- Tone verification
+- Quality verification
+- Metadata verification
+
+**Phase 3.1**: Implementation (15 tasks)
+- Document setup
+- Write 7 main sections
+- Add sources and metadata
+- Quality assurance
+- Verification
+
+### Success Criteria
+
+**Content**:
+- All facts trace to Phase 2 reference docs ✓
+- Claims clearly distinguished from evidence ✓
+- Limitations transparently noted ✓
+- 2,000-3,500 word count ✓
+
+**Tone**:
+- Third-person throughout ✓
+- Neutral, journalistic voice ✓
+- No promotional language ✓
+- No editorial stance ✓
+
+**Technical**:
+- Valid markdown ✓
+- All internal links resolve ✓
+- Metadata complete ✓
+- Sources section lists all 22 reference docs ✓
+
+### Project Status After This Activity
+
+- **Phase 1 (Research)**: 7/7 complete ✅
+- **Phase 2 (Reference Docs)**: 22/22 complete ✅
+- **Phase 3 (Guides)**: 2/3 complete
+  - Spec 024: Parent Guide - Complete ✅
+  - Spec 025: Educator Guide - Complete ✅
+  - Spec 026: Media Guide - Spec Created 📋 (ready for implementation)
+
+**Overall Progress**: 31/32 specs complete (97%)  
+**Next Work**: Implement Spec 026 (create `guides/for-media.md`)
+
+### Notes for Implementation
+
+1. **Critical Section**: FR1.5 (Outcomes, Evidence, & Research) requires extreme care to distinguish claims from evidence and provide transparent research caveats
+
+2. **Tone Consistency**: Must maintain neutral journalistic tone throughout—different from parent/educator guides
+
+3. **Factual Precision**: Every claim must be defensibly accurate and traceable to reference docs
+
+4. **Media Professional Audience**: Assume college-educated professional readers who scan efficiently and need quotable facts
+
+5. **Optional FAQ**: Consider including 5-8 media FAQs if valuable (decision deferred to implementation)
+
+---

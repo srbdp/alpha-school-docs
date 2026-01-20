@@ -3729,3 +3729,209 @@ Successfully implemented Spec 025 by creating a comprehensive educator-focused g
 
 ---
 
+
+---
+
+## 2026-01-20: Spec 026 Created - Media Guide Specification
+
+**Spec**: 026-guide-media  
+**Phase**: 3 (Guides)  
+**Status**: Spec Created (📋 Planned)  
+**Activity**: Specification Creation
+
+### Summary
+
+Created complete specification and implementation checklist for Spec 026: Media Guide, the third and final guide document in Phase 3. This guide is designed specifically for journalists, reporters, and media professionals covering Alpha School, providing neutral, fact-dense briefing material.
+
+### Functional Requirements Defined
+
+**FR1: Document Structure** (7 sections)
+- FR1.1: Executive Summary with key facts for quick reference
+- FR1.2: Background & Context (organization domain synthesis)
+- FR1.3: The Educational Model (model domain with technical precision)
+- FR1.4: Curriculum & Academic Standards (curriculum domain)
+- FR1.5: Outcomes, Evidence, & Research (critical: claims vs. evidence distinction)
+- FR1.6: Enrollment, Access, & Equity (enrollment/locations with equity lens)
+- FR1.7: Media Contact & Resources (clear media pathways)
+
+**FR2: Content Quality Standards**
+- FR2.1: Factual Accuracy & Attribution (all claims traceable to reference docs)
+- FR2.2: Tone & Voice (neutral, third-person, journalistic)
+- FR2.3: Reading Level & Style (professional journalists, quotable facts)
+- FR2.4: Length & Format (2,000-3,500 words, scannable markdown)
+
+**FR3: Documentation Standards**
+- FR3.1: Document Metadata (dates, version, media contact)
+- FR3.2: Source Citations (all 22 Phase 2 reference docs listed)
+
+### Key Design Decisions
+
+**1. Third-Person Perspective**
+- Unlike parent/educator guides, uses third-person throughout
+- Maintains journalistic objectivity and neutrality
+- Appropriate for media briefing document format
+
+**2. Claims vs. Evidence Distinction (Critical)**
+- Explicitly distinguishes Alpha School's claims from independently verified evidence
+- Uses attribution phrases: "According to Alpha School...", "Alpha reports..."
+- Notes when evidence is self-reported vs. peer-reviewed
+- Transparent about research limitations, sample sizes, selection effects
+
+**3. No Editorial Stance**
+- Neither promotes nor critiques Alpha School
+- Presents facts neutrally for use by reporters with any editorial angle
+- Avoids phrases like "innovative breakthrough" or "unproven claims"
+
+**4. Inverted Pyramid Structure**
+- Most important facts first in each section
+- Matches journalistic reading patterns
+- Supports efficient scanning by reporters
+
+**5. Emphasis on Research Limitations**
+- Prominently notes what's not yet proven or studied
+- Includes explicit caveats about newness of model
+- Transparent about evidence gaps
+
+**6. Factual Density & Quotability**
+- Target 2,000-3,500 words (shorter than educator guide)
+- Prioritize quotable statistics and concrete facts
+- Professional reading level (not simplified)
+- Scannable with bullet points, tables, bold key terms
+
+### Differentiation from Other Guides
+
+**vs. Parent Guide (Spec 024)**:
+- Third-person (not second-person "you")
+- No emotional appeals or parental concerns framing
+- More emphasis on evidence quality and research methodology
+- Neutral tone (not welcoming/warm)
+- Shorter and more fact-dense
+
+**vs. Educator Guide (Spec 025)**:
+- Less pedagogical theory depth
+- More focus on organizational context and founding story
+- Emphasis on verifiable facts over professional pedagogical discourse
+- Shorter (2,000-3,500 vs. 5,842 words)
+- More scannable structure for quick reference
+
+### Implementation Structure
+
+**Phase 3.0: Verification Checklist** (10 tasks)
+- Task 3.0.1: Create verification checklist structure ✅
+- Tasks 3.0.2-3.0.4: Structure verification
+- Tasks 3.0.5-3.0.6: Content verification (factual accuracy, claims vs. evidence)
+- Task 3.0.7: Tone verification (journalistic, neutral)
+- Tasks 3.0.8-3.0.9: Quality verification (reading level, format)
+- Task 3.0.10: Metadata verification (footer, sources)
+
+**Phase 3.1: Implementation** (15 tasks)
+- Task 3.1.1: Document setup (create guides/for-media.md)
+- Tasks 3.1.2-3.1.8: Write 7 main sections (FR1.1-FR1.7)
+- Task 3.1.9: Optional FAQ section (5-8 media questions)
+- Tasks 3.1.10-3.1.11: Add sources and metadata
+- Tasks 3.1.12-3.1.13: Quality assurance (tone, formatting, length)
+- Tasks 3.1.14-3.1.15: Verification and final review
+
+### Critical Implementation Considerations
+
+**1. FR1.5 (Outcomes Section) - HIGHEST PRIORITY**
+- Requires extreme care to distinguish claims from evidence
+- Must note sample sizes, methodological limitations, selection effects
+- Must distinguish peer-reviewed research from self-reported data
+- Must explicitly state what's not yet proven
+- Critical for journalistic accuracy and credibility
+
+**2. Tone Consistency**
+- Must maintain neutral, third-person throughout
+- No "you" or "we" pronouns
+- No promotional language or marketing speak
+- No editorial stance (positive or negative)
+
+**3. Attribution Precision**
+- Every factual claim must trace to Phase 2 reference docs
+- Self-reported claims must be clearly attributed ("According to Alpha School...")
+- Note when data is "not publicly available" or "not independently verified"
+
+**4. Media Professional Audience**
+- Assume college-educated professional readers
+- Use precise technical terminology (not simplified)
+- Prioritize quotable facts and statistics
+- Format for efficient scanning
+
+### Files Created
+
+- `ralph/specs/026-guide-media/spec.md` - Complete 9-section specification
+- `ralph/specs/026-guide-media/checklist.md` - 25-task implementation checklist
+
+### Files Modified
+
+- `ralph/roadmap.md` - Updated "Last Updated" to 2026-01-20 (Spec 026 Created)
+- `ralph/activity.log` - Logged Spec 026 creation activity
+- `ralph/progress.md` - This entry
+
+### Manual Verification Checklist
+
+**Spec Document Quality**:
+- ✅ All 7 section requirements defined (FR1.1-FR1.7)
+- ✅ Content quality standards specified (FR2.1-FR2.4)
+- ✅ Documentation standards specified (FR3.1-FR3.2)
+- ✅ Implementation phases defined (3.0 verification, 3.1 implementation)
+- ✅ Key design decisions documented and rationalized
+- ✅ Differentiation from other guides explained
+- ✅ Critical implementation considerations highlighted
+- ✅ Out of scope items listed
+- ✅ Success criteria defined (automated and manual)
+
+**Checklist Document Quality**:
+- ✅ 25 total tasks defined (10 verification + 15 implementation)
+- ✅ Each task maps to specific FRs
+- ✅ Verification criteria clearly specified
+- ✅ Automated vs. manual verification distinguished
+- ✅ Critical sections highlighted (FR1.5 outcomes)
+- ✅ Session recovery context provided
+- ✅ Key decisions documented
+
+### Success Criteria for Spec Creation (This Phase)
+
+**Spec Document**:
+- ✅ Comprehensive overview and context provided
+- ✅ All functional requirements defined with rationale
+- ✅ Implementation phases structured (3.0 and 3.1)
+- ✅ Technical decisions documented with rationale
+- ✅ Boundaries and out-of-scope items clear
+- ✅ Success metrics defined
+
+**Checklist Document**:
+- ✅ All tasks enumerated and described
+- ✅ Tasks map to functional requirements
+- ✅ Verification criteria are specific and actionable
+- ✅ Recovery context enables session continuity
+
+**Project Integration**:
+- ✅ Roadmap updated
+- ✅ Activity log updated
+- ✅ Progress log updated (this entry)
+
+### Project Status After This Activity
+
+- **Phase 1 (Research)**: 7/7 complete ✅
+- **Phase 2 (Reference Docs)**: 22/22 complete ✅
+- **Phase 3 (Guides)**: 2/3 complete
+  - Spec 024: Parent Guide - Complete ✅
+  - Spec 025: Educator Guide - Complete ✅
+  - Spec 026: Media Guide - Spec Created 📋 (implementation ready)
+
+**Overall Progress**: 31/32 specs complete (97%)
+
+**Remaining Work**: Implement Spec 026 (create `guides/for-media.md` document)
+
+### Next Steps
+
+1. Commit Spec 026 specification and checklist
+2. Begin Spec 026 Phase 3.1 implementation (create guides/for-media.md)
+3. Follow 15-task implementation checklist
+4. Pay special attention to FR1.5 (outcomes section) for claims vs. evidence distinction
+5. Maintain neutral, third-person journalistic tone throughout
+6. Verify all 25 checklist items before marking complete
+
+---

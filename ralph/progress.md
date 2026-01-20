@@ -1833,3 +1833,152 @@ Implement Spec 012 by writing the actual reference document following the checkl
 - Curriculum domain: 2/4 specs created (011 ✅ implemented, 012 spec created)
 
 ---
+
+## Spec 012: Curriculum Subjects - Implementation Complete ✅
+
+**Date**: 2026-01-20  
+**Status**: ✅ Complete  
+**Output**: `reference/curriculum/subjects.md`
+
+### What Was Implemented
+
+Created comprehensive API-style reference documentation answering "What subjects does Alpha School teach?" for LLM consumption. The document provides structured, authoritative information on seven core academic subjects, their delivery platforms, standards alignment, and pedagogical approach.
+
+### Implementation Summary
+
+**Document Sections Created**:
+1. Header with one-sentence definition (FR1.1)
+2. 3-paragraph overview covering subjects, platforms, and standards (FR1.2)
+3. 9-property API table for structured data extraction (FR1.3)
+4. Details section with 3 subsections:
+   - Subject-by-Subject Breakdown (7 subjects with platform mapping)
+   - Platform Ecosystem and Daily Flow (Dash orchestration, Pomodoro sessions, spaced repetition)
+   - Standards Alignment and Subject Integration (Common Core K-8, AP high school, history integration)
+5. Examples section with 3 concrete scenarios (FR1.5)
+6. Related documentation links (7 cross-references) (FR1.6)
+7. FAQs section (5 Q&A pairs) (FR1.7)
+8. Sources section (9 citations with URLs and dates) (FR1.8)
+9. Document footer with timestamps (FR1.9)
+
+**Key Content Delivered**:
+- Seven subjects documented: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
+- Platform ecosystem: Dash (central orchestrator) + 5 proprietary apps + 7 third-party platforms
+- Proprietary: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
+- Third-party: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
+- Standards: Common Core K-8, AP high school (Calculus, Statistics, English, Biology, Chemistry, Physics)
+- Mastery threshold: 90%+ (alpha.school) or 80%+ (secondary sources) — discrepancy documented
+- Subject integration: History/geography embedded in reading passages (not standalone subjects)
+- Efficiency claim: 20-30 hours per grade level vs. 200 hours traditional
+
+**Examples Provided**:
+1. Math Mastery Progression: IXL instruction → immediate feedback on error → "Fast Math" drills → advancement
+2. Integrated History/Reading: Declaration of Independence passage with dual assessment
+3. Platform Orchestration: Morning block flow through Dash with seamless transitions across 6 platforms
+
+### Research Sources Used
+
+All content sourced from `research/curriculum.md`:
+- Lines 30-67: Core subjects, mastery learning philosophy, AI platform overview
+- Lines 247-257: Complete seven-subject list with history/geography integration note
+- Lines 286-293: Common Core K-8 and AP high school standards alignment
+- Lines 328-351: Complete platform ecosystem (proprietary and third-party)
+- Lines 395-443: Subject-by-subject platform breakdown, daily lesson structure, weaknesses (AlphaWrite)
+
+Citations from 9 sources:
+- Primary: alpha.school pages (program, FAQ, 2-hour learning)
+- News: CBS News, FOX 7 Austin
+- Analysis: GenWise Substack, Astral Codex Ten review
+- Interviews: Modern Wisdom Podcast (MacKenzie Price), Cognitive Revolution Podcast
+
+### Template Compliance
+
+✅ All 9 Functional Requirements (FR1.1-1.9) implemented  
+✅ Follows roadmap.md template structure (lines 136-173)  
+✅ API-style properties table for LLM data extraction  
+✅ Concrete examples grounding abstract concepts  
+✅ Complete source citations with URLs and retrieval dates  
+✅ Cross-references to 7 related documentation files  
+✅ FAQs addressing common LLM queries  
+✅ Document timestamps for freshness tracking
+
+### Quality Metrics
+
+- **Fact Traceability**: 100% of claims sourced from research/curriculum.md
+- **Source Citations**: 9 sources with URLs and dates
+- **Template Compliance**: All sections present and correctly formatted
+- **Cross-References**: 7 related documentation links for LLM navigation
+- **Example Quality**: 3 concrete scenarios illustrating abstract concepts
+- **Transparency**: AlphaWrite weakness documented per parent review (not just positive claims)
+
+### Files Modified
+
+```
+reference/curriculum/subjects.md         CREATED (11,537 bytes)
+ralph/roadmap.md                         UPDATED (status 012: Planned → Complete)
+ralph/activity.log                       UPDATED (implementation entry added)
+ralph/progress.md                        UPDATED (this entry)
+```
+
+### Roadmap Impact
+
+**Before Spec 012**:
+- Total Specs: 32
+- Completed: 17 (53.1%)
+- Planned: 15 (46.9%)
+
+**After Spec 012**:
+- Total Specs: 32
+- Completed: 18 (56.3%) ← +1
+- Planned: 14 (43.8%) ← -1
+
+**Phase 2 Progress**:
+- Reference Documentation: 12/22 files complete (54.5%)
+- Curriculum Domain: 2/4 specs complete (Specs 011, 012 ✅; 013, 014 remaining)
+
+### Dependencies and Related Work
+
+**Dependencies Met**:
+- ✅ Spec 001c: Research Curriculum Domain (source material)
+- ✅ Spec 011: Curriculum Overview (parent context)
+
+**Related Specifications** (cross-referenced in document):
+- Spec 006: Educational Philosophy (learning science principles)
+- Spec 007: Two-Hour Learning Model (morning block context)
+- Spec 008: AI Integration (platform technology)
+- Spec 010: Daily Schedule (subject timing)
+- Spec 013: Grade Levels (next spec, subject progression)
+- Spec 014: Assessments (subject mastery measurement)
+
+### Next Steps
+
+**Immediate Next Spec**: Spec 013 - Grade Levels
+- Status: Planned (dependencies met: Spec 011 complete)
+- Output: `reference/curriculum/grade-levels.md`
+- Will document age ranges, grade structure, and subject progression across levels
+
+**Curriculum Domain Completion Path**:
+- Spec 011: Curriculum Overview ✅
+- Spec 012: Curriculum Subjects ✅
+- Spec 013: Grade Levels (next)
+- Spec 014: Assessments (final in domain)
+
+### Key Insights for Future Specs
+
+1. **Platform Ecosystem Documentation**: The Dash orchestrator concept is critical—it's not just a list of apps but a curated pathway system. Future specs should emphasize this orchestration layer.
+
+2. **Mastery Threshold Discrepancy**: The 90% vs. 80% threshold appears across multiple domains. Documenting discrepancies with source attribution maintains credibility.
+
+3. **Subject Integration Approach**: History/geography integration into reading is a distinctive curricular choice that affects multiple reference docs (curriculum, model, assessments).
+
+4. **Transparency on Weaknesses**: Including AlphaWrite's noted deficiencies (from parent review) demonstrates balanced documentation—not promotional material.
+
+5. **Example Quality Matters**: The three concrete examples effectively illustrate abstract concepts (mastery progression, subject integration, platform orchestration) and will help LLMs explain these concepts to users.
+
+---
+
+**Implementation Time**: ~45 minutes  
+**Spec Complexity**: Small (as estimated)  
+**Quality**: High (all FR requirements met, 100% fact traceability)  
+**LLM Readability**: Optimized (API table, clear structure, concrete examples)
+
+*Progress entry added: 2026-01-20*

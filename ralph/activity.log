@@ -2699,3 +2699,97 @@ Created comprehensive specification and implementation checklist for Curriculum 
 - Phase 3: 0/3 guides (0%)
 
 *Entry created: 2026-01-20*
+---
+
+## Spec 012: Curriculum Subjects - Implementation Complete
+
+**Date**: 2026-01-20
+**Type**: Implementation
+**Status**: ✅ Complete
+**Spec**: 012-curriculum-subjects
+**Output**: `reference/curriculum/subjects.md`
+
+**Summary**:
+Successfully implemented Spec 012, creating comprehensive API-style reference documentation for Alpha School's seven core academic subjects. The document provides structured information on what subjects are taught, how they are delivered through AI platforms, and how they align to educational standards.
+
+**Implementation Details**:
+
+1. **Document Structure** (All FR1.1-1.9 requirements met):
+   - H1 header with one-sentence definition in blockquote
+   - 3-paragraph overview covering subjects, platform ecosystem, and standards alignment
+   - 9-property API-style table for structured data extraction
+   - Three Details subsections: Subject-by-Subject Breakdown, Platform Ecosystem, Standards Alignment
+   - 3 concrete examples (Math Mastery, Integrated History/Reading, Platform Orchestration)
+   - Related documentation links (7 cross-references)
+   - 5 FAQs addressing common questions
+   - Complete sources section with 9 citations
+   - Document footer with timestamps
+
+2. **Subject Coverage**:
+   - Seven core subjects documented: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
+   - Subject-by-subject table with platform mapping, descriptions, and standards coverage
+   - Proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
+   - Third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
+   - Central orchestration platform: "Dash" (part of Time Back system)
+
+3. **Key Content Highlights**:
+   - Mastery threshold discrepancy documented: 90%+ (alpha.school) vs. 80%+ (secondary sources)
+   - History/geography integration approach explained (embedded in reading passages)
+   - Standards alignment: Common Core K-8, AP high school (Calculus, Statistics, English, Sciences)
+   - Efficiency claim: 20-30 hours per grade level vs. 200 hours traditional (6-10x gain)
+   - Platform ecosystem flow: Dash → adaptive app selection → immediate feedback → spaced repetition
+   - AlphaWrite weakness noted per parent reviews (transparency in documentation)
+
+4. **Examples Provided**:
+   - Math Mastery Progression: IXL fractions → immediate feedback → "Fast Math" speed drills → advancement
+   - Integrated History/Reading: Declaration of Independence passage with dual assessment (literacy + content)
+   - Platform Orchestration: Full morning block flow through Dash with 6+ platform transitions
+
+5. **Quality Assurance**:
+   - All facts sourced from research/curriculum.md (100% traceability)
+   - Citations from 9 primary and secondary sources (alpha.school, news, podcasts, reviews)
+   - Template compliance verified (roadmap.md lines 136-173)
+   - Consistent platform naming throughout document
+   - Clear, concise paragraphs optimized for LLM comprehension
+
+**Files Created/Modified**:
+- ✅ Created: `reference/curriculum/subjects.md` (11,537 bytes)
+- ✅ Updated: `ralph/roadmap.md` (status change 012: Planned → Complete, totals updated)
+- ✅ Updated: `ralph/activity.log` (this entry)
+- ✅ Pending: `ralph/progress.md` (to be updated)
+
+**Roadmap Impact**:
+- Total Specs: 32
+- Completed: 17 → 18 (53.1% → 56.3%)
+- Planned: 15 → 14 (46.9% → 43.8%)
+- Phase 2 (Reference Documentation): 11/22 → 12/22 implemented (50% → 54.5%)
+- Curriculum Domain: 2/4 complete (Specs 011, 012 ✅; 013, 014 remaining)
+
+**Next Immediate Task**:
+- Spec 013: Grade Levels (Planned, depends on Spec 011)
+- Continue Phase 2 reference documentation in Curriculum domain
+
+**Spec Dependencies Met**:
+- ✅ Spec 001c: Research Curriculum Domain (complete)
+- ✅ Spec 011: Curriculum Overview (complete)
+
+**Content Sources Leveraged**:
+- research/curriculum.md lines 30-67 (subject list and delivery)
+- research/curriculum.md lines 247-257 (complete subject list with integration note)
+- research/curriculum.md lines 286-293 (standards alignment)
+- research/curriculum.md lines 328-351 (platform ecosystem - proprietary and third-party)
+- research/curriculum.md lines 395-443 (subject-by-subject platform breakdown, weaknesses, strengths)
+
+**Verification Checklist**:
+- [x] All seven subjects documented with platform mapping
+- [x] Proprietary and third-party platform lists complete and accurate
+- [x] Standards alignment verified (Common Core K-8, AP high school)
+- [x] Subject integration claim documented (history/geography in reading)
+- [x] Mastery threshold discrepancy noted with source attribution
+- [x] Template structure compliance (all 9 FR sections present)
+- [x] All facts traceable to research sources with URLs and dates
+- [x] Related documentation cross-references (7 links)
+- [x] LLM-optimized structure with properties table for data extraction
+- [x] Concrete examples grounding abstract concepts
+
+*Entry created: 2026-01-20*

@@ -1,0 +1,47 @@
+# Activity Log
+
+## 2026-01-20 - Spec 001 Created
+
+**Action**: Created Spec 001 - Research & Source Documentation
+**Type**: Spec Creation
+**Phase**: Phase 1 (Research)
+
+### Summary
+Created comprehensive specification and implementation checklist for conducting research and gathering all publicly available information about Alpha School with proper citations and source documentation.
+
+### Files Created
+- `ralph/specs/001-research-sources/spec.md` - Full specification with FRs, implementation phases, and success criteria
+- `ralph/specs/001-research-sources/checklist.md` - Detailed task-by-task implementation checklist
+
+### Spec Scope
+- **Priority**: Critical (blocks all Phase 2 and Phase 3 specs)
+- **Effort**: Medium (~2 hours)
+- **Output**: `research/sources.md` and `research/sources.yaml`
+- **Dependencies**: None (first spec in roadmap)
+- **Blocks**: All 25 remaining specs (002-026)
+
+### Key Decisions
+1. Use web-research-doc-creator agent for automated research synthesis
+2. Organize research by 7 documentation domains (Organization, Model, Curriculum, Outcomes, Enrollment, Locations, Contact)
+3. Implement three-tier source credibility system (verified/likely/unverified)
+4. Require complete metadata for every source (URL, dates, type, credibility)
+5. Flag information gaps, conflicts, and sensitive topics for stakeholder review
+6. Exclude non-public information, speculation, and unverified sources
+7. Create both human-readable (MD) and machine-readable (YAML) outputs
+
+### Research Methodology
+- Primary sources: Official Alpha School website, social media, press releases, founder interviews
+- Secondary sources: News articles, Crunchbase, LinkedIn, podcasts, public testimonials
+- Tools: WebSearch, WebFetch, web-research-doc-creator agent
+- Output: Structured markdown with citations and confidence levels
+
+### Next Steps
+After this spec is written (spec created, not implemented), the next action is to **implement Spec 001** by conducting the actual research using the web-research-doc-creator agent or manual research following the checklist.
+
+### Notes
+- Spec follows example-1 format structure
+- Includes comprehensive source metadata requirements
+- Documents all 7 organizational domains to research
+- Provides detailed checklist with 26 tasks across 2 phases
+- Establishes quality bar: all facts must have citations
+- Creates foundation for all subsequent documentation work

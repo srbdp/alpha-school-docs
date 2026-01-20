@@ -6,6 +6,58 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 013 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 013 specification document (`ralph/specs/013-curriculum-grade-levels/spec.md`)
+- Created Spec 013 implementation checklist (`ralph/specs/013-curriculum-grade-levels/checklist.md`)
+- Updated roadmap.md to reflect Spec 013 creation (Last Updated: 2026-01-20 (Spec 013 Created))
+- Logged activity in activity.log
+- Updated progress.md with spec creation details
+
+**Key Details**:
+- Spec 013 focuses on Alpha School's grade level structure and progression system
+- Output will be `reference/curriculum/grade-levels.md`
+- Comprehensive specification covering PreK-12 capability-based levels, developmental stages, and mastery-based progression
+- 9 Functional Requirements (FR1.1-FR1.9) defining complete document structure
+- 21 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review)
+
+**Specification Scope**:
+- **Grade Range**: PreK-12 (varies by location, e.g., Alpha Austin is preK-12)
+- **Capability-Based Levels**: "Levels based on specific capabilities" vs. traditional age-based grades
+- **Developmental Stages**: PreK-8 structured curriculum vs. high school self-directed learning
+- **Standards Alignment**: Common Core K-8, Advanced Placement high school
+- **Mastery-Based Progression**: 90%+ accuracy requirement, enables acceleration
+- **Documentation Structure**: 8-property API-style table, 3 details subsections, 3 examples, 5 FAQs
+
+**Data Sources**:
+- research/curriculum.md lines 130-152 (grade levels and developmental stages)
+- research/curriculum.md lines 286-293, 324-327 (standards alignment)
+- research/curriculum.md lines 383-390 (progression and efficiency claims)
+- research/curriculum.md lines 92-95, 113-116, 314 (workshop and project examples)
+
+**Next Action**:
+Implement Spec 013 by writing reference/curriculum/grade-levels.md following the specification and 21-task checklist. This is the next incomplete spec ready for implementation.
+
+**Dependencies Satisfied**:
+- Spec 001c (Research Curriculum Domain) - Complete ✅
+- Spec 011 (Curriculum Overview) - Complete ✅
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 18 (56.3%)
+- In Progress: 0 (0%)
+- Planned: 14 (43.8%)
+- Phase 2 Curriculum Domain: 2/4 specs complete (011, 012 complete), Spec 013 ready for implementation
+
+---
+
+## 2026-01-20 (continued)
+
 ### Spec 011 Implemented ✅
 
 **Status**: Complete

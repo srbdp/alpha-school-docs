@@ -1,5 +1,93 @@
 # Activity Log
 
+## 2026-01-20 - Spec 013 Created
+
+**Action**: Created Spec 013 - Curriculum Grade Levels Specification
+**Type**: Spec Creation
+**Phase**: Phase 2 (Reference Documentation - Curriculum Domain)
+
+### Summary
+Successfully created specification and implementation checklist for Spec 013 (Grade Levels). Specification defines API-style reference documentation covering Alpha School's PreK-12 capability-based level system, developmental stages (PreK-8 structured vs. high school self-directed), mastery-based progression, and standards alignment.
+
+### Files Created
+- `ralph/specs/013-curriculum-grade-levels/spec.md` - Complete specification document
+- `ralph/specs/013-curriculum-grade-levels/checklist.md` - Implementation checklist with 21 tasks
+
+### Spec Overview
+- **Priority**: High
+- **Effort**: Small
+- **Output**: `reference/curriculum/grade-levels.md` (not yet created)
+- **Dependencies**: Spec 001c (Research Curriculum), Spec 011 (Curriculum Overview)
+- **Related**: Specs 012 (Subjects), 014 (Assessments), 006 (Educational Philosophy)
+
+### Specification Scope
+
+**Grade Range and Variability:**
+- PreK-12 (varies by location - Alpha Austin is preK-12)
+- Capability-based levels vs. traditional age-based grades
+- Mastery-based progression (90%+ accuracy)
+
+**Developmental Stages:**
+- PreK-8: Structured curriculum, prescribed workshops, guided progression
+- High School: Self-directed "super passion projects", mentorship, autonomy
+- Both maintain 2-hour academic block with AI mastery-based instruction
+
+**Standards Alignment:**
+- Common Core K-8
+- Advanced Placement high school (Calculus, Statistics, English, Sciences)
+- Grade-level acceleration possible (20-30 hours vs. traditional 200 hours)
+
+### Functional Requirements (9 total)
+
+**FR1.1-FR1.9**: Document structure following roadmap template
+- Header with one-sentence definition
+- 2-3 paragraph overview
+- 8-property API-style table
+- 3 details subsections (grade range, capability-based system, developmental stages)
+- 3 concrete examples (PreK workshop, K-8 mastery progression, high school self-direction)
+- 6 related documentation links
+- 5 FAQs
+- Sources with citations
+- Document footer with timestamps
+
+### Implementation Phases (21 tasks total)
+
+**Phase 1.0: Research Validation** (5 tasks)
+- Verify grade range (PreK-12 with location variability)
+- Verify capability-based level system with FAQ quote
+- Verify PreK-8 vs. high school structures
+- Verify standards alignment (Common Core K-8, AP high school)
+- Verify mastery-based progression mechanism
+
+**Phase 1.1: Documentation Writing** (11 tasks)
+- Create reference/curriculum/grade-levels.md
+- Write all sections: header, overview, properties, details, examples, related, FAQs, sources, footer
+- Follow roadmap template structure
+
+**Phase 1.2: Quality Review** (5 tasks)
+- Fact-check all claims against research/curriculum.md
+- Verify consistency (grade range, capability language, developmental stages)
+- Ensure template compliance
+- Review readability (concise paragraphs, active voice, concrete examples)
+- Validate cross-references and links
+
+### Data Sources
+- research/curriculum.md lines 130-152 (grade levels)
+- research/curriculum.md lines 286-293, 324-327 (standards)
+- research/curriculum.md lines 383-390 (progression)
+- research/curriculum.md lines 92-95, 113-116, 314 (examples)
+
+### Next Action
+Implement Spec 013 by writing reference/curriculum/grade-levels.md following the specification and checklist.
+
+### Notes
+- Spec 013 is now ready for implementation
+- Roadmap updated to reflect spec creation
+- Status remains "📋 Planned" until implementation complete
+- Dependencies satisfied: Research (001c) and Curriculum Overview (011) both complete
+
+---
+
 ## 2026-01-20 - Spec 011 Implemented
 
 **Action**: Implemented Spec 011 - Curriculum Overview Reference Documentation

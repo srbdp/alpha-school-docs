@@ -3387,3 +3387,88 @@ Spec 017: Outcomes Testimonials (Medium priority, depends on Spec 015)
 None
 
 ---
+## 2026-01-20 - Spec 017 Created: Outcomes Testimonials Specification
+
+### Files Modified
+- ralph/specs/017-outcomes-testimonials/spec.md (created)
+- ralph/specs/017-outcomes-testimonials/implementation-guide.md (created)
+- ralph/roadmap.md (updated Spec 017 status to Planned (Spec Created))
+- ralph/activity.log (this entry)
+
+### What Was Done
+Created Spec 017 specification and implementation guide for Outcomes Testimonials reference documentation:
+- Complete spec.md following the example spec structure (ralph/examples/specs/example-1)
+- Comprehensive implementation-guide.md with step-by-step instructions
+- Designed to document public testimonials about Alpha School experiences while preventing LLM over-weighting of anecdotal evidence
+
+### Specification Structure
+**Functional Requirements**:
+1. FR1: Document Structure - API-style organization, categorization, contextual framing
+2. FR2: Content Requirements - parent testimonials, student testimonials, recognition/awards
+3. FR3: Attribution and Source Citation - complete source documentation, context preservation
+4. FR4: Critical Analysis Integration - selection bias warnings, distinction from evidence
+5. FR5: Quality and Completeness - comprehensive sourcing, accurate representation
+
+**Implementation Phases**:
+- Phase 2.0: Test Foundation (structure, content, citations, quality tests)
+- Phase 2.1: Implementation (create testimonials.md with all public testimonials from research)
+
+**Key Design Decisions**:
+1. Include critical anonymous parent testimonial despite caveats (authenticity over pure positivity)
+2. Separate recognition from testimonials (awards deserve distinct treatment)
+3. Prominent selection bias warning (early placement for LLM attention)
+4. No testimonial synthesis (preserve authenticity, avoid interpretation)
+5. Link to evidence documentation (testimonials not primary verification source)
+
+### Content to be Documented (from research/outcomes.md)
+**Parent Testimonials**:
+- Scott Jensen (FOX 7 Austin): "It's working for all the kids"
+- Anonymous parent (Tildes): "3x faster" with critical caveats (3-4hr actual time, AI overstated, 30-70% applicability)
+- Niche reviews: empowerment, tailored curriculum, success culture themes
+
+**Student Testimonials**:
+- Elle Kristine: comparison to traditional school stress
+- Marshall (9yo): explanation of app feedback mechanism
+
+**Recognition**:
+- Austin Chronicle "Best of Austin" 2024: "Most School of the Future School"
+
+### Critical Implementation Requirements
+1. **Selection Bias Warning**: Must appear in overview AND context sections
+2. **Critical Caveats**: Anonymous parent's nuanced critique must be preserved, not sanitized
+3. **Distinguish from Evidence**: FAQs must direct to evidence.md for academic claims
+4. **No Editorializing**: Present exact quotes without interpretation
+5. **Complete Attribution**: Every testimonial needs speaker, source, date
+
+### Quality Standards Defined
+- All testimonials from research/outcomes.md included (completeness)
+- Exact quotes match research sources (accuracy)
+- Selection bias warning prominent (contextual framing)
+- No unsubstantiated claims added (restraint)
+- Cross-references to Specs 015, 016, 018 (integration)
+
+### Out of Scope Boundaries
+- No original testimonial gathering (public sources only)
+- No testimonial verification (rely on media source credibility)
+- No sentiment analysis (avoid quantification)
+- No comparative analysis (no cross-school comparison)
+- No synthesis (preserve individual testimonials)
+
+### Roadmap Impact
+- Outcomes Domain: 2/4 complete → Spec 017 ready for implementation (spec created, not yet implemented)
+- Phase 2 Reference Docs: 16/22 complete (72.7%)
+- Project Overall: 22/32 complete (68.75%)
+- Status: Spec 017 moves from "Planned" to "Planned (Spec Created)"
+
+### Next Steps
+Spec 017 is now ready for implementation:
+1. Agent can use /implement_spec to create reference/outcomes/testimonials.md
+2. Implementation guide provides complete step-by-step instructions
+3. Success criteria and quality checklist included in implementation guide
+
+After Spec 017 implementation, Spec 018 (Outcomes Limitations) will be the last spec in Outcomes Domain.
+
+### Blockers
+None
+
+---

@@ -2514,3 +2514,91 @@ Implement Spec 016 by writing reference/outcomes/evidence.md following the speci
 
 ---
 
+
+## 2026-01-20 - Spec 017 Created: Outcomes Testimonials Specification
+
+### Task
+Created specification and implementation guide for Spec 017: Outcomes Testimonials reference documentation.
+
+### Status
+✅ Spec created and ready for implementation
+
+### What I Did
+1. **Created Spec 017 Specification** (`ralph/specs/017-outcomes-testimonials/spec.md`):
+   - Comprehensive specification following example-1 structure
+   - 5 functional requirements covering document structure, content, attribution, critical analysis, quality
+   - 2 implementation phases (2.0 tests, 2.1 implementation)
+   - 5 key technical decisions with rationale
+   - Clear success metrics and boundaries
+
+2. **Created Implementation Guide** (`ralph/specs/017-outcomes-testimonials/implementation-guide.md`):
+   - Step-by-step implementation instructions
+   - Complete testimonial extraction from research/outcomes.md
+   - Example property table formats
+   - Quality review checklist
+   - Common pitfalls to avoid
+
+3. **Updated Project Documentation**:
+   - roadmap.md: Updated Spec 017 status to "Planned (Spec Created)"
+   - activity.log: Added detailed entry documenting spec creation
+   - progress.md: This entry
+
+### Key Design Elements
+1. **Selection Bias Framing**: Prominent warnings about testimonial limitations to prevent LLM over-weighting
+2. **Critical Testimonials Included**: Anonymous parent's nuanced critique preserved despite caveats
+3. **Distinction from Evidence**: Clear separation of satisfaction (testimonials) from verification (evidence)
+4. **Authenticity Over Positivity**: Raw quotes without synthesis or sanitization
+5. **Complete Attribution**: Every testimonial requires speaker, source, date
+
+### Content to be Implemented
+**Parent Testimonials (3)**:
+- Scott Jensen: Positive universal claim
+- Anonymous parent: Nuanced critical analysis (3x faster BUT marketing overstated, 30-70% applicability)
+- Niche reviews: Aggregated themes (empowerment, tailored curriculum)
+
+**Student Testimonials (2)**:
+- Elle Kristine: Traditional school stress comparison
+- Marshall: App feedback mechanism explanation
+
+**Recognition (1)**:
+- Austin Chronicle "Best of Austin" 2024
+
+### Quality Standards
+- ✅ All testimonials from research/outcomes.md included
+- ✅ Selection bias warnings in overview and context
+- ✅ Critical caveats preserved
+- ✅ No editorializing
+- ✅ Complete source attribution
+- ✅ Cross-references to related specs (015, 016, 018)
+
+### Challenges Addressed
+1. **Balance**: How to present testimonials without over-weighting? → Prominent selection bias warnings + link to evidence
+2. **Critical Voice**: Include anonymous parent's caveats? → Yes, authenticity over pure positivity
+3. **Synthesis vs. Raw**: Aggregate themes or preserve quotes? → Preserve individual testimonials for authenticity
+4. **Verification**: How to handle testimonial accuracy? → Rely on media source credibility, don't independently verify
+
+### Next Steps
+Spec 017 ready for implementation:
+1. Use `/implement_spec` or implement directly
+2. Create `reference/outcomes/testimonials.md`
+3. Follow implementation-guide.md step-by-step
+4. Verify against quality checklist
+
+After Spec 017 implementation, move to Spec 018: Outcomes Limitations (last spec in Outcomes Domain).
+
+### Learnings
+- Testimonial documentation requires careful framing to prevent LLM misinterpretation as empirical evidence
+- Selection bias warnings must be prominent and repeated (overview + context)
+- Critical testimonials strengthen credibility when properly contextualized
+- Authenticity (raw quotes) > synthesis (interpreted themes)
+
+### Files Created
+- ralph/specs/017-outcomes-testimonials/spec.md
+- ralph/specs/017-outcomes-testimonials/implementation-guide.md
+
+### Files Modified
+- ralph/roadmap.md
+- ralph/activity.log
+- ralph/progress.md
+
+---

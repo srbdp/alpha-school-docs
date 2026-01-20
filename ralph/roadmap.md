@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 016 Implemented)
+**Last Updated**: 2026-01-20 (Spec 017 Created)
 
 ---
 
@@ -98,7 +98,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 |------|--------|----------|--------------|-------------|--------|--------|
 | 015 | ✅ Complete | High | 001 | Claims - what Alpha claims (with appropriate caveats) | `reference/outcomes/claims.md` | Medium |
 | 016 | ✅ Complete | High | 015 | Evidence - supporting data from public sources | `reference/outcomes/evidence.md` | Medium |
-| 017 | 📋 Planned | Medium | 015 | Testimonials - public testimonials | `reference/outcomes/testimonials.md` | Small |
+| 017 | 📋 Planned (Spec Created) | Medium | 015 | Testimonials - public testimonials | `reference/outcomes/testimonials.md` | Small |
 | 018 | 📋 Planned | Medium | 015 | Limitations - what we don't yet know | `reference/outcomes/limitations.md` | Small |
 
 ### Enrollment Domain

@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 001g Complete - Phase 1 Research Complete)
+**Last Updated**: 2026-01-20 (Spec 002 Complete - Phase 2 Started)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 7 (21.9%) | **In Progress**: 0 (0%) | **Planned**: 25 (78.1%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 8 (25.0%) | **In Progress**: 0 (0%) | **Planned**: 24 (75.0%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -68,7 +68,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
-| 002 | 📋 Planned | Critical | 001 | Organization overview - what is Alpha School | `reference/organization/overview.md` | Small |
+| 002 | ✅ Complete | Critical | 001 | Organization overview - what is Alpha School | `reference/organization/overview.md` | Small |
 | 003 | 📋 Planned | High | 002 | Mission, vision, values | `reference/organization/mission.md` | Small |
 | 004 | 📋 Planned | High | 002 | Leadership - founders, key people (public only) | `reference/organization/leadership.md` | Small |
 | 005 | 📋 Planned | Medium | 002 | History - timeline, founding story, milestones | `reference/organization/history.md` | Small |

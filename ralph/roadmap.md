@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 022 Created)
+**Last Updated**: 2026-01-20 (Spec 022 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 27 (84%) | **In Progress**: 0 (0%) | **Planned**: 5 (16%) | **Estimated Effort**: ~12 hours
+**Total Specs**: 32 | **Completed**: 28 (88%) | **In Progress**: 0 (0%) | **Planned**: 4 (12%) | **Estimated Effort**: ~12 hours
 
 ---
 
@@ -113,7 +113,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 021 | ✅ Complete | High | 001 | Locations overview and campus details | `reference/locations/overview.md` | Small |
-| 022 | 🚧 In Progress | Medium | 021 | Expansion plans (announced) | `reference/locations/expansion.md` | Small |
+| 022 | ✅ Complete | Medium | 021 | Expansion plans (announced) | `reference/locations/expansion.md` | Small |
 
 ### Contact Domain
 

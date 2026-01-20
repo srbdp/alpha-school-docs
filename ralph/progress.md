@@ -2034,3 +2034,104 @@ ralph/progress.md                        UPDATED (this entry)
 **LLM Readability**: Optimized (API table, clear structure, concrete examples)
 
 *Progress entry added: 2026-01-20*
+
+---
+
+## 2026-01-20 - Spec 013: Curriculum Grade Levels
+
+**Implementation Status**: ✅ Complete
+
+### What Was Accomplished
+
+Implemented Spec 013: Curriculum Grade Levels reference documentation following the three-phase spec-driven process. Created comprehensive API-style documentation explaining Alpha School's PreK-12 capability-based level system, mastery-driven progression (90%+ accuracy requirement), and developmental stage differences between PreK-8 structured curriculum and high school self-directed learning.
+
+### Files Created
+- `reference/curriculum/grade-levels.md` (8,432 bytes)
+  - Complete API-style reference with all 9 template sections
+  - Properties table with 8 key grade level attributes
+  - 3 concrete examples (PreK workshop, K-8 mastery, high school self-direction)
+  - 5 FAQs addressing common questions
+  - 9 source citations with URLs and retrieval dates
+
+### Files Modified
+- `ralph/roadmap.md` - Updated Spec 013 status to Complete, updated totals (19/32 complete, 59.4%)
+- `ralph/activity.log` - Added detailed implementation entry
+- `ralph/progress.md` - This entry
+
+### Key Content Highlights
+
+**Grade Range & Variability**:
+- PreK-12 range with location-specific variations
+- Alpha Austin confirmed as preK-12 school
+- Documented variability and need for parents to verify at specific campus
+
+**Capability-Based Levels**:
+- Exact FAQ quote: "levels that are based on specific capabilities as opposed to traditional grade models"
+- Mastery-based progression (90%+ accuracy) vs. age-based advancement
+- Eliminates cumulative knowledge gaps through mastery requirements
+
+**Developmental Stages**:
+- PreK-8: Structured curriculum, prescribed workshops, guided progression
+- High School: Self-directed "super passion projects," dedicated mentorship, greater autonomy
+- Both maintain 2-hour academic block with AI-powered mastery instruction
+
+**Standards Alignment**:
+- Common Core curriculum K-8
+- Advanced Placement curriculum high school (AP Calculus, Statistics, English, Sciences)
+- 20-30 hours per grade level claim (vs. traditional 200 hours)
+
+**Concrete Examples**:
+- PreK: "Picnic Planners" and "LEGO Master Builder" workshops with foundational literacy/numeracy
+- K-8: 5th grader mastering fractions (90%+) advances to decimals while classmate continues multiplication support
+- High School: Teen dating chatbot project with Stanford/UT collaboration alongside AP coursework
+
+### Research Sources Used
+All facts sourced from `research/curriculum.md`:
+- Lines 130-152: Grade levels, capability-based system, developmental stages
+- Lines 286-293, 324-327: Standards alignment (Common Core, AP)
+- Lines 32-33, 43, 383-385: Mastery progression and efficiency claims
+- Lines 92-95, 113-116, 314: Workshop and project examples
+
+### Template Compliance
+✅ All 9 Functional Requirements implemented:
+- FR1.1: Header and Definition
+- FR1.2: Overview Section (3 paragraphs)
+- FR1.3: Properties Table (8 properties)
+- FR1.4: Details Section (3 subsections)
+- FR1.5: Examples Section (3 examples)
+- FR1.6: Related Links (6 cross-references)
+- FR1.7: FAQs Section (5 Q&As)
+- FR1.8: Sources Section (9 citations)
+- FR1.9: Document Footer (timestamps)
+
+### Quality Metrics
+- **Fact Traceability**: 100% of claims sourced from research/curriculum.md
+- **Template Compliance**: All required sections present and properly formatted
+- **Consistency**: Grade range, capability-based language, mastery thresholds consistent throughout
+- **Readability**: Concise paragraphs (2-4 sentences), active voice, concrete examples
+- **Cross-References**: 6 related documentation links for LLM navigation
+
+### Roadmap Progress
+- **Curriculum Domain**: 3/4 specs complete (75%)
+  - ✅ Spec 011: Curriculum Overview
+  - ✅ Spec 012: Subjects
+  - ✅ Spec 013: Grade Levels
+  - 📋 Spec 014: Assessments (next)
+
+- **Phase 2 Overall**: 13/22 specs complete (59.1%)
+
+- **Project Overall**: 19/32 specs complete (59.4%)
+
+### Next Steps
+- Spec 014: Assessments - How progress is measured
+- Continue Phase 2 reference documentation
+- Maintain momentum through Curriculum domain completion
+
+### Lessons Learned
+- Capability-based level system required careful explanation to distinguish from traditional age-based grades
+- Exact FAQ quote provides authoritative definition of level system
+- Developmental stage distinction (PreK-8 vs. high school) is critical for understanding program structure
+- Concrete examples (PreK workshop, K-8 mastery, high school project) effectively ground abstract concepts
+- Properties table enables structured LLM data extraction while narrative sections provide context
+
+*Entry added: 2026-01-20*

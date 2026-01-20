@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 013 Created)
+**Last Updated**: 2026-01-20 (Spec 013 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 18 (56.3%) | **In Progress**: 0 (0%) | **Planned**: 14 (43.8%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 19 (59.4%) | **In Progress**: 0 (0%) | **Planned**: 13 (40.6%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -89,7 +89,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 |------|--------|----------|--------------|-------------|--------|--------|
 | 011 | ✅ Complete | High | 006 | Curriculum overview and philosophy | `reference/curriculum/overview.md` | Small |
 | 012 | ✅ Complete | High | 011 | Subjects - what is taught | `reference/curriculum/subjects.md` | Small |
-| 013 | 📋 Planned | High | 011 | Grade levels - age ranges, grade structures | `reference/curriculum/grade-levels.md` | Small |
+| 013 | ✅ Complete | High | 011 | Grade levels - age ranges, grade structures | `reference/curriculum/grade-levels.md` | Small |
 | 014 | 📋 Planned | Medium | 011 | Assessments - how progress is measured | `reference/curriculum/assessments.md` | Small |
 
 ### Outcomes Domain

@@ -1645,3 +1645,175 @@ None
 - API-style template continues to work well for LLM optimization
 - Single-phase documentation workflow proven effective across Specs 002-005
 
+
+---
+
+## 2026-01-20 - Spec 006 Created
+
+**Timestamp**: 2026-01-20
+**Action**: Created Spec 006 - Educational Philosophy Reference Documentation
+**Type**: Spec Creation
+**Phase**: Phase 2 (Reference Documentation)
+
+### Summary
+Created comprehensive technical specification for Spec 006, which will produce the Educational Philosophy reference document. This is the first Model domain spec and fifth Phase 2 spec overall, focusing on Alpha School's core learning principles, pedagogical approach, and foundational beliefs.
+
+### Files Created
+- `ralph/specs/006-model-educational-philosophy/spec.md` - Complete technical specification with 16 Functional Requirements
+- `ralph/specs/006-model-educational-philosophy/checklist.md` - Implementation checklist with 59 tasks
+
+### Specification Details
+
+**Dependencies**: Spec 001b (Research Model Domain) - Complete ✅
+**Output**: `reference/model/educational-philosophy.md`
+**Priority**: Critical
+**Effort**: Small (~1 hour)
+
+### Functional Requirements Structure
+
+**FR1: Document Structure** (9 sub-requirements)
+- FR1.1: Header and definition (H1 + blockquote)
+- FR1.2: Overview section (2-3 paragraphs on learning science, commitments, mastery, experience)
+- FR1.3: Properties table (8 required properties)
+- FR1.4: Details section (5 subsections)
+- FR1.5: Examples section (3 concrete examples)
+- FR1.6: Related documentation links
+- FR1.7: FAQs section (5 Q&A pairs)
+- FR1.8: Sources section (citations with dates)
+- FR1.9: Footer metadata (last updated/verified)
+
+**FR2: Content Quality Standards** (4 sub-requirements)
+- FR2.1: Factual accuracy with source tracing
+- FR2.2: Claims vs. evidence distinction (attribution language)
+- FR2.3: Information gaps handling (note lack of peer-reviewed citations)
+- FR2.4: Neutral presentation of philosophy
+
+**FR3: LLM Optimization** (3 sub-requirements)
+- FR3.1: Hierarchical structure (H1→H2→H3)
+- FR3.2: Scannable tables (GFM markdown)
+- FR3.3: Example formatting (clear delimiters)
+
+### Implementation Approach
+
+**Single-Phase Workflow**: Documentation specs use a single-phase workflow (no Phase X.0 test foundation):
+- Phase 2.0: Write Documentation directly with verification through review
+- Following successful pattern from Specs 002-005
+
+**Execution Steps**:
+1. Read research/model.md lines 23-50 completely
+2. Create reference/model/ directory
+3. Create output file with skeleton
+4. Write section-by-section following FRs
+5. Quality check (FR2) and LLM optimization check (FR3)
+6. Update status tracking
+
+### Key Design Decisions
+
+1. **Single-Phase Documentation Workflow**: Following pattern from all Phase 2 specs (002-005), documentation doesn't require test foundation. Direct writing with review verification.
+
+2. **8 Properties Emphasizing Principles Over Implementation**: Properties table focuses on philosophical attributes (foundational_principles, core_commitments, pedagogical_approach, mastery_threshold, learning_efficiency_claim, student_experience_philosophy, instructional_model, time_philosophy). This keeps Spec 006 focused on "what Alpha believes" while leaving "how it's implemented" to Specs 007-010.
+
+3. **Five Details Subsections**: Foundational Learning Science, Three Core Commitments, Mastery-Based Philosophy, Traditional Education Critique, Student Experience Philosophy. This structure flows logically from foundations → commitments → approach → critique → experience.
+
+4. **Explicit Attribution of "40 Years of Learning Science" Claim**: research/model.md lines 32-37 cite learning science foundations but don't provide peer-reviewed references. FR2.2 requires distinguishing claims from verified facts. Document must note Alpha "describes" or "cites" these foundations while noting specific citations aren't provided.
+
+5. **Separate Philosophy from Technology Implementation**: Philosophy (Spec 006) covers "what Alpha believes about learning" while AI Integration (Spec 008) covers "how technology implements those beliefs." Prevents scope creep and creates clear documentation boundaries.
+
+### Content Coverage
+
+**Properties Table** (8 structured attributes):
+- `foundational_principles` (array): ["Bloom's 2 Sigma", "Zone of Proximal Development", "Cognitive Load Theory", "Active Learning Principles"]
+- `core_commitments` (array): ["Love school more than vacation", "Master academics in top 1% in 2 hours/day", "High standards, high support"]
+- `pedagogical_approach` (string): "Mastery-based personalized learning"
+- `mastery_threshold` (number): 90
+- `learning_efficiency_claim` (string): "Traditional six-hour classroom days inefficient, lecture retention as low as 5%"
+- `student_experience_philosophy` (string): "Kids should love school"
+- `instructional_model` (string): "AI-powered one-on-one instruction vs. traditional one-teacher-to-many"
+- `time_philosophy` (string): "Mastery-based vs. time-based system"
+
+**Details Subsections**:
+1. Foundational Learning Science: 40 years claim, Bloom's 2 Sigma, ZPD, cognitive load theory, active learning
+2. Three Core Commitments: Love school, master academics in 2 hours, high standards/support
+3. Mastery-Based Philosophy: 90%+ requirement, knowledge gap prevention, mastery over time
+4. Traditional Education Critique: Inefficiency claims, structural critique, time-based vs mastery
+5. Student Experience Philosophy: "Kids should love school" belief, satisfaction metrics, personalization
+
+**Examples** (3 concrete examples):
+1. Learning Science in Action: Bloom's 2 Sigma → AI one-on-one → 2.6x faster claim
+2. Mastery Threshold in Practice: Traditional 70% vs Alpha 90%, gap prevention
+3. Student Experience Example: 95% love school, 60% choose over vacation
+
+**FAQs** (5 questions):
+- What learning science foundations does Alpha's philosophy build on?
+- What are the "Three Core Commitments" to parents?
+- How does Alpha's mastery-based approach differ from traditional education?
+- Why does Alpha believe traditional classroom instruction is inefficient?
+- What does "kids should love school" mean in Alpha's philosophy?
+
+### Success Criteria
+
+**Automated Verification**:
+- File existence and valid markdown syntax
+- All required sections present (grep for section headings)
+- Properties table has 8 required properties
+- All sources include retrieval dates
+- Footer metadata present
+
+**Manual Verification**:
+- Clear one-sentence definition
+- 2-3 paragraph overview
+- All facts trace to research/model.md lines 23-50
+- Claims properly attributed (not stated as objective facts)
+- Information gaps noted (no peer-reviewed citations)
+- Neutral presentation (philosophy as Alpha's view, not universal truth)
+- 5 FAQs with authoritative answers
+- 3 examples with concrete applications
+- Professional LLM-optimized quality
+
+### Template Provided
+
+Spec includes complete output template showing exact markdown structure for `reference/model/educational-philosophy.md`, with all sections populated with realistic content.
+
+### Related Specifications
+
+**Input**: Spec 001b (Research Model Domain)
+**Cross-Reference**: Spec 002 (Organization Overview), Spec 003 (Mission/Vision/Values)
+**Siblings**: Spec 007 (Two-Hour Learning), Spec 008 (AI Integration), Spec 009 (Human Instruction), Spec 010 (Daily Schedule)
+**Consumers**: Spec 024 (Parent Guide), Spec 025 (Educator Guide)
+
+### Out of Scope
+
+- Two-Hour Learning Model details (Spec 007)
+- AI platform technical details (Spec 008)
+- Human guide roles (Spec 009)
+- Daily schedule (Spec 010)
+- Curriculum content (Specs 011-014)
+- Outcomes data (Specs 015-018)
+
+### Next Action
+
+**Implementation Ready**: Spec 006 is fully specified and ready for implementation. The next step is to use `/implement_spec 006` or follow the checklist to write the reference document.
+
+**Blockers**: None
+
+### Progress Tracking
+
+- **Total Specs**: 32
+- **Specs with Specs Written**: 12 (37.5%)
+- **Specs Implemented**: 11 (34.4%)
+- **Specs In Progress**: 1 (Spec 006 - spec created, implementation pending)
+- **Specs Planned**: 20 (62.5%)
+- **Phase 1**: 7/7 complete (100%) ✅
+- **Phase 2**: 4/22 implemented (18.2%), 1 spec created (Spec 006)
+
+### Notes
+
+- First Model domain spec created (initiating Phase 2 work beyond Organization domain)
+- Follows established pattern from Specs 002-005
+- Single-phase documentation workflow proven effective
+- Critical focus on attribution for unverified claims ("40 years of learning science", "5% lecture retention")
+- Neutral presentation essential: document Alpha's philosophy without advocacy or critique
+- Properties table emphasizes principles (what Alpha believes) over implementation (how it works)
+- Five-subsection Details structure provides comprehensive philosophical coverage
+- Ready for implementation following checklist tasks
+

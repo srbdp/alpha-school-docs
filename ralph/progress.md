@@ -942,3 +942,69 @@ Implement Spec 006: Educational Philosophy reference documentation
 ---
 
 *Last Updated: 2026-01-20*
+
+## 2026-01-20 (Later) - Spec 006 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 006 specification document (`ralph/specs/006-model-educational-philosophy/spec.md`)
+- Created Spec 006 implementation checklist (`ralph/specs/006-model-educational-philosophy/checklist.md`)
+- Updated roadmap.md: Spec 006 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 20 (62.5%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 006 focuses on Educational Philosophy reference documentation
+- First Model domain spec (following completion of all 4 Organization domain specs)
+- Dependencies: Spec 001b (Research Model Domain) - Complete ✅
+- Output: `reference/model/educational-philosophy.md`
+- Priority: Critical
+- Effort: Small (~1 hour)
+
+**Specification Structure**:
+- 16 Functional Requirements organized in 3 groups (FR1: Structure [9], FR2: Quality [4], FR3: LLM Optimization [3])
+- 59 implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output template provided with full example
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **Single-Phase Workflow**: Documentation specs use direct writing approach (following Specs 002-005)
+2. **8 Properties Emphasizing Principles**: Properties table focuses on philosophical attributes (foundational_principles, core_commitments, pedagogical_approach) rather than implementation details
+3. **Five Details Subsections**: Foundational Learning Science, Three Core Commitments, Mastery-Based Philosophy, Traditional Education Critique, Student Experience Philosophy
+4. **Explicit Attribution of "40 Years of Learning Science"**: Requires noting Alpha "cites" these foundations while documenting specific citations aren't provided in public materials
+5. **Separate Philosophy from Technology**: Philosophy (Spec 006) covers beliefs about learning; AI Integration (Spec 008) covers technology implementation
+
+**Content Coverage**:
+- **Properties table**: 8 structured attributes (foundational_principles, core_commitments, pedagogical_approach, mastery_threshold, learning_efficiency_claim, student_experience_philosophy, instructional_model, time_philosophy)
+- **Details**: 5 subsections covering learning science foundations through student experience
+- **Examples**: 3 concrete examples (Learning Science in Action, Mastery Threshold in Practice, Student Experience Example)
+- **FAQs**: 5 common questions with authoritative answers
+- **Sources**: Research/model.md lines 23-50 plus alpha.school citations
+
+**Critical Requirements**:
+- FR2.2: Distinguish Alpha School's claims from verified facts using attribution language
+- FR2.3: Note information gaps (no peer-reviewed citations for "40 years of learning science")
+- FR2.4: Neutral presentation - document Alpha's philosophy without advocacy or critique
+- FR3.1: Hierarchical structure (H1→H2→H3) for LLM parseability
+
+**Next Action**:
+Implement Spec 006 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/006-model-educational-philosophy/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 12 (37.5%)
+- Specs implemented: 11 (34.4%)
+- In Progress: 1 (Spec 006 - spec created, implementation pending)
+- Planned: 20 (62.5%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 4/22 implemented (18.2%), 1 spec created (Spec 006)
+- This is the first Model domain spec, initiating Phase 2 work beyond Organization domain
+
+---

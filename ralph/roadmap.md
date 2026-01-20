@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 006 Implemented)
+**Last Updated**: 2026-01-20 (Spec 007 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 12 (37.5%) | **In Progress**: 0 (0%) | **Planned**: 20 (62.5%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 13 (40.6%) | **In Progress**: 0 (0%) | **Planned**: 19 (59.4%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -78,7 +78,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 006 | ✅ Complete | Critical | 001 | Educational philosophy - core approach | `reference/model/educational-philosophy.md` | Small |
-| 007 | 📋 Planned | Critical | 006 | Two-hour learning model - detailed explanation | `reference/model/two-hour-learning.md` | Medium |
+| 007 | ✅ Complete | Critical | 006 | Two-hour learning model - detailed explanation | `reference/model/two-hour-learning.md` | Medium |
 | 008 | 📋 Planned | Critical | 006 | AI integration - how AI is used in learning | `reference/model/ai-integration.md` | Medium |
 | 009 | 📋 Planned | High | 006 | Human instruction - role of teachers/guides | `reference/model/human-instruction.md` | Small |
 | 010 | 📋 Planned | High | 007, 008, 009 | Daily schedule - what a day looks like | `reference/model/daily-schedule.md` | Small |

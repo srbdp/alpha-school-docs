@@ -1081,3 +1081,152 @@ Implement Spec 007: Two-Hour Learning Model reference documentation (depends on 
 
 *Last Updated: 2026-01-20*
 
+
+
+## 2026-01-20 (Later) - Spec 007 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 007 specification document (`ralph/specs/007-model-two-hour-learning/spec.md`)
+- Created Spec 007 implementation checklist (`ralph/specs/007-model-two-hour-learning/checklist.md`)
+- Updated roadmap.md: Spec 007 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 19 (59.4%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 007 focuses on Two-Hour Learning Model reference documentation
+- Fifth Phase 2 spec, first Model domain spec requiring implementation after Spec 006
+- Dependencies: Spec 001b (Complete ✅), Spec 006 (Complete ✅)
+- Output: `reference/model/two-hour-learning.md`
+- Priority: Critical
+- Effort: Medium (~2 hours)
+
+**Specification Structure**:
+- 9 Functional Requirements organized in 3 groups (FR1: Structure [9], FR2: Quality [4], FR3: LLM Optimization [3])
+- 16 total FRs (matching Spec 006 pattern for model domain specs)
+- 230+ implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output guidance with 9-property table structure
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **9 Properties Emphasizing Model Structure**: Properties focus on structural attributes (academic_duration, session_structure, subjects_covered) and efficiency claims (mastery_claim, learning_speed_claim) rather than philosophical foundations (Spec 006) or technology details (Spec 008). This keeps Spec 007 focused on "what the model is and how it's structured."
+2. **Five Details Subsections**: Morning Academic Block Structure, Subject Coverage and Organization, Mastery-Based Progression, Learning Efficiency Claims, Daily Schedule Context provide comprehensive model coverage without crossing into AI technical details or complete daily schedule.
+3. **Explicit Attribution of All Efficiency Claims**: Every learning speed claim ("twice as fast," "20-30 hours," "2.6x growth," "top 1%") requires attribution language ("Alpha School claims...", "According to Alpha materials...") because research/model.md lines 59-76 show all claims are self-reported without independent verification.
+4. **Daily Schedule Context Without Full Details**: Includes brief "Daily Schedule Context" subsection establishing morning academics fit within broader day structure (morning → lunch → afternoon), while deferring comprehensive schedule to Spec 010.
+5. **Separate Model Structure from Technology and Philosophy**: Two-Hour Learning Model (Spec 007) covers "how academic block is structured" while Educational Philosophy (Spec 006) covers "what Alpha believes" and AI Integration (Spec 008) covers "how technology delivers instruction."
+
+**Content Coverage**:
+- **Properties table**: 9 structured attributes (academic_duration, session_structure, subjects_covered, instructional_model, progression_standard, mastery_claim, efficiency_comparison, learning_speed_claim, afternoon_component)
+- **Details**: 5 subsections (Morning Academic Block Structure, Subject Coverage and Organization, Mastery-Based Progression, Learning Efficiency Claims, Daily Schedule Context)
+- **Examples**: 3 concrete examples (Typical Two-Hour Session with timestamps, Mastery Progression Example, Efficiency Comparison with attribution)
+- **FAQs**: 5 common questions with authoritative answers
+- **Sources**: Research/model.md lines 51-77, 142-178 plus alpha.school and 2hourlearning.com
+
+**Critical Attribution Requirements**:
+All learning speed/efficiency claims must be attributed:
+- "Learn twice as fast" - Self-reported, no independent verification (research/model.md line 60)
+- "20-30 hours per grade level" - Alpha's claim without peer-reviewed validation (line 61)
+- "2.6x growth on MAP tests" - Self-reported outcome data (line 66)
+- "Top 1% nationwide" - Alpha's characterization (line 60)
+- "Top two-thirds learning 3.6x faster" - Self-reported (line 67)
+- Student satisfaction percentages (95%, 60%) - Self-reported (lines 73-76)
+
+**Next Action**:
+Implement Spec 007 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/007-model-two-hour-learning/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 13 (40.6%)
+- Specs implemented: 12 (37.5%)
+- In Progress: 1 (Spec 007 - spec created, implementation pending)
+- Planned: 19 (59.4%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 5/22 implemented (22.7%), 1 spec created (Spec 007)
+- This is the second Model domain spec (following Spec 006 Educational Philosophy)
+
+---
+
+*Last Updated: 2026-01-20*
+
+
+## 2026-01-20 (Later) - Spec 007 Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 007: Two-Hour Learning Model Reference Documentation
+- Created `reference/model/two-hour-learning.md` (338 lines, structured API-style documentation)
+- Synthesized research from `research/model.md` lines 51-77 and 142-178 into concise, LLM-optimized reference format
+- Followed all 16 Functional Requirements (FR1-FR3)
+- Updated roadmap.md: Spec 007 marked complete, stats updated (13/32 complete, 40.6%)
+- Updated tracking files (activity.log, progress.md)
+
+**Key Details**:
+- Second Model domain spec implemented (following Spec 006 Educational Philosophy)
+- Used single-phase workflow (documentation specs don't require test foundation)
+- Followed API-style template from roadmap.md
+- Document structure: H1 + blockquote definition, Overview (3 paragraphs), Properties table (9 properties), Details (5 subsections), Examples (3), Related links (6), FAQs (5), Sources (5), Footer metadata
+
+**Document Sections Created**:
+- **Header**: One-sentence definition capturing Two-Hour Learning Model essence
+- **Overview**: 3-paragraph narrative on structure, efficiency claims (attributed), daily context
+- **Properties Table**: 9 structured attributes (academic_duration, session_structure, subjects_covered, instructional_model, progression_standard, mastery_claim, efficiency_comparison, learning_speed_claim, afternoon_component)
+- **Details**: 5 subsections
+  - Morning Academic Block Structure: Limitless Launch, Pomodoro blocks, guide monitoring
+  - Subject Coverage and Organization: Four core subjects, personalized sequencing
+  - Mastery-Based Progression: 90%+ requirement, AI gap identification, self-paced learning
+  - Learning Efficiency Claims: 20-30 hours claim, 2.6x MAP growth, top 1% ranking (all attributed with verification note)
+  - Daily Schedule Context: Morning academics → lunch → afternoon life skills
+- **Examples**: Typical session with timestamps, mastery progression scenario, efficiency comparison with attribution
+- **Related**: Links to 6 related specs (006, 008-011, 002)
+- **FAQs**: 5 Q&A pairs about model structure, subjects, efficiency claims
+- **Sources**: 5 citations with retrieval dates
+- **Footer**: Last updated/verified metadata
+
+**Content Quality (FR2)**:
+- All facts traced to research/model.md lines 51-77, 142-178 with proper source citations
+- **Critical Attribution**: Every efficiency claim properly attributed ("Alpha School claims...", "According to Alpha materials...", "self-reported")
+- "20-30 hours per grade level" attributed as Alpha's claim without independent verification
+- "2.6x growth on MAP tests" attributed as self-reported data
+- "Top 1% nationwide" attributed as Alpha's characterization
+- Explicit note added: "These learning speed and efficiency claims are self-reported by Alpha School without independent third-party verification or peer-reviewed validation"
+- Traditional education comparisons presented as Alpha's perspective with attribution
+- Neutral presentation maintained throughout
+
+**LLM Optimization (FR3)**:
+- Hierarchical structure: 23 headings in H1 → H2 → H3 for LLM parseability
+- Scannable properties table in GitHub Flavored Markdown with 9 key-value pairs
+- Examples with clear H3 delimiters and structured format (timestamps, bold labels)
+- Relative links to create documentation graph
+
+**Key Design Decisions**:
+1. **Comprehensive Attribution**: All learning speed, efficiency, and outcome claims explicitly attributed to Alpha School with verification status noted
+2. **Five-Part Details Structure**: Morning Block → Subject Coverage → Mastery Progression → Efficiency Claims → Daily Context for logical flow
+3. **Pomodoro Session Example**: Concrete timestamps (8:00-10:10) illustrating actual morning structure
+4. **Properties Emphasize Structure**: Focused on "what the model is" (duration, structure, subjects) vs. philosophy (Spec 006) or technology (Spec 008)
+5. **Daily Schedule Context Boundary**: Provided sufficient context while deferring complete daily details to Spec 010
+
+**Next Action**:
+Implement Spec 008: AI Integration reference documentation (depends on Spec 006)
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 13 (40.6%)
+- In Progress: 0 (0%)
+- Planned: 19 (59.4%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 6/22 implemented (27.3%)
+- Phase 3 progress: 0/3 guides (0%)
+
+---
+
+*Last Updated: 2026-01-20*

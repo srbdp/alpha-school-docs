@@ -15,7 +15,7 @@ Financial aid is available through Clarity (third-party software platform) which
 | Property | Type | Description | Example |
 |----------|------|-------------|---------|
 | tuition_range | string | Minimum and maximum annual tuition across all Alpha locations | "\$10,000 - \$75,000/year" |
-| location_pricing | object | Tuition amounts by specific campus location | {"san_francisco": "\$75,000", "austin": "\$40,000", "gt_school": "\$25,000", "brownsville": "\$10,000", "micro_schools": "~\$15,000"} |
+| location_pricing | object | Tuition amounts by specific campus location | `{"san_francisco": "$75,000", "austin": "$40,000", "gt_school": "$25,000", "brownsville": "$10,000", "micro_schools": "~$15,000"}` |
 | all_inclusive_model | boolean | Whether tuition covers all student activities and costs | true |
 | application_fee | string | Non-refundable fee required with application | "\$100 per student" |
 | enrollment_deposit | string | Deposit amount to secure enrollment spot (applies to tuition) | "\$1,000 per student" |

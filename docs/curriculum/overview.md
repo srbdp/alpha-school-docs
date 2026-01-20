@@ -20,7 +20,7 @@ Alpha School emphasizes 24 life skills organized across five core areas: Teamwor
 | core_subjects_duration | string | Daily time allocation for academic subjects | "2 hours (morning block with Pomodoro 25-minute sessions)" |
 | life_skills_count | number | Number of life skills emphasized across curriculum | 24 |
 | life_skills_duration | string | Daily time allocation for life skills workshops | "~4 hours (afternoon, screen-free, hands-on)" |
-| standards_alignment | object | Curriculum standards followed by grade level | {"K-8": "Common Core", "High School": "Advanced Placement"} |
+| standards_alignment | object | Curriculum standards followed by grade level | `{"K-8": "Common Core", "High School": "Advanced Placement"}` |
 | delivery_model | string | Instructional delivery approach | "AI-powered personalized instruction via third-party and proprietary platforms, curated by central 'Dash' system" |
 
 ## Details

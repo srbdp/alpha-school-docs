@@ -32,7 +32,6 @@ This guide is organized to align with how educators typically evaluate education
 
 ##  Educational Model & Philosophy
 
-<!-- Source: reference/model/educational-philosophy.md, two-hour-learning.md, ai-integration.md, human-instruction.md, daily-schedule.md -->
 
 ### Theoretical Foundations
 
@@ -120,7 +119,6 @@ The daily structure creates distinct learning modes with pedagogical intent:
 
 ## Curriculum Design & Implementation
 
-<!-- Source: reference/curriculum/overview.md, subjects.md, grade-levels.md, assessments.md -->
 
 ### Curriculum Philosophy and Design Principles
 
@@ -192,7 +190,6 @@ The AI system creates individualized learning pathways through several mechanism
 
 ## Outcomes, Evidence & Research
 
-<!-- Source: reference/outcomes/claims.md, evidence.md, testimonials.md, limitations.md (referenced as needed) -->
 
 ### Learning Outcome Claims with Methodology
 
@@ -263,7 +260,6 @@ From a research perspective, several important questions remain unanswered:
 
 ## Organizational Structure & Operations
 
-<!-- Source: reference/organization/overview.md, mission.md, leadership.md, history.md, locations/overview.md, enrollment/process.md -->
 
 ### Organizational Mission and Founding Story
 

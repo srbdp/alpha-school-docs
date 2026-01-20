@@ -16,7 +16,7 @@ Alpha School also operates specialty programs under its umbrella, including Texa
 |----------|------|-------------|---------|
 | confirmed_fall_2026_openings | array | Campuses with announced Fall 2026 opening dates | ["The Woodlands, TX", "Dorado, Puerto Rico", "Palo Alto, CA", "Santa Monica, CA", "Chicago, IL"] |
 | exploratory_targets | array | Cities/regions under exploration without confirmed dates | ["Aspen, CO", "Houston, TX", "Orlando, FL", "Phoenix, AZ", "East Bay, CA"] |
-| strategic_partnerships | object | Key partnerships driving expansion | { "Guidepost Montessori": "July 2025", "Higher Ground Education": "July 2025" } |
+| strategic_partnerships | object | Key partnerships driving expansion | `{"Guidepost Montessori": "July 2025", "Higher Ground Education": "July 2025"}` |
 | texas_sports_academy_locations | number | Sport-specific campus openings (Jan + Fall 2026) | 4 |
 | timeline_acceleration | string | Growth timeline improvement through partnerships | "~2 years faster" |
 | expansion_mechanism | array | Methods for entering new markets | ["partnerships", "acquisitions", "organic_development"] |

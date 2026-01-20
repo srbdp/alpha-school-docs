@@ -6,7 +6,7 @@
 
 Alpha School was founded in 2014 by MacKenzie Price as "Emergent Academy" after her daughters expressed that school was boring. Frustrated when told that changing the education system was "like trying to steer the Titanic," Price partnered with Brian Holtz, an Acton Academy parent, and started a school in Holtz's house with 16 kids. The early model branched from Acton Academy's microschool approach, using adaptive learning apps (Khan Academy, ALEKS, Math Academy) for personalized morning academics paired with afternoon activities like "neighborhood lemonade stand wars."
 
-The school's trajectory changed dramatically in 2022 when Joe Liemandt invested approximately $1 billion following the emergence of generative AI. This investment funded development of proprietary AI platforms including Timeback (personalized learning), Incept (custom LLM for curriculum generation), and vision monitoring technology. The first formal campus opened in 2016, and by 2025 Alpha School operated 17+ campuses across 8 states with widely varying tuition ($10,000 in Brownsville, TX to $75,000 in San Francisco, CA).
+The school's trajectory changed dramatically in 2022 when Joe Liemandt invested approximately \$1 billion following the emergence of generative AI. This investment funded development of proprietary AI platforms including Timeback (personalized learning), Incept (custom LLM for curriculum generation), and vision monitoring technology. The first formal campus opened in 2016, and by 2025 Alpha School operated 17+ campuses across 8 states with widely varying tuition (\$10,000 in Brownsville, TX to \$75,000 in San Francisco, CA).
 
 In 2025, Alpha School graduated its first senior class (11 of 12 students attended four-year universities) and expanded aggressively with new campuses while pursuing public charter school partnerships. Charter applications to Pennsylvania, Texas, Utah, Arkansas, and North Carolina were all rejected, with Pennsylvania's Department of Education citing the AI model as "untested." Only Arizona approved a partnership. Despite regulatory challenges, Alpha continues expanding with announced Fall 2026 openings in The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, and Chicago IL.
 
@@ -45,7 +45,7 @@ The first formal campus opened in 2016, transitioning the school from a house-ba
 
 ### AI Investment & Platform Development (2022)
 
-Following the emergence of generative AI in late 2021 and 2022, Joe Liemandt invested approximately $1 billion to develop proprietary AI-powered learning platforms for Alpha School. This investment represented a fundamental shift from using off-the-shelf adaptive learning tools to building custom AI systems specifically designed for Alpha's educational philosophy.
+Following the emergence of generative AI in late 2021 and 2022, Joe Liemandt invested approximately \$1 billion to develop proprietary AI-powered learning platforms for Alpha School. This investment represented a fundamental shift from using off-the-shelf adaptive learning tools to building custom AI systems specifically designed for Alpha's educational philosophy.
 
 Key platforms developed during this period include:
 
@@ -69,7 +69,7 @@ The platforms integrate with existing tools from IXL, Khan Academy, Trilogy Soft
 - First formal campus established, transitioning from house-based to dedicated facility
 
 **2022:**
-- Joe Liemandt invested approximately $1 billion following generative AI emergence
+- Joe Liemandt invested approximately \$1 billion following generative AI emergence
 - Development of Timeback personalized learning platform began
 - Development of Incept curriculum generation LLM began
 - Vision monitoring technology development initiated
@@ -78,7 +78,7 @@ The platforms integrate with existing tools from IXL, Khan Academy, Trilogy Soft
 - First class of seniors graduated (11 of 12 graduates went to four-year universities)
 - Alpha High opened year-round operations at students' request
 - New campus launches: Alpha Raleigh NC (Fall 2025, K-3), Alpha Anywhere Center NYC (Fall 2025, K-8), Santa Barbara CA, Chantilly VA, Charlotte NC
-- San Francisco campus opened as city's most expensive private school at $75,000/year
+- San Francisco campus opened as city's most expensive private school at \$75,000/year
 - Charter school applications submitted to multiple states (5 rejected, 1 approved)
 
 ### Charter School Initiatives (2025)
@@ -109,11 +109,11 @@ The New York Times (July 2025) framed Alpha as a national model for AI in educat
 Alpha School's 2025 expansion strategy demonstrates geographic and economic diversity, serving vastly different markets with the same AI-powered educational model:
 
 **Diverse Tuition Range:**
-- **Brownsville, TX**: $10,000/year (lowest tuition, serving South Texas border community)
-- **Austin, TX**: $40,000/year (flagship campus)
-- **San Francisco, CA**: $75,000/year (highest tuition, most expensive private school in San Francisco)
+- **Brownsville, TX**: \$10,000/year (lowest tuition, serving South Texas border community)
+- **Austin, TX**: \$40,000/year (flagship campus)
+- **San Francisco, CA**: \$75,000/year (highest tuition, most expensive private school in San Francisco)
 
-This tuition range ($10,000 to $75,000) reflects Alpha's stated goal of eventually reaching a billion kids with a $1,000 tablet within 20 years. The simultaneous operation of high-cost urban campuses and lower-cost regional campuses suggests a strategy of using revenue from affluent markets to subsidize expansion into more accessible markets.
+This tuition range (\$10,000 to \$75,000) reflects Alpha's stated goal of eventually reaching a billion kids with a \$1,000 tablet within 20 years. The simultaneous operation of high-cost urban campuses and lower-cost regional campuses suggests a strategy of using revenue from affluent markets to subsidize expansion into more accessible markets.
 
 **New Campus Launches (2025):**
 Alpha Raleigh NC (K-3), Alpha Anywhere Center NYC (K-8), Santa Barbara CA, Chantilly VA, Charlotte NC, plus campuses across AZ, FL, and additional TX locations.
@@ -143,25 +143,25 @@ The expansion pattern suggests Alpha is testing its model across diverse demogra
 
 **2016 Progression**: First formal campus opened, establishing Alpha as an independent school rather than a house-based microschool.
 
-**2022 Turning Point**: Joe Liemandt invested approximately $1 billion following the emergence of generative AI, funding development of proprietary platforms.
+**2022 Turning Point**: Joe Liemandt invested approximately \$1 billion following the emergence of generative AI, funding development of proprietary platforms.
 
 **2022-2025 Development**: Custom AI infrastructure built including Timeback (personalized learning platform), Incept (curriculum generation LLM), and vision monitoring (engagement tracking). Integration with IXL, Khan Academy, Trilogy Software, and in-house engineering.
 
-**2025 Current State**: 17+ campuses across 8 states, proprietary AI platform replacing off-the-shelf tools, first graduating senior class (11 of 12 students to four-year universities), campus sizes of 155+ students, tuition ranging from $10,000 to $75,000 depending on location.
+**2025 Current State**: 17+ campuses across 8 states, proprietary AI platform replacing off-the-shelf tools, first graduating senior class (11 of 12 students to four-year universities), campus sizes of 155+ students, tuition ranging from \$10,000 to \$75,000 depending on location.
 
 **Transformation**: From a microschool testing adaptive software to an AI-first education company with billion-dollar platform investment and national expansion ambitions.
 
 ### Example 3: Expansion Strategy - Geographic and Economic Diversity
 
-**Low-Cost Market**: Brownsville, TX campus charges $10,000/year tuition, targeting South Texas border community and demonstrating Alpha's model can operate at lower price points.
+**Low-Cost Market**: Brownsville, TX campus charges \$10,000/year tuition, targeting South Texas border community and demonstrating Alpha's model can operate at lower price points.
 
-**High-Cost Market**: San Francisco, CA campus charges $75,000/year, the most expensive private school in San Francisco, serving affluent families willing to pay premium pricing for AI-powered education.
+**High-Cost Market**: San Francisco, CA campus charges \$75,000/year, the most expensive private school in San Francisco, serving affluent families willing to pay premium pricing for AI-powered education.
 
-**Flagship Campus**: Austin, TX at $40,000/year serves as the original home base with mid-tier pricing.
+**Flagship Campus**: Austin, TX at \$40,000/year serves as the original home base with mid-tier pricing.
 
 **Geographic Diversity**: Simultaneous expansion across 8 states (AZ, CA, FL, NC, NY, TX, VA) plus announced Puerto Rico campus, testing model across diverse demographics, regulatory environments, and economic conditions.
 
-**Strategic Rationale**: This multi-tiered pricing and geographic strategy appears designed to validate the educational model across market segments while building toward Alpha's long-term vision of a $1,000 tablet reaching a billion kids within 20 years. High-cost campuses may subsidize development and expansion into more accessible markets.
+**Strategic Rationale**: This multi-tiered pricing and geographic strategy appears designed to validate the educational model across market segments while building toward Alpha's long-term vision of a \$1,000 tablet reaching a billion kids within 20 years. High-cost campuses may subsidize development and expansion into more accessible markets.
 
 **Regulatory Navigation**: Charter applications submitted to 6 states (5 rejected, 1 approved), suggesting Alpha is pursuing both private school expansion and public charter partnerships to accelerate growth and demonstrate model viability in regulated public education settings.
 
@@ -188,7 +188,7 @@ A: The school was originally called "Emergent Academy" when founded in 2014. It 
 A: Alpha School started in 2014 in Brian Holtz's house with 16 kids, including MacKenzie Price's two daughters. The school used adaptive learning apps (Khan Academy, ALEKS, Math Academy, Newsela, DreamBox) for personalized, self-paced morning academics, with afternoons dedicated to activities like "neighborhood lemonade stand wars" and "Hero's Journey performances."
 
 **Q: What was the major AI investment in Alpha School?**
-A: In 2022, following the emergence of generative AI, Joe Liemandt invested approximately $1 billion to develop AI-powered learning platforms. This investment funded development of Timeback (personalized learning platform), Incept (custom LLM for curriculum generation), and vision monitoring technology.
+A: In 2022, following the emergence of generative AI, Joe Liemandt invested approximately \$1 billion to develop AI-powered learning platforms. This investment funded development of Timeback (personalized learning platform), Incept (custom LLM for curriculum generation), and vision monitoring technology.
 
 **Q: What happened with Alpha School's charter school applications?**
 A: In 2025, Alpha School (through related 2 Hour Learning initiative) applied to open public-school charter networks in multiple states. Pennsylvania, Texas, Utah, Arkansas, and North Carolina all rejected the applications. Pennsylvania's Department of Education specifically cited the AI model as "untested" and failing to demonstrate alignment with state academic standards. Only Arizona agreed to partner with Alpha.

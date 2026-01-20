@@ -1,5 +1,5 @@
 ---
-title: "Alpha School: Media Briefing"
+title: "Media Briefing"
 description: "Background and context for journalists covering Alpha School's AI-powered education model"
 ---
 
@@ -12,9 +12,9 @@ description: "Background and context for journalists covering Alpha School's AI-
 - **What it is**: Alpha School is a private school network combining AI-powered academics with life skills training, claiming students can master traditional K-12 curricula in two hours daily versus six hours in conventional schools
 - **Founded**: 2014 by MacKenzie Price (Stanford psychology graduate); formal campus operations began 2016
 - **Scale**: 17 campuses across 8 states (TX, CA, FL, NC, AZ, NY, VA) as of January 2026; serves PreK-12 students
-- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~$1 billion invested since 2022); MacKenzie Price (Co-Founder); Andrew Price (CFO/Co-Founder)
-- **Tuition**: $10,000-$75,000 annually depending on location
-- **Core Innovation**: AI-driven mastery-based learning platform (not chatbot-style AI) combined with high-touch human mentorship (5:1 student-guide ratio, $100,000+ guide salaries)
+- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~\$1 billion invested since 2022); MacKenzie Price (Co-Founder); Andrew Price (CFO/Co-Founder)
+- **Tuition**: \$10,000-\$75,000 annually depending on location
+- **Core Innovation**: AI-driven mastery-based learning platform (not chatbot-style AI) combined with high-touch human mentorship (5:1 student-guide ratio, \$100,000+ guide salaries)
 - **Key Differentiator**: "No homework, no traditional grades" model with 90%+ mastery requirement before advancement; afternoons focused on entrepreneurship, leadership, public speaking, financial literacy
 - **Notable Claims**: 2.6x faster learning growth on standardized tests, 92% of first graduating class (12 students) enrolled in four-year universities including Stanford and Vanderbilt
 - **Critical Caveat**: All academic outcome claims are self-reported without independent verification or peer-reviewed research
@@ -29,7 +29,7 @@ Alpha School originated in 2014 when MacKenzie Price, a Stanford psychology grad
 
 The organization formally established its first campus in 2016 at 1201 Spyglass Drive in Austin, Texas (Barton Hills neighborhood). The campus now serves over 150 students in PreK-5 and holds Cognia accreditation, making it the only Alpha location with confirmed accreditation status in public materials.
 
-In 2022, tech entrepreneur Joe Liemandt became Alpha's principal investor and chairman, committing approximately $1 billion to develop the school's AI platform after his own daughters demonstrated preference for school over vacation. Liemandt, who made the Forbes 400 at age 27 after founding Trilogy Software (and later ESW Capital), brought substantial capital, technology infrastructure, and business acumen to scale the model nationally.
+In 2022, tech entrepreneur Joe Liemandt became Alpha's principal investor and chairman, committing approximately \$1 billion to develop the school's AI platform after his own daughters demonstrated preference for school over vacation. Liemandt, who made the Forbes 400 at age 27 after founding Trilogy Software (and later ESW Capital), brought substantial capital, technology infrastructure, and business acumen to scale the model nationally.
 
 As of January 2026, Alpha operates 17 campuses across eight states with announced expansion plans for Fall 2026 targeting five additional locations (The Woodlands TX, Dorado Puerto Rico, Palo Alto CA, Santa Monica CA, Chicago IL). The organization also runs specialty programs including Texas Sports Academy (sport-specific schools combining academics with elite athletic training) and operates under the legal name Legacy of Education, Inc.
 
@@ -41,14 +41,14 @@ According to Alpha School materials, the organization's mission centers on three
 2. **Develop Essential Life Skills**: Use time freed by academic efficiency to teach practical skills (entrepreneurship, financial literacy, public speaking, teamwork, leadership) through real-world projects
 3. **Restore Love of Learning**: Create an environment where students genuinely enjoy school, targeting "95% love school" and "60% prefer school to vacation" metrics
 
-Alpha School founder MacKenzie Price has stated the vision is to reach "a billion kids within 20 years" through a sub-$1,000 tablet delivering the learning platform globally. This suggests ambitions beyond the current high-tuition private school model toward a technology platform accessible at scale.
+Alpha School founder MacKenzie Price has stated the vision is to reach "a billion kids within 20 years" through a sub-\$1,000 tablet delivering the learning platform globally. This suggests ambitions beyond the current high-tuition private school model toward a technology platform accessible at scale.
 
 ### Leadership and Governance
 
 **Joe Liemandt** - Principal Investor and Chairman
 - Forbes 400 at age 27 (1996); Stanford dropout who founded Trilogy Software
 - Trilogy acquired by ESW Capital (Liemandt-owned holding company)
-- Invested approximately $1 billion in Alpha School since 2022
+- Invested approximately \$1 billion in Alpha School since 2022
 - Owns the proprietary learning platforms (Timeback, Dash, Incept) used across all campuses
 - Public statements describe Alpha as "the best-performing academic school in the U.S."
 
@@ -68,13 +68,13 @@ Alpha School founder MacKenzie Price has stated the vision is to reach "a billio
 Alpha School operates as a for-profit private school network financed through tuition revenue and investor capital. The organization does not publicly disclose total revenue, profitability status, or detailed financial statements.
 
 **Revenue Sources**:
-- Tuition ranging $10,000-$75,000 annually per student depending on location (San Francisco $75,000, Austin $40,000, Brownsville $10,000)
+- Tuition ranging \$10,000-\$75,000 annually per student depending on location (San Francisco \$75,000, Austin \$40,000, Brownsville \$10,000)
 - 17 operating campuses with enrollment figures not publicly disclosed (Austin flagship confirmed at 150+ students)
 - Financial aid available via third-party Clarity software, though assistance not guaranteed to all applicants
-- School vouchers accepted in eligible states (~$12,000 typical value), enabling strategic cost reduction
+- School vouchers accepted in eligible states (~\$12,000 typical value), enabling strategic cost reduction
 
 **Capital Investment**:
-- Joe Liemandt reported to have invested approximately $1 billion since 2022 primarily for AI platform development
+- Joe Liemandt reported to have invested approximately \$1 billion since 2022 primarily for AI platform development
 - Platform ownership resides with Trilogy Software/ESW Capital, not Alpha School itself
 - This structure suggests technology licensing or platform fees may represent significant operational costs
 
@@ -140,7 +140,7 @@ The distinction matters for accuracy: Alpha's system is adaptive courseware with
 Alpha School replaces traditional teachers with "guides" who provide zero academic instruction. Their entire function is motivation, mentorship, and emotional support rather than content delivery.
 
 **Guide Characteristics**:
-- **Compensation**: Minimum $100,000 annual salary (approximately double the U.S. median teacher salary of ~$50,000)
+- **Compensation**: Minimum \$100,000 annual salary (approximately double the U.S. median teacher salary of ~\$50,000)
 - **Ratio**: 5:1 students per guide (versus 15-30:1 in most schools)
 - **Qualifications**: No teaching certification required; emphasis on emotional intelligence, coaching ability, and belief in the model
 - **Academic Instruction**: Zero traditional teaching; platform delivers all content
@@ -179,8 +179,8 @@ All Alpha School campuses follow a standardized daily structure:
 
 **Documented Real-World Projects**:
 - Fifth graders running profitable Airbnb operations
-- Fifth/sixth graders operating food trucks generating $4,000+ profit
-- Second graders building businesses raising $5,000 for charity
+- Fifth/sixth graders operating food trucks generating \$4,000+ profit
+- Second graders building businesses raising \$5,000 for charity
 - Students completing Spartan races, attending Formula 1 events, traveling to Poland (all included in tuition)
 
 ---
@@ -310,7 +310,7 @@ Alpha School reports substantial academic achievement results, all based on inte
 - One second-grade math class improved from 31st to 84th percentile in one year
 - First cohort "caught up to national average within nine months"
 - Achieved "approximately 2x national average learning velocity"
-- Significant because Brownsville charges $10,000 annually (versus $40,000-$75,000 elsewhere), serving a different demographic than wealthy suburbs
+- Significant because Brownsville charges \$10,000 annually (versus \$40,000-\$75,000 elsewhere), serving a different demographic than wealthy suburbs
 
 ### Available Evidence and Data Sources
 
@@ -364,7 +364,7 @@ Alpha has not conducted randomized controlled trials or matched comparison studi
 
 **Selection Bias**:
 Multiple factors indicate non-representative student population:
-- Tuition of $40,000-$75,000 at most campuses pre-selects affluent families
+- Tuition of \$40,000-\$75,000 at most campuses pre-selects affluent families
 - Some sources reference admission requiring "top 10th percentile" or "top 3% IQ test" scores
 - Families choosing an experimental school differ systematically from general population
 - MacKenzie Price acknowledges "willing-to-innovate parents may inherently support children's success beyond socioeconomic factors alone"
@@ -416,7 +416,7 @@ Alpha School uses a three-step enrollment pathway designed to assess fit before 
 
 **Step 2: Submit Application**
 - Online application form
-- $100 non-refundable application fee per student
+- \$100 non-refundable application fee per student
 - Serves as initial commitment and screening
 - Recommended preliminary step: complete "Is Alpha a Fit?" assessment at match.app.alpha.school
 
@@ -429,7 +429,7 @@ Alpha School uses a three-step enrollment pathway designed to assess fit before 
 
 **Enrollment Finalization**:
 - Enrollment forms and tuition agreement
-- $1,000 enrollment deposit per student (applies toward tuition)
+- \$1,000 enrollment deposit per student (applies toward tuition)
 - Required documentation: immunization records, school transcripts (grades 2-8), emergency contacts, liability waivers, photo/video consent
 - Post-enrollment: connection with Dean of Parents and ParentSquare communication platform
 
@@ -443,29 +443,29 @@ Alpha School uses a three-step enrollment pathway designed to assess fit before 
 
 ### Tuition Costs and Financial Aid
 
-**Tuition Range**: $10,000-$75,000 annually depending on campus location
+**Tuition Range**: \$10,000-\$75,000 annually depending on campus location
 
 **Location-Specific Pricing**:
-- San Francisco, CA: $75,000/year (described as "most expensive private school in the city")
-- New York City, NY: $65,000/year
-- Chantilly, VA (DC area): $65,000/year
-- Lake Forest, CA: $50,000/year
-- Miami, FL: $50,000/year
-- Santa Barbara, CA: $50,000/year
-- Plano, TX: $50,000/year
-- Charlotte, NC: $45,000/year
-- Raleigh, NC: $45,000/year
-- Austin, TX: $40,000/year (flagship campus)
-- Fort Worth, TX: $40,000/year
-- Tampa, FL: $40,000/year
-- Scottsdale, AZ: $40,000/year
-- GT School: $25,000/year
-- Texas Sports Academy: $15,000/year (sport-specific campuses)
-- Brownsville, TX: $10,000/year (lowest-cost location)
+- San Francisco, CA: \$75,000/year (described as "most expensive private school in the city")
+- New York City, NY: \$65,000/year
+- Chantilly, VA (DC area): \$65,000/year
+- Lake Forest, CA: \$50,000/year
+- Miami, FL: \$50,000/year
+- Santa Barbara, CA: \$50,000/year
+- Plano, TX: \$50,000/year
+- Charlotte, NC: \$45,000/year
+- Raleigh, NC: \$45,000/year
+- Austin, TX: \$40,000/year (flagship campus)
+- Fort Worth, TX: \$40,000/year
+- Tampa, FL: \$40,000/year
+- Scottsdale, AZ: \$40,000/year
+- GT School: \$25,000/year
+- Texas Sports Academy: \$15,000/year (sport-specific campuses)
+- Brownsville, TX: \$10,000/year (lowest-cost location)
 
 **Enrollment Fees**:
-- $100 application fee per student (non-refundable)
-- $1,000 enrollment deposit per student (applies toward tuition)
+- \$100 application fee per student (non-refundable)
+- \$1,000 enrollment deposit per student (applies toward tuition)
 
 **All-Inclusive Model**:
 Tuition covers all student activities including field trips (Formula 1 events, international travel documented), supplies, enrichment, afternoon workshops, sports, arts, technology, and MAP assessments. Alpha explicitly states "never EVER ask for additional fundraising" — distinguishing from traditional private schools with add-on fees, supply lists, activity charges, and annual giving campaigns.
@@ -481,9 +481,9 @@ Tuition covers all student activities including field trips (Formula 1 events, i
 
 **School Vouchers**:
 - Accepted in eligible states with school choice programs
-- Typical voucher value approximately $12,000/year (varies by state, grade, student circumstances)
+- Typical voucher value approximately \$12,000/year (varies by state, grade, student circumstances)
 - Examples: Texas Education Savings Accounts, Florida voucher programs, Arizona ESAs
-- Strategy example: $15,000 Texas Sports Academy tuition - $12,000 voucher = $3,000 family cost (~$300-400/month), representing 80% cost reduction
+- Strategy example: \$15,000 Texas Sports Academy tuition - \$12,000 voucher = \$3,000 family cost (~\$300-400/month), representing 80% cost reduction
 
 **Sibling Discount**:
 - 5% tuition reduction for second child and all subsequent children
@@ -514,8 +514,8 @@ Tuition covers all student activities including field trips (Formula 1 events, i
 **Headquarters**: Austin, Texas (1201 Spyglass Dr)
 
 **Fall 2026 Announced Openings**:
-- The Woodlands, TX ($40,000 tuition)
-- Dorado, Puerto Rico ($50,000)
+- The Woodlands, TX (\$40,000 tuition)
+- Dorado, Puerto Rico (\$50,000)
 - Palo Alto, CA (tuition TBD)
 - Santa Monica, CA (tuition TBD)
 - Chicago, IL (tuition TBD)
@@ -530,11 +530,11 @@ July 2025 strategic partnership with Guidepost Montessori accelerated growth by 
 ### Accessibility and Equity Considerations
 
 **Socioeconomic Access**:
-- Tuition of $40,000-$75,000 at most campuses restricts access to affluent families
-- Median U.S. household income ~$75,000; Alpha tuition represents 50-100% of median household income at most locations
+- Tuition of \$40,000-\$75,000 at most campuses restricts access to affluent families
+- Median U.S. household income ~\$75,000; Alpha tuition represents 50-100% of median household income at most locations
 - Financial aid available but not guaranteed; assistance rates and award amounts not disclosed
-- Brownsville campus ($10,000) and Texas Sports Academy ($15,000) represent lower-cost entry points
-- School vouchers (~$12,000) can significantly reduce costs in eligible states but require navigating state application systems
+- Brownsville campus (\$10,000) and Texas Sports Academy (\$15,000) represent lower-cost entry points
+- School vouchers (~\$12,000) can significantly reduce costs in eligible states but require navigating state application systems
 
 **Geographic Access**:
 - 17 campuses concentrated in high-income metropolitan areas and affluent suburbs (Scottsdale, Palo Alto, Santa Monica planned)

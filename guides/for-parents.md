@@ -1,5 +1,5 @@
 ---
-title: "Alpha School: A Parent's Guide"
+title: "Parent's Guide"
 description: "A comprehensive guide about Alpha School for parents researching educational options"
 ---
 
@@ -13,7 +13,7 @@ Alpha School (formally Legacy of Education, Inc.) is a private school network fo
 
 The school is built on a bold premise: that children can master a full day's worth of academics in just two hours using AI-powered personalized learning, freeing up the rest of the day for hands-on life skills, entrepreneurship, outdoor play, and pursuing personal passions. Alpha claims students not only learn faster but actually love school more than vacation—with 95% of students reporting they love school and 60% saying they'd choose school over vacation.
 
-This model is backed by substantial investment from Joe Liemandt, a tech entrepreneur who made the Forbes 400 by age 27 and has invested approximately $1 billion to develop Alpha's AI platform after his own daughters preferred school to vacation.
+This model is backed by substantial investment from Joe Liemandt, a tech entrepreneur who made the Forbes 400 by age 27 and has invested approximately \$1 billion to develop Alpha's AI platform after his own daughters preferred school to vacation.
 
 ## The Educational Model: What Makes Alpha Different
 
@@ -44,7 +44,7 @@ An independent parent reviewer noted the platform contains "zero generative AI" 
 
 Alpha doesn't have traditional teachers. Instead, "guides" provide zero academic instruction—their entire role is motivation, mentorship, and emotional support. Here's what that looks like:
 
-- **Compensation:** $100,000+ annually (roughly double average teacher pay)
+- **Compensation:** \$100,000+ annually (roughly double average teacher pay)
 - **Ratio:** 5:1 students per guide (versus 15-30:1 in most schools)
 - **Responsibilities:** Monitor progress, encourage persistence, facilitate afternoon workshops, help students discover passions, maintain high standards while offering support
 - **One-on-one time:** Each student receives 30 minutes weekly with their guide
@@ -95,8 +95,8 @@ Alpha explicitly teaches 24 life skills organized into five areas:
 
 These aren't abstract concepts. Real examples from Alpha campuses include:
 - Fifth graders running profitable Airbnb operations
-- Fifth/sixth graders operating food trucks generating $4,000+ profit
-- Second graders building businesses that raise $5,000 for charity
+- Fifth/sixth graders operating food trucks generating \$4,000+ profit
+- Second graders building businesses that raise \$5,000 for charity
 - Students completing Spartan races, traveling to Poland, attending Formula 1 events (all included in tuition)
 
 The emphasis on practical skills, outdoor challenges, and real-world projects distinguishes Alpha from both traditional schools and typical test-prep-focused alternative schools.
@@ -123,7 +123,7 @@ Alpha's inaugural graduating class of 2025 had 12 students:
 
 ### Evidence from Brownsville
 
-Perhaps most interesting is Alpha's Brownsville, Texas campus, which charges just $10,000 annually (versus $40,000-$75,000 elsewhere) and serves a different demographic. Results there suggest the model works beyond "rich-kid selection effects":
+Perhaps most interesting is Alpha's Brownsville, Texas campus, which charges just \$10,000 annually (versus \$40,000-\$75,000 elsewhere) and serves a different demographic. Results there suggest the model works beyond "rich-kid selection effects":
 - One second-grade math class improved from 31st to 84th percentile in one year
 - First cohort caught up to national average within nine months
 - Achieved approximately 2x national average learning velocity
@@ -134,7 +134,7 @@ Perhaps most interesting is Alpha's Brownsville, Texas campus, which charges jus
 
 **Small sample sizes:** The graduating class had only 12 students. Some cited cohorts completing MAP tests included just 5 students.
 
-**Selection bias:** High tuition ($40,000-$75,000 at most campuses) pre-selects affluent families. Some sources suggest admission requires scoring in the "top tenth percentile" or "top 3% on IQ tests." Families who choose Alpha differ systematically from the general population, and as MacKenzie Price acknowledges, "willing-to-innovate parents may inherently support children's success beyond socioeconomic factors alone."
+**Selection bias:** High tuition (\$40,000-\$75,000 at most campuses) pre-selects affluent families. Some sources suggest admission requires scoring in the "top tenth percentile" or "top 3% on IQ tests." Families who choose Alpha differ systematically from the general population, and as MacKenzie Price acknowledges, "willing-to-innovate parents may inherently support children's success beyond socioeconomic factors alone."
 
 **Limited track record:** Only one graduating class exists. Long-term outcomes—college graduation rates, career success, life satisfaction—remain unknown.
 
@@ -153,48 +153,48 @@ The honest assessment: Alpha's model shows genuine promise backed by compelling 
 Alpha uses a three-step process:
 
 1. **Attend a Showcase Event:** Explore the learning approach and campus environment
-2. **Submit Application:** Complete application form + $100 non-refundable fee per student
+2. **Submit Application:** Complete application form + \$100 non-refundable fee per student
 3. **Shadow Day:** Your child experiences a full day of AI academics and afternoon workshops while taking MAP diagnostic assessments
 
-After Shadow Day, you'll meet with an admissions coordinator to review MAP results and set academic goals. If accepted, you'll complete enrollment forms, submit required documentation (immunizations, school records, waivers, emergency contacts, physical exam), and pay a $1,000 enrollment deposit (applied toward tuition).
+After Shadow Day, you'll meet with an admissions coordinator to review MAP results and set academic goals. If accepted, you'll complete enrollment forms, submit required documentation (immunizations, school records, waivers, emergency contacts, physical exam), and pay a \$1,000 enrollment deposit (applied toward tuition).
 
 Alpha uses rolling admissions with no fixed deadlines, though capacity is limited by the 5:1 student-guide ratio.
 
 ### Tuition and Financial Considerations
 
-Tuition varies significantly by location, ranging from $10,000 to $75,000 annually:
+Tuition varies significantly by location, ranging from \$10,000 to \$75,000 annually:
 
 | Location | Annual Tuition |
 |----------|---------------|
-| San Francisco, CA | $75,000 |
-| New York City, NY | $65,000 |
-| Chantilly, VA (DC area) | $65,000 |
-| Plano, TX | $50,000 |
-| Miami, Santa Barbara, Lake Forest, Palm Beach, FL | $50,000 |
-| Charlotte, Raleigh, NC | $45,000 |
-| Austin, Fort Worth, Tampa, Scottsdale | $40,000 |
-| Texas Sports Academy | $15,000 |
-| Brownsville, TX | $10,000 |
+| San Francisco, CA | \$75,000 |
+| New York City, NY | \$65,000 |
+| Chantilly, VA (DC area) | \$65,000 |
+| Plano, TX | \$50,000 |
+| Miami, Santa Barbara, Lake Forest, Palm Beach, FL | \$50,000 |
+| Charlotte, Raleigh, NC | \$45,000 |
+| Austin, Fort Worth, Tampa, Scottsdale | \$40,000 |
+| Texas Sports Academy | \$15,000 |
+| Brownsville, TX | \$10,000 |
 
 **What tuition covers:** Everything. All field trips (including international travel), all supplies, enrichment programs, afternoon workshops, sports, arts, technology, platform access, MAP assessments. Alpha's FAQ explicitly states they will "never EVER ask parents for additional fundraising."
 
 **What's NOT included:** The documentation doesn't specify whether lunch, before/after-school care, transportation, or optional summer programs are included.
 
 **Fees and deposits:**
-- Application fee: $100 per student (non-refundable)
-- Enrollment deposit: $1,000 per student (applied toward tuition)
-- **Total first-year cost example** (Austin): $100 + $40,000 - $1,000 = $39,100
+- Application fee: \$100 per student (non-refundable)
+- Enrollment deposit: \$1,000 per student (applied toward tuition)
+- **Total first-year cost example** (Austin): \$100 + \$40,000 - \$1,000 = \$39,100
 
 **Financial aid:** Alpha uses Clarity software to calculate tuition assistance based on family financial information (tax returns, income, assets, expenses). However, tuition assistance is NOT guaranteed, and Alpha doesn't disclose income thresholds, award ranges, approval rates, or average awards.
 
-**School vouchers—the affordability strategy:** Alpha accepts state-funded school vouchers in eligible states (Texas, Florida, Arizona, others). Typical vouchers provide ~$12,000/year. For a $15,000 micro-school or Texas Sports Academy campus, a $12,000 voucher reduces family cost to $3,000 annually (~$250-300/month)—an 80% reduction. Voucher eligibility varies by state.
+**School vouchers—the affordability strategy:** Alpha accepts state-funded school vouchers in eligible states (Texas, Florida, Arizona, others). Typical vouchers provide ~\$12,000/year. For a \$15,000 micro-school or Texas Sports Academy campus, a \$12,000 voucher reduces family cost to \$3,000 annually (~\$250-300/month)—an 80% reduction. Voucher eligibility varies by state.
 
 **Sibling discount:** 5% reduction on tuition for second child and all subsequent children. This combines with vouchers.
 
 **Combined example** (two children, Texas micro-school with vouchers):
-- First child: $15,000 - $12,000 voucher = $3,000
-- Second child: $14,250 (5% discount) - $12,000 voucher = $2,250
-- **Total family cost:** $5,250/year (~$437/month)
+- First child: \$15,000 - \$12,000 voucher = \$3,000
+- Second child: \$14,250 (5% discount) - \$12,000 voucher = \$2,250
+- **Total family cost:** \$5,250/year (~\$437/month)
 
 ### Where Alpha Has Campuses
 
@@ -214,13 +214,13 @@ Alpha currently operates 17 campuses across 8 states, with five additional locat
 
 **North Carolina (2 campuses):** Charlotte, Raleigh (opened January 2026)
 
-**Texas Sports Academy (6 sport-specific schools):** Basketball, Baseball, Gymnastics, Cheer programs at $15,000/year
+**Texas Sports Academy (6 sport-specific schools):** Basketball, Baseball, Gymnastics, Cheer programs at \$15,000/year
 
 **Confirmed Fall 2026 openings:** The Woodlands TX, Dorado Puerto Rico, Palo Alto CA, Santa Monica CA, Chicago IL
 
 **Remote option:** Alpha Anywhere for families not near a physical campus
 
-All campuses operate 8:15 AM - 4:00 PM daily with the same 5:1 student-guide ratio, $100k+ guide compensation, 2-hour academic model, and all-inclusive tuition approach.
+All campuses operate 8:15 AM - 4:00 PM daily with the same 5:1 student-guide ratio, \$100k+ guide compensation, 2-hour academic model, and all-inclusive tuition approach.
 
 ## Frequently Asked Questions
 
@@ -297,7 +297,7 @@ If Alpha School sounds like it might be a fit for your family, here's how to mov
 
 ## Final Thoughts
 
-Alpha School represents a bold experiment in education. The core premise—that AI can personalize learning to achieve mastery faster, freeing time for hands-on life skills—has intuitive appeal and some supporting evidence. The founder's story (mother frustrated by boring school), the substantial investment (Joe Liemandt's ~$1 billion), the concrete results (students running businesses, accelerated MAP growth), and the all-inclusive model (no fundraising, international trips included) paint a compelling picture.
+Alpha School represents a bold experiment in education. The core premise—that AI can personalize learning to achieve mastery faster, freeing time for hands-on life skills—has intuitive appeal and some supporting evidence. The founder's story (mother frustrated by boring school), the substantial investment (Joe Liemandt's ~\$1 billion), the concrete results (students running businesses, accelerated MAP growth), and the all-inclusive model (no fundraising, international trips included) paint a compelling picture.
 
 At the same time, Alpha remains unproven by traditional standards. There's one graduating class of 12 students. Academic claims aren't independently verified. The platform isn't the cutting-edge AI tutor marketing suggests. Selection bias is significant. Writing instruction has documented gaps. Long-term outcomes are unknown. Regulatory bodies have called the model "untested."
 

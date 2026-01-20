@@ -62,7 +62,7 @@ Alpha School's curriculum emphasizes 24 life skills organized across five core a
 
 The life skills curriculum follows age-appropriate progressions from PreK through high school. Example workshops include: "Picnic Planners" and "LEGO Master Builder" (PreK), "Fair Play Academy" and "Water for Life Project" (K-1), "Escape Room Expert" and "Alpha News Live" (grades 2-3), "Business Launch Pad" and "FBI Fitness Challenge" (grades 4-5), "Pirates & Sailing Crew" and "Startup Founder" (grades 6-8), and self-directed "super passion projects" spanning four years (high school).
 
-According to Alpha School materials, students engage in real-world projects with measurable outcomes: fifth graders run profitable Airbnbs, fifth/sixth graders operate food trucks generating $4,000+ profit, second graders train for and run 5K races, and kindergarteners complete five-mile team bike races. These project examples come from Alpha's reporting without independent verification.
+According to Alpha School materials, students engage in real-world projects with measurable outcomes: fifth graders run profitable Airbnbs, fifth/sixth graders operate food trucks generating \$4,000+ profit, second graders train for and run 5K races, and kindergarteners complete five-mile team bike races. These project examples come from Alpha's reporting without independent verification.
 
 Life skills workshops receive systematic assessment through "Tests to Pass" events rather than participation-based grading. Direct instruction precedes practical application, and projects feature real consequences and measurable outcomes. Students advance through grade levels by completing individualized "Check Charts"—self-directed task lists including activities like escape rooms, puzzles, public speaking performances, typing speed achievements, and tournament participation.
 
@@ -136,7 +136,7 @@ Alpha School reports a median SAT score of 1530 out of 1600 for recent seniors, 
 
 **Structure**: According to Alpha School materials, fourth and fifth-grade students run actual profitable businesses such as operating an Airbnb property or launching a food truck. Students manage all aspects of the business including pricing strategy, customer communication, property or product maintenance, financial record-keeping, and profit-loss analysis.
 
-**Real-World Outcomes**: Alpha reports that student-run food trucks have generated over $4,000 in profit, and student-managed Airbnb properties achieve profitability. Students learn entrepreneurship and financial literacy through direct experience with real consequences—poor customer service leads to negative reviews, pricing mistakes affect profitability, and operational failures have measurable impacts.
+**Real-World Outcomes**: Alpha reports that student-run food trucks have generated over \$4,000 in profit, and student-managed Airbnb properties achieve profitability. Students learn entrepreneurship and financial literacy through direct experience with real consequences—poor customer service leads to negative reviews, pricing mistakes affect profitability, and operational failures have measurable impacts.
 
 **Assessment**: The workshop culminates in "Tests to Pass" where students demonstrate mastery of entrepreneurship competencies through performance metrics: revenue generated, customer satisfaction ratings, problem-solving documentation, and presentation of business results to adult evaluators.
 

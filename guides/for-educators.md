@@ -1,5 +1,5 @@
 ---
-title: "Alpha School: A Guide for Educators"
+title: "Guide for Educators"
 description: "A professional resource for education professionals researching Alpha School's AI-powered mastery-based learning model"
 ---
 
@@ -90,7 +90,7 @@ Alpha School uses the term "guides" rather than "teachers" to reflect a fundamen
 
 **Life Skills Facilitation**: In afternoon sessions, guides lead workshops focused on developing skills beyond academics—entrepreneurship, public speaking, leadership, teamwork—maintaining their mentorship role throughout the day.
 
-**Compensation Model**: Guides earn a minimum of $100,000 annually, described as roughly double average teacher pay in comparable markets. This compensation enables recruitment of talented professionals outside traditional education who focus on mentorship rather than content delivery.
+**Compensation Model**: Guides earn a minimum of \$100,000 annually, described as roughly double average teacher pay in comparable markets. This compensation enables recruitment of talented professionals outside traditional education who focus on mentorship rather than content delivery.
 
 **Professional Considerations**: This role transformation raises important questions for educators: What pedagogical expertise is required when humans provide zero academic instruction? How does this model affect teacher professional identity? What training prepares guides for their specific responsibilities? How does the compensation differential between guides and traditional teachers affect the profession?
 
@@ -114,7 +114,7 @@ The daily structure creates distinct learning modes with pedagogical intent:
 
 **Pedagogical Rationale**: This structure provides alternating cognitive demands and learning modalities throughout the day—individual to collaborative, screen-based to kinesthetic, structured to self-directed. The variety aims to maintain engagement while developing both academic and non-academic competencies. From a developmental perspective, the afternoon program addresses social-emotional learning, executive function, and life skills that traditional academics do not systematically target.
 
-**Life Skills as Core Curriculum**: Alpha emphasizes 24 life skills across five core areas (Teamwork & Leadership, Storytelling & Public Speaking, Entrepreneurship & Financial Literacy, Relationship Building & Socialization, Grit & Hard Work). According to Alpha materials, students engage in authentic projects: fifth graders running profitable Airbnb properties, food truck operations generating $4,000+ profit, athletic training programs, and public speaking progressions from classroom presentations to open mic nights in New York City. These projects receive systematic assessment through "Tests to Pass" events measuring competency through performance-based evaluation rather than participation-based grading.
+**Life Skills as Core Curriculum**: Alpha emphasizes 24 life skills across five core areas (Teamwork & Leadership, Storytelling & Public Speaking, Entrepreneurship & Financial Literacy, Relationship Building & Socialization, Grit & Hard Work). According to Alpha materials, students engage in authentic projects: fifth graders running profitable Airbnb properties, food truck operations generating \$4,000+ profit, athletic training programs, and public speaking progressions from classroom presentations to open mic nights in New York City. These projects receive systematic assessment through "Tests to Pass" events measuring competency through performance-based evaluation rather than participation-based grading.
 
 ---
 
@@ -232,7 +232,7 @@ As education professionals evaluating this model, we must note several significa
 
 **Self-Reported Data**: All performance outcome claims come from Alpha School's own reporting without independent third-party verification or external audit. Raw MAP score distributions, percentile breakdowns by campus, and year-over-year longitudinal data are not publicly available.
 
-**Selection Effects**: Alpha School has admission requirements and tuition ranging from $10,000-$75,000 annually, potentially pre-selecting for high-performing students from families with significant educational resources and commitment. This makes it impossible to determine whether outcomes result from the instructional model, student characteristics, family factors, or some combination.
+**Selection Effects**: Alpha School has admission requirements and tuition ranging from \$10,000-\$75,000 annually, potentially pre-selecting for high-performing students from families with significant educational resources and commitment. This makes it impossible to determine whether outcomes result from the instructional model, student characteristics, family factors, or some combination.
 
 **No Control Group Comparisons**: The claims of "2.6x faster learning" compare growth percentiles to national norms rather than matched control groups. Without randomized controlled trials or quasi-experimental designs with comparable baseline populations, we cannot establish causal claims about the model's effectiveness.
 
@@ -240,7 +240,7 @@ As education professionals evaluating this model, we must note several significa
 
 **Limited Documentation**: Detailed curriculum alignment documents, instructional materials, assessment protocols beyond MAP testing, and longitudinal outcome data tracking college success or career outcomes are not publicly available.
 
-**Short Track Record**: The model in its current AI-powered form dates to 2022 (with approximately $1 billion investment in AI platform development). Long-term outcomes, college performance, career trajectories, and life skills impact remain unknown.
+**Short Track Record**: The model in its current AI-powered form dates to 2022 (with approximately \$1 billion investment in AI platform development). Long-term outcomes, college performance, career trajectories, and life skills impact remain unknown.
 
 **Peer Review Absence**: No peer-reviewed publications, independent curriculum audits, or third-party academic reviews of Alpha School's model, curriculum quality, or outcome claims have been published.
 
@@ -275,11 +275,11 @@ Alpha School was founded in 2014 by MacKenzie Price as "Emergent Academy" after 
 - Unlocking children's potential through revolutionary AI-powered education
 - Compressing academics into two hours to give students "their childhoods back"
 - Shift from time-based to mastery-based systems (90%+ proficiency required)
-- Long-term vision: democratize the model globally through a sub-$1,000 tablet reaching "a billion kids within 20 years"
+- Long-term vision: democratize the model globally through a sub-\$1,000 tablet reaching "a billion kids within 20 years"
 
 ### Leadership Expertise and Background
 
-**Joe Liemandt** (Principal/Founder): Software entrepreneur who dropped out of Stanford in 1989 to co-found Trilogy Software. Made Forbes 400 at age 27. Founded ESW Capital in 2001. Invested approximately $1 billion since 2022 to develop AI learning platforms (Timeback, Incept). Describes role as "product guy" and "dean of parents." Background in artificial intelligence—created what was described as "the world's first billion-dollar artificial intelligence product" (SalesBuilder at Trilogy).
+**Joe Liemandt** (Principal/Founder): Software entrepreneur who dropped out of Stanford in 1989 to co-found Trilogy Software. Made Forbes 400 at age 27. Founded ESW Capital in 2001. Invested approximately \$1 billion since 2022 to develop AI learning platforms (Timeback, Incept). Describes role as "product guy" and "dean of parents." Background in artificial intelligence—created what was described as "the world's first billion-dollar artificial intelligence product" (SalesBuilder at Trilogy).
 
 **MacKenzie Price** (Co-Founder): Stanford psychology graduate. Worked in mortgage industry before retiring in 2018 to focus on education. Hosts "Future of Education" podcast. Forbes Technology Council Member. Personal motivation as parent drives school's focus on student engagement and eliminating boredom.
 
@@ -303,19 +303,19 @@ As of 2026, Alpha School operates 17 campuses across 8 U.S. states:
 
 ### Enrollment Model and Accessibility
 
-**Tuition Range**: $10,000 (Brownsville, TX) to $75,000 (San Francisco, CA) annually depending on location. Average tuition approximately $40,000.
+**Tuition Range**: \$10,000 (Brownsville, TX) to \$75,000 (San Francisco, CA) annually depending on location. Average tuition approximately \$40,000.
 
 **Enrollment Process**: Application-based admission with requirements (specific requirements not publicly detailed). The selective enrollment model combined with tuition costs creates potential selection effects affecting student demographics and baseline characteristics.
 
 **Charter School Attempts**: In 2025, Alpha applied to open public-school charter networks in six states. Pennsylvania, Texas, Utah, Arkansas, and North Carolina all rejected applications. Pennsylvania's Department of Education specifically cited the AI model as "untested" and failing to demonstrate alignment with state academic standards. Only Arizona approved a charter partnership.
 
-**Accessibility Considerations**: The tuition range raises equity questions. While the vision includes democratization through a sub-$1,000 tablet within 20 years, current pricing places the model out of reach for most families. The organization operates both high-cost urban campuses (potentially subsidizing development) and lower-cost regional campuses, suggesting a strategy of using revenue from affluent markets to enable expansion into more accessible price points.
+**Accessibility Considerations**: The tuition range raises equity questions. While the vision includes democratization through a sub-\$1,000 tablet within 20 years, current pricing places the model out of reach for most families. The organization operates both high-cost urban campuses (potentially subsidizing development) and lower-cost regional campuses, suggesting a strategy of using revenue from affluent markets to enable expansion into more accessible price points.
 
 ### Growth Plans and Organizational Sustainability
 
 **Expansion Trajectory**: From 16 students in a house (2014) to 17+ campuses across 8 states with 2,000+ students (2026). Continued multi-state expansion with entry into new markets (Puerto Rico, Chicago metro) announced for Fall 2026.
 
-**Long-Term Vision**: Develop a sub-$1,000 tablet platform delivering personalized AI-powered education within 20 years, reaching "a billion kids." This represents scaling from premium private campuses to globally-accessible technology platform.
+**Long-Term Vision**: Develop a sub-\$1,000 tablet platform delivering personalized AI-powered education within 20 years, reaching "a billion kids." This represents scaling from premium private campuses to globally-accessible technology platform.
 
 **Organizational Ties**: AI platforms owned by Trilogy Software (division of Trilogy Enterprises, Joe Liemandt). Close integration across Trilogy/ESW Capital ecosystem. This affiliation provides technological resources and capital for platform development but concentrates decision-making within affiliated entities.
 
@@ -333,7 +333,7 @@ Alpha cites four foundational theories: Bloom's 2 Sigma (one-on-one tutoring eff
 
 ### Q: How are educators ("guides") trained for their roles?
 
-Specific training programs, credential requirements, and ongoing professional development for guides are not detailed in publicly available materials. We know guides earn minimum $100,000 salaries (roughly double traditional teacher pay) and focus on mentorship rather than academic instruction, but the pedagogical expertise required and how guides are prepared for their responsibilities remains undocumented.
+Specific training programs, credential requirements, and ongoing professional development for guides are not detailed in publicly available materials. We know guides earn minimum \$100,000 salaries (roughly double traditional teacher pay) and focus on mentorship rather than academic instruction, but the pedagogical expertise required and how guides are prepared for their responsibilities remains undocumented.
 
 **Professional Consideration**: The transformation from "teachers who instruct" to "guides who mentor" raises important questions about professional identity, required expertise, and how individuals without traditional teaching backgrounds provide effective educational support.
 
@@ -447,7 +447,7 @@ Alpha School represents an ambitious attempt to apply AI technology and learning
 
 **Role of Human Educators**: The complete removal of teachers from academic instruction represents a profound shift. While guides provide valuable mentorship and emotional support, the long-term effects of zero human academic instruction on student learning, motivation, and intellectual development remain unknown.
 
-**Equity and Access**: The vision of a $1,000 tablet democratizing education globally is compelling, but current tuition ($10,000-$75,000) places the model out of reach for most families. How the organization navigates the tension between premium pricing and democratization aspirations will shape its impact on educational equity.
+**Equity and Access**: The vision of a \$1,000 tablet democratizing education globally is compelling, but current tuition (\$10,000-\$75,000) places the model out of reach for most families. How the organization navigates the tension between premium pricing and democratization aspirations will shape its impact on educational equity.
 
 **Research Imperative**: The field needs independent research—randomized controlled trials, longitudinal studies, qualitative investigations of student and teacher experiences—to rigorously evaluate the model's effectiveness, understand its mechanisms, and identify its appropriate applications.
 

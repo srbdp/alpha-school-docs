@@ -16,7 +16,7 @@ Alpha School's long-term vision is to democratize this model globally through a 
 |----------|------|-------------|---------|
 | foundational_belief | string | Core belief about children's capacity | "Children are limitless" |
 | mission_focus | string | Primary organizational purpose | "Unlocking children's potential through revolutionary education" |
-| vision_goal | string | Long-term aspirational product goal | "A sub-\$1,000 tablet that teaches everything in two hours" |
+| vision_goal | string | Long-term aspirational product goal | "A sub-&#36;1,000 tablet that teaches everything in two hours" |
 | vision_timeline | string | Timeframe for democratization vision | "Reaching a billion kids within 20 years" |
 | core_commitments | array | Three explicit promises to parents | ["Love School", "Learn 2x in 2hrs", "Learn Life Skills"] |
 | learning_philosophy | string | Educational approach foundation | "Mastery-based vs. time-based system (90%+ proficiency required)" |

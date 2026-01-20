@@ -3,7 +3,7 @@ title: "Media Briefing"
 description: "Background and context for journalists covering Alpha School's AI-powered education model"
 ---
 
-# Alpha School: Media Briefing
+# Media Briefing
 
 ## Executive Summary
 

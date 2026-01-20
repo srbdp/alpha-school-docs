@@ -1457,3 +1457,76 @@ Implement Spec 009 by writing the actual reference document following the checkl
 ---
 
 *Last Updated: 2026-01-20*
+
+## 2026-01-20 (Later) - Spec 009 Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 009: Human Instruction Reference Documentation
+- Created `reference/model/human-instruction.md` (comprehensive API-style documentation)
+- Synthesized research from `research/model.md` lines 118-141 into concise, LLM-optimized reference format
+- Followed all 16 Functional Requirements (FR1-FR3)
+- Updated roadmap.md: Spec 009 marked complete, stats updated (15/32 complete, 46.9%)
+- Updated tracking checklist for Spec 009
+- Logged activity in activity.log
+
+**Key Details**:
+- Fourth Model domain spec implemented (following Specs 006, 007, 008)
+- Used single-phase workflow (documentation specs don't require test foundation)
+- Followed API-style template from roadmap.md
+- Document structure: H1 + blockquote definition, Overview (3 paragraphs), Properties table (9 properties), Details (5 subsections), Examples (3), Related links (5), FAQs (5), Sources (5), Footer metadata
+
+**Document Sections Created**:
+- **Header**: One-sentence definition capturing guide role transformation
+- **Overview**: 3-paragraph narrative on guides terminology, role transformation, zero academic instruction, AI integration, compensation model
+- **Properties Table**: 9 structured attributes (role_title, instructional_responsibility, primary_focus, one_on_one_time, monitoring_role, life_skills_role, compensation_minimum, compensation_context, recruitment_strategy)
+- **Details**: 5 subsections
+  - Role Transformation from Traditional Teacher: "Guides" vs. "teachers", zero academic instruction, AI handles teaching, focus on emotional support
+  - Core Responsibilities: Monitor progress, encourage students, identify passions, high standards/support, facilitate life skills, use AI data for interventions
+  - Student Relationships and Individualization: 30 minutes weekly one-on-one, individual connections, deep relationships, high standards/high support
+  - Compensation and Recruitment Model: Minimum $100,000 annually, roughly double teacher pay, recruitment outside traditional education
+  - Integration with AI Platforms: Use AI monitoring data, vision model analysis, ensure engagement, support without overriding AI instruction
+- **Examples**: Morning monitoring (guide encourages, doesn't teach), weekly one-on-one (passion identification), high standards/high support (accountability + encouragement)
+- **Related**: Links to 5 related specs (006, 007, 008, 010, 002)
+- **FAQs**: 5 Q&A pairs about academic instruction, one-on-one time, morning monitoring, compensation, afternoon activities
+- **Sources**: 5 citations with retrieval dates
+- **Footer**: Last updated/verified metadata
+
+**Content Quality (FR2)**:
+- All facts traced to research/model.md lines 118-141 with proper source citations
+- "Zero academic instruction" emphasized throughout document as fundamental role difference
+- Compensation claims properly attributed ("According to Alpha School...")
+- Neutral tone maintained (presents guide model without advocacy or critique)
+- Information gaps handled appropriately (training, qualifications, turnover not publicly documented)
+
+**LLM Optimization (FR3)**:
+- Hierarchical structure: H1 → H2 → H3 for LLM parseability
+- Scannable properties table in GitHub Flavored Markdown with 9 key-value pairs
+- Examples with clear H3 delimiters and structured format (Context, Action, Outcome)
+- Relative links to create documentation graph
+
+**Key Design Decisions**:
+1. **Zero Academic Instruction Emphasis**: Emphasized throughout to clarify fundamental difference from traditional teachers
+2. **Five-Part Details Structure**: Role Transformation → Core Responsibilities → Student Relationships → Compensation → AI Integration for logical flow
+3. **Three Concrete Examples**: Morning monitoring, weekly one-on-one, high standards/high support illustrating guide role in practice
+4. **Properties Emphasize Role Attributes**: Focused on guide role characteristics (title, responsibilities, compensation) vs. philosophy (Spec 006) or AI technical details (Spec 008)
+5. **Separate Guide Role from Philosophy and AI**: Spec 009 covers "what guides do," Spec 006 covers "why it works philosophically," Spec 008 covers "how AI monitoring works technically"
+
+**Next Action**:
+Implement Spec 010: Daily Schedule reference documentation (depends on Specs 007, 008, 009 - all now complete)
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 15 (46.9%)
+- In Progress: 0 (0%)
+- Planned: 17 (53.1%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 8/22 implemented (36.4%)
+- Phase 3 progress: 0/3 guides (0%)
+
+---
+
+*Last Updated: 2026-01-20*

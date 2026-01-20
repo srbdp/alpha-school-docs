@@ -2355,3 +2355,88 @@ Implement Spec 009 by writing the actual reference document following the checkl
 ---
 
 *Entry created: 2026-01-20*
+
+## 2026-01-20 - Spec 009 Implemented ✅
+
+**Action**: Implemented Spec 009 - Human Instruction Reference Documentation
+**Type**: Spec Implementation
+**Phase**: Phase 2 (Reference Documentation - Model Domain)
+
+### Summary
+Created comprehensive API-style reference documentation explaining the transformed educator role at Alpha School—how "guides" provide zero academic instruction and focus on motivation, mentorship, and emotional support while AI platforms handle all teaching.
+
+### Files Created
+- `reference/model/human-instruction.md` - Structured Markdown reference documentation (~200 lines, 9 properties, 5 detail subsections, 3 examples, 5 FAQs)
+
+### Files Updated
+- `ralph/roadmap.md` - Spec 009 marked complete (15/32 specs complete, 46.9%)
+- `ralph/progress.md` - Added Spec 009 implementation entry with detailed notes
+- `ralph/activity.log` - This entry
+- `ralph/specs/009-model-human-instruction/checklist.md` - All 10 tasks marked complete
+
+### Implementation Approach
+- **Single-Phase Workflow**: Documentation spec (no test foundation phase)
+- **Research Source**: research/model.md lines 118-141
+- **Dependencies Read**: Spec 006 (Educational Philosophy), Spec 007 (Two-Hour Learning Model), Spec 008 (AI Integration)
+- **Template**: API-style documentation (roadmap.md lines 136-173)
+
+### Key Content
+**Guide Role Transformation**:
+- "Guides" not "teachers" terminology
+- Zero academic instruction - AI handles all teaching
+- Focus on motivation, mentorship, emotional support
+- Individual connections vs. classroom management
+
+**Core Responsibilities**:
+- Monitor student progress during two-hour AI learning block
+- Encourage and motivate students
+- Help identify passions and strengths
+- Hold high standards while offering support
+- Facilitate afternoon life skills workshops
+- Use AI monitoring data for interventions
+
+**Student Relationships**:
+- 30 minutes weekly one-on-one time per student
+- Deep individual relationships
+- High standards, high support philosophy
+
+**Compensation Model**:
+- Minimum $100,000 annually
+- Roughly double average teacher pay
+- Enables recruitment outside traditional education
+- Attracts mentorship-focused professionals
+
+**AI Integration**:
+- Use AI dashboards to monitor real-time progress
+- Vision model analysis informs coaching interventions
+- Support students without overriding AI instruction
+- Ensure engagement during AI sessions
+
+### Content Quality Standards Met
+- All facts traced to research/model.md lines 118-141
+- "Zero academic instruction" emphasized throughout
+- Compensation properly attributed ("According to Alpha School...")
+- Information gaps noted (training, qualifications, turnover not public)
+- Neutral tone maintained (no advocacy or critique)
+
+### LLM Optimization
+- Hierarchical heading structure (H1 → H2 → H3)
+- 9-property scannable table
+- 3 structured examples with Context/Action/Outcome format
+- 5 related documentation links
+- 5 FAQ Q&A pairs
+- 5 sources with retrieval dates
+
+### Spec Dependencies Satisfied
+- ✅ Spec 001b (Research Model Domain) - Complete
+- ✅ Spec 006 (Educational Philosophy) - Complete
+
+### Blocked Specs Now Unblocked
+- Spec 010 (Daily Schedule) - Can now proceed (depends on Specs 007, 008, 009—all three now complete)
+
+### Next Action
+Implement Spec 010: Daily Schedule reference documentation
+
+---
+
+*Entry created: 2026-01-20*

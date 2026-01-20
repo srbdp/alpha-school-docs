@@ -1356,3 +1356,136 @@ None
 - Attribution language patterns effectively distinguish sourced claims from facts
 - Three leader profiles provide comprehensive coverage of publicly available leadership information
 
+
+---
+
+## 2026-01-20 - Spec 005 Created
+
+### Task
+Create Spec 005: History Reference Documentation specification and implementation checklist
+
+### What Was Done
+
+#### Files Created
+1. `ralph/specs/005-organization-history/spec.md` (23.5 KB)
+   - Complete specification for History reference documentation
+   - 9 Functional Requirements (FR1: Structure, FR2: Quality, FR3: LLM Optimization)
+   - Single-phase documentation workflow
+   - Detailed output template with complete example
+   - Success criteria (automated + manual verification)
+
+2. `ralph/specs/005-organization-history/checklist.md` (14.6 KB)
+   - 143 implementation tasks organized by section
+   - Pre-implementation setup tasks
+   - Phase 2.0: Write Documentation tasks (all FR sections)
+   - Quality check tasks (FR2: Content Quality Standards)
+   - LLM optimization check tasks (FR3)
+   - Documentation update tasks (roadmap, progress, activity log)
+   - Completion criteria
+
+#### Specification Details
+
+**Scope**:
+- Transform research from `research/organization.md` lines 123-219 into structured reference document
+- Cover: Founding story, timeline (2014-2025), evolution, platform development, charter initiatives, geographic expansion
+
+**Document Structure (FR1)**:
+- Header with one-sentence definition
+- Overview (2-3 paragraphs)
+- Properties table (10 attributes)
+- Details (6 subsections)
+- Examples (3)
+- Related documentation links (5)
+- FAQs (6)
+- Sources (6+)
+- Footer metadata
+
+**Properties Table** (10 structured attributes):
+- original_name, founding_year, first_campus_year, founding_location
+- initial_student_count, founding_inspiration, original_model
+- ai_investment_year, first_graduating_class, expansion_timeline
+
+**Details Subsections**:
+1. Founding (2014): MacKenzie Price's motivation, "Emergent Academy", 16 kids in house
+2. Early Model (2014-2016): Acton Academy branch, adaptive apps, formal campus
+3. AI Investment & Platform Development (2022): $1B investment, Timeback, Incept, vision monitoring
+4. Key Milestones (2014-2025): Chronological timeline of major events
+5. Charter School Initiatives (2025): Applications to 6 states, 5 rejections, 1 approval (AZ)
+6. Geographic Expansion (2025): Diverse market strategy ($10k-$75k tuition range)
+
+**Examples** (3 concrete examples):
+1. Origin Story: MacKenzie Price's founding motivation and journey
+2. Evolution: From 16 kids with Khan Academy to AI platform with 17+ campuses
+3. Expansion Strategy: Geographic and economic diversity
+
+**Content Quality Standards (FR2)**:
+- Factual accuracy: All facts trace to research/organization.md lines 123-219
+- Claims attribution: "approximately $1 billion" for investment
+- Information gaps: Explicitly noted where relevant
+- Neutral language: Especially for charter rejections and "untested model" criticism
+
+**Sensitive Topics Handling**:
+- Charter school rejections (5 states) presented factually without defense or criticism
+- Pennsylvania DoE "untested model" quote presented without editorial commentary
+- Acton Academy evolution presented as factual progression
+
+**Key Design Decisions**:
+1. Six subsection Details structure (chronological + thematic)
+2. Neutral handling of charter rejections (5 states rejected, 1 approved)
+3. Properties table focuses on founding facts (original_name, founding_year, etc.)
+4. Three-example structure illustrating key historical themes
+5. Single-phase documentation workflow (no test foundation)
+
+#### Files Updated
+- `ralph/roadmap.md`: Spec 005 status changed to 🚧 In Progress, stats updated (In Progress: 1, Planned: 21)
+- `ralph/progress.md`: Added comprehensive Spec 005 creation entry
+- `ralph/activity.log`: This entry
+
+### Output Quality
+
+**Specification Document**:
+- 23.5 KB comprehensive spec
+- 409 lines total
+- 9 Functional Requirements
+- Complete output template with 350+ line example
+- Success criteria defined
+- Design decisions documented
+
+**Checklist Document**:
+- 14.6 KB detailed checklist
+- 143 implementation tasks
+- Organized by section and requirement
+- Quality checks for all FR2 standards
+- LLM optimization checks for all FR3 standards
+- Documentation update tasks
+
+**Content Coverage**:
+- All research content from lines 123-219 incorporated into spec design
+- Six distinct historical periods/themes identified
+- Timeline events accurately captured (2014, 2016, 2022, 2025)
+- Charter school initiatives comprehensively documented
+- Platform development milestones detailed
+
+### Next Action
+Implement Spec 005 by writing the actual reference document following the checklist
+
+### Progress Tracking
+
+- **Total Specs**: 32
+- **Specs with Specs Written**: 11 (34%)
+- **Specs Implemented**: 10 (31%)
+- **Specs In Progress**: 1 (Spec 005 - spec created, implementation pending)
+- **Specs Planned**: 21 (66%)
+- **Phase 1**: 7/7 complete (100%) ✅
+- **Phase 2**: 3/22 implemented (13.6%), 1 spec created (Spec 005)
+- **Phase 3**: 0/3 guides (0%)
+
+### Notes
+
+- Spec 005 follows established pattern from Specs 002, 003, 004
+- Single-phase documentation workflow proven effective
+- Neutral handling of sensitive topics (charter rejections) critical for trustworthiness
+- Properties table structure enables LLM structured data extraction
+- Chronological + thematic organization balances timeline with deep-dives
+- Ready for implementation following checklist tasks
+

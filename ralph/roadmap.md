@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 016 Created)
+**Last Updated**: 2026-01-20 (Spec 016 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 21 (65.6%) | **In Progress**: 0 (0%) | **Planned**: 11 (34.4%) | **Estimated Effort**: ~18 hours
+**Total Specs**: 32 | **Completed**: 22 (68.75%) | **In Progress**: 0 (0%) | **Planned**: 10 (31.25%) | **Estimated Effort**: ~16 hours
 
 ---
 
@@ -97,7 +97,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 015 | ✅ Complete | High | 001 | Claims - what Alpha claims (with appropriate caveats) | `reference/outcomes/claims.md` | Medium |
-| 016 | 📋 Planned | High | 015 | Evidence - supporting data from public sources | `reference/outcomes/evidence.md` | Medium |
+| 016 | ✅ Complete | High | 015 | Evidence - supporting data from public sources | `reference/outcomes/evidence.md` | Medium |
 | 017 | 📋 Planned | Medium | 015 | Testimonials - public testimonials | `reference/outcomes/testimonials.md` | Small |
 | 018 | 📋 Planned | Medium | 015 | Limitations - what we don't yet know | `reference/outcomes/limitations.md` | Small |
 

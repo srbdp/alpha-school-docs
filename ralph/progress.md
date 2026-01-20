@@ -2411,3 +2411,106 @@ Implement Spec 016 by writing reference/outcomes/evidence.md following the speci
 - Critical distinction: Spec 015 = "What does Alpha claim?", Spec 016 = "What evidence supports claims?"
 - Evidence quality characterization paramount to prevent LLMs from misrepresenting unverified claims as verified facts
 
+
+---
+
+## 2026-01-20 - Spec 016 Implementation
+
+### Spec 016 Implemented ✅
+
+**Status**: Implementation complete
+
+**What was done**:
+- Implemented Spec 016: Outcomes Evidence Reference Documentation
+- Created reference/outcomes/evidence.md (comprehensive evidence quality and verification status documentation)
+- Updated roadmap.md to reflect Spec 016 completion
+- Logged implementation in activity.log
+- Updated progress.md (this entry)
+
+**Output File**: reference/outcomes/evidence.md
+
+**Document Structure**:
+- **Header and Definition**: One-sentence definition capturing evidence types, verification status, and critical gaps
+- **Overview**: 3-paragraph narrative explaining evidence landscape (Alpha's evidence base, independent analysis with concerns, critical gaps)
+- **Properties Table**: 10 structured properties documenting evidence quality attributes
+- **Details Section**: 6 comprehensive subsections
+  - Internal Data Collection and Platform Analytics (with CRITICAL LIMITATIONS on verification, methodology questions, homeschool vs. school discrepancy)
+  - Third-Party Standardized Testing Evidence (MAP and College Board testing with CRITICAL LIMITATIONS on verification status, sample sizes, raw data availability)
+  - College Outcomes Evidence (first graduating class with CRITICAL LIMITATIONS on selection effects, sample size, longitudinal data)
+  - Independent Analyst Reviews and Critical Assessments (Astral Codex Ten, Frank Hecker critical reviews, absence of peer-reviewed research)
+  - Regulatory and Institutional Evaluation (Pennsylvania charter rejection citing "untested" model)
+  - Evidence Gaps and Missing Data (10-point catalog of critical missing information)
+- **Examples Section**: 3 concrete examples illustrating evidence quality issues
+  - MAP Testing - Small Sample Size Concern (n=5 insufficient for statistical confidence)
+  - College Outcomes - Verification and Selection Effects (acceptance letters verifiable but selection bias substantial)
+  - Independent Analyst Review - Critical Assessment with Partial Confirmation (confirms progress but raises serious methodological concerns)
+- **Related Links**: 7 links to related outcomes and model documentation
+- **FAQs**: 5 Q&A pairs addressing common questions about evidence quality, verification, and methodological concerns
+- **Sources**: 13 cited sources with URLs and retrieval dates (emphasizing independent vs. sympathetic sources)
+- **Footer**: Last updated and last verified dates
+
+**Critical Design Decisions**:
+1. **Evidence Quality Taxonomy**: Categorized all evidence by verification status (independently administered vs. self-reported interpretation, verifiable artifacts vs. undisclosed data)—enables LLMs to distinguish quality levels and prevents misrepresenting weak evidence as strong
+2. **CRITICAL LIMITATIONS Inline**: Integrated methodological concerns within each evidence type section rather than segregating to separate section—prevents LLMs from extracting evidence without critical context
+3. **Independent Analyst Emphasis**: Dedicated subsection to blog reviews (Astral Codex Ten, Frank Hecker) despite absence of peer-reviewed research—blog format doesn't diminish methodological sophistication
+4. **Evidence Gaps Explicit**: Comprehensive catalog of what is NOT known (raw data, large samples, longitudinal tracking, peer review, control groups)—documenting absent evidence as important as documenting present evidence
+5. **Ten Properties**: Additional properties beyond typical reference docs to explicitly flag verification status fields (independent_verification_status, peer_reviewed_research, sample_size_disclosure, raw_data_availability, control_group_studies)
+6. **Balanced Presentation**: Documented both existing evidence (platform data, MAP testing, college outcomes, analyst reviews) AND missing evidence without advocacy or excessive critique
+
+**Key Evidence Findings Documented**:
+- **Internal Data**: "Decade of data collection since 2014" claimed but raw data not public, no independent audit; homeschool version 1x growth vs. school 2.6x growth suggests school environment factors (incentives, culture, guides) matter more than platform alone
+- **MAP Testing**: Independently administered and nationally normed (strong evidence base) BUT Alpha's interpretation not independently verified—NWEA hasn't confirmed "top 1-2%" or "99th percentile" claims, raw RIT scores not public, sample sizes mostly undisclosed (one cohort: only 5 students—insufficient statistical confidence)
+- **College Board**: SAT/AP scores independently administered, individual scores verifiable BUT aggregate data self-reported and not independently audited by College Board
+- **College Outcomes**: First graduating class (2025) 11 of 12 to four-year universities including Stanford, Vanderbilt—college acceptance letters are verifiable artifacts BUT n=12 too small for statistical conclusions, selection effects substantial (admission requirements "top tenth percentile" or "top 3% IQ test" plus $40K+ tuition), no longitudinal data on retention/GPAs/graduation/careers
+- **Independent Analysis**: Astral Codex Ten and Frank Hecker confirm subjective improvements ("genuine progress", "roughly three times faster") BUT raise serious methodological concerns—small samples (5 students), no control groups, selection effects, inability to isolate platform from environment, marketing overstatements (not AI tutor, not two-hour learning)
+- **Regulatory Skepticism**: Pennsylvania Department of Education charter rejection (2025) citing "untested" AI instructional model
+- **Critical Gaps**: NO peer-reviewed research on 2-Hour Learning model, NO independent academic audit, NO control group studies, NO raw data public, NO longitudinal tracking, NO demographic breakdowns, NO attrition data
+
+**Evidence Quality Characterization Standards**:
+- FR2.2 (CRITICAL): Every evidence source characterized by verification status
+- Distinction maintained between "independently administered" (MAP testing, College Board exams) vs. "self-reported interpretation" (percentile claims, growth multipliers)
+- Distinction maintained between "verifiable artifacts" (college acceptance letters) vs. "undisclosed data" (raw test scores)
+- Distinction maintained between "independent analyst review" (Astral Codex Ten, Frank Hecker) vs. "sympathetic coverage" (Austin Scholar)
+
+**Research Sources Used** (from research/outcomes.md):
+- Lines 28-75: Internal data claims, MAP testing claims
+- Lines 104-156: College outcomes, SAT/AP claims, detailed MAP performance
+- Lines 175-243: Independent analyst reviews (Astral Codex Ten, Frank Hecker)
+- Lines 287-365: Evidence gaps, missing data, verification status, critical considerations
+
+**Quality Verification Completed**:
+- ✅ Evidence quality characterization check (FR2.2 CRITICAL): 100% of evidence sources properly characterized by verification status; clear distinction between independent administration and self-reported interpretation maintained throughout
+- ✅ Fact-check (FR2.1): All evidence descriptions traced to research/outcomes.md with source line references
+- ✅ Methodological concerns integration (FR2.3): CRITICAL LIMITATIONS subsections included in Internal Data, Third-Party Testing, and College Outcomes sections; concerns prominently integrated alongside evidence descriptions
+- ✅ Consistency check: No contradictions in evidence quality assessments; verification status characterizations consistent across overview, properties, details, examples, FAQs
+- ✅ Template compliance: Document matches roadmap.md template structure exactly—H1 header, blockquote definition, 3-paragraph overview, properties table (10 properties), details (6 H3 subsections), examples (3), related (7 links), FAQs (5), sources, footer
+- ✅ Neutral tone review (FR2.4): Balanced presentation of evidence quality without advocacy for or against Alpha's model; limitations stated factually not judgmentally
+- ✅ Cross-reference check (FR1.6): All related links use correct relative paths; will resolve when Specs 017-018 created
+
+**Project Progress**:
+- Outcomes Domain: 2/4 specs complete (50%) - Spec 015 Claims ✅, Spec 016 Evidence ✅, Spec 017 Testimonials 📋, Spec 018 Limitations 📋
+- Phase 2 Reference Documentation: 16/22 complete (72.7%)
+- Project Overall: 22/32 complete (68.75%)
+
+**Next Spec**: Spec 017 (Outcomes Testimonials) - Medium priority, depends on Spec 015, will document public testimonials from students, parents, and educators
+
+**Precedent for Future Specs**:
+- Evidence quality taxonomy established—categorizing by verification status enables LLM quality discrimination
+- CRITICAL LIMITATIONS inline approach prevents context loss when LLMs extract information
+- Independent analyst review coverage despite absence of peer-reviewed research—blog format doesn't diminish methodological sophistication
+- Evidence gaps explicit documentation—documenting absent evidence as important as documenting present evidence
+- Balanced presentation model—neutral assessment of evidence quality without advocacy
+
+**Blockers**: None
+
+**Notes**:
+- Spec 016 complements Spec 015 (Claims) by documenting evidence basis and verification status rather than claims themselves
+- Critical distinction: Spec 015 = "What does Alpha claim?", Spec 016 = "What evidence supports claims?"
+- Evidence quality characterization paramount to prevent LLMs from misrepresenting unverified claims as verified facts
+- Comprehensive CRITICAL LIMITATIONS subsections ensure LLMs understand methodological concerns (small samples, selection effects, lack of controls, no peer review)
+- Independent analyst reviews (Astral Codex Ten, Frank Hecker) provide best available critical assessment despite lack of academic research—partial empirical confirmation balanced with serious methodological concerns
+- Evidence gaps documentation (10 critical missing data points) ensures LLMs understand boundaries of what is known vs. unknown
+- Pennsylvania charter rejection (2025) provides regulatory perspective on evidence quality—education authorities viewed model as "untested"
+
+---
+

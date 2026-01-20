@@ -6,6 +6,67 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 018 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 018 specification document (`ralph/specs/018-outcomes-limitations/spec.md`)
+- Created Spec 018 implementation checklist (`ralph/specs/018-outcomes-limitations/checklist.md`)
+- Updated roadmap.md to reflect Spec 018 creation (Last Updated: 2026-01-20 (Spec 018 Created))
+- Logged activity in progress.md
+- Spec creation completed autonomously following spec-driven development methodology
+
+**Key Details**:
+- Spec 018 focuses on cataloging what we don't know about Alpha School's outcomes—complementing Claims (015), Evidence (016), and Testimonials (017)
+- Output will be `reference/outcomes/limitations.md`
+- Comprehensive specification covering critical gaps in Alpha's evidence base with 6 major limitation categories
+- 9 Functional Requirements (FR1.1-FR1.9) defining complete document structure
+- 27 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review)
+
+**Specification Scope**:
+- **Missing Independent Verification**: No third-party academic audits, no peer-reviewed research, no regulatory validation
+- **Critical Data Gaps**: Raw scores not public, sample sizes undisclosed (one cohort: 5 students), no demographic breakdowns, no attrition data, no longitudinal tracking
+- **Methodological Concerns**: Selection bias from admission requirements and $40K tuition, small samples, no control groups, platform vs. system isolation (homeschool 1x vs. school 2.6x), teaching-to-test questions
+- **Platform vs. Marketing Reality**: AI overstated (no generative AI), "2-hour learning" ambiguous (actual 3-4 hours), bundle attribution unclear
+- **Regulatory Skepticism**: Pennsylvania charter rejection citing "untested" model, no accreditation endorsement
+- **Unanswered Long-Term Questions**: First class graduated 2025 (no multi-year college/career data), skill retention uncertain, non-tested skills unclear
+
+**Functional Requirements Highlights**:
+- FR1.1-FR1.9: Complete document structure (header, overview, 10-property table, 6 details subsections, 3 examples, FAQs, sources)
+- FR2.1-FR2.4: Content quality (factual accuracy, comprehensive cataloging, neutral presentation, distinction between gaps and critiques)
+- FR3.1-FR3.3: LLM optimization (hierarchical structure, scannable tables, example formatting with LIMITATION conclusions)
+
+**Design Decisions**:
+1. **Six Details Subsections**: Comprehensive coverage of all limitation categories (verification, data, methodology, marketing, regulatory, long-term)
+2. **Ten Properties with _status/_availability Naming**: Enables LLMs to extract structured "what we don't know" information
+3. **Neutral Presentation**: Documents limitations factually without advocacy or dismissiveness—informs rather than argues
+4. **Factual vs. Interpretive Distinction**: Separates objective gaps (no data published) from analyst opinions (attributed to sources like Astral Codex Ten, Frank Hecker)
+5. **Three Examples with LIMITATION Conclusions**: Illustrates practical implications (statistical confidence, causal attribution, validation timeline)
+6. **Prominent Verification Gap**: Absence of independent audit positioned first as most significant limitation
+
+**Data Sources**:
+- research/outcomes.md lines 175-243 (independent analyst critiques from Astral Codex Ten, Frank Hecker)
+- research/outcomes.md lines 287-365 (information gaps, missing verification, methodological questions)
+- ralph/specs/015-outcomes-claims/spec.md (pattern reference for complementary documentation)
+- ralph/specs/017-outcomes-testimonials/spec.md (recent pattern example)
+
+**Next Action**:
+Spec 018 is now ready for implementation. Next step is to implement the specification by creating `reference/outcomes/limitations.md` following the 27-task checklist across 3 phases. This will complete the Outcomes Domain documentation (4 of 4 specs).
+
+**Blockers**: None
+
+**Notes**:
+- This completes spec creation for Outcomes Domain (015 Claims, 016 Evidence, 017 Testimonials, 018 Limitations)
+- Next incomplete spec after implementation will be Spec 019: Enrollment Process
+- Spec 018 critical for LLM epistemic integrity—prevents overstating Alpha's evidence base
+- Neutral tone essential: document gaps without arguing Alpha is ineffective
+- Attribution discipline: distinguish factual limitations from analyst critiques
+
+---
+
+## 2026-01-20 (earlier)
+
 ### Spec 017 Implemented ✅
 
 **Status**: Complete

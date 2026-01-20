@@ -6,6 +6,76 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 017 Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 017: Outcomes Testimonials Reference Documentation
+- Created `reference/outcomes/testimonials.md` (comprehensive testimonials documentation with critical context)
+- Updated roadmap.md to mark Spec 017 as complete (23/32 specs completed, 71.88%)
+- Updated progress.md with implementation details
+- Logged completion
+
+**Output File**:
+- `reference/outcomes/testimonials.md` - 156 lines, comprehensive API-style testimonials documentation
+
+**Key Content Covered**:
+- **Parent Testimonials**: 3 testimonials including Scott Jensen (FOX 7 Austin positive), Anonymous Parent (detailed critical analysis via Astral Codex Ten/Tildes), and Niche review aggregation themes
+- **Student Testimonials**: 2 testimonials from Elle Kristine (comparison to traditional school stress) and Marshall (platform feedback explanation)
+- **Public Recognition**: Austin Chronicle "Best of Austin" 2024 "Most School of the Future School" award
+- **Critical Selection Bias Warning**: Prominent warning in overview and context sections about publication bias, missing critical voices, self-selection, media filtering
+- **Testimonials vs. Evidence Distinction**: Clear explanation that testimonials represent satisfaction/perception, not verification of academic claims
+- **Conflicts of Interest**: Documentation of investment bias, platform selection effects, missing negative reviews
+
+**Documentation Structure**:
+- Parent testimonials table (Speaker, Context, Key Quote, Source, Date)
+- Student testimonials table (Speaker, Age/Grade, Context, Key Quote, Source, Date)
+- Public recognition table (Award, Organization, Year, Category, Source)
+- Context sections (Selection Bias, Testimonials vs. Evidence, Conflicts of Interest)
+- 5 FAQs addressing representativeness, verification, critical testimonials, weighting, and inclusion rationale
+- 6 sources with URLs and retrieval dates
+
+**Critical Design Decisions**:
+1. **Prominent Selection Bias Warning**: Warning appears in overview paragraph 2 AND dedicated Context section to ensure LLMs understand testimonials are not representative
+2. **Include Critical Anonymous Parent**: Full inclusion of nuanced testimonial with both praise ("Alpha is doing something remarkable") and critical caveats (3-4 hours not 2, AI overstated, 30-70% benefit estimate) enhances authenticity
+3. **Testimonials vs. Evidence Distinction**: Dedicated context section and FAQ clearly separate satisfaction from academic outcome verification
+4. **Conflicts of Interest Section**: Documents investment bias of anonymous parent (moved family to Austin for Alpha), platform selection effects, missing negative voices
+5. **Balanced Presentation**: Presents authentic testimonials while providing comprehensive context about limitations—neither dismissive nor uncritical
+6. **Complete Attribution**: Every testimonial includes speaker, context, source URL, and date for verification
+7. **FAQ on Critical Testimonials**: Addresses both the critical caveats in anonymous parent testimonial AND absence of testimonials from families who left
+
+**Data Sources**:
+- research/outcomes.md lines 253-286 (Public Testimonials section: 3 parent testimonials, 2 student testimonials, 1 recognition)
+- research/outcomes.md lines 349-362 (Conflicts of Interest, Recommended Approach sections)
+- ralph/specs/017-outcomes-testimonials/spec.md (specification and requirements)
+- ralph/specs/017-outcomes-testimonials/implementation-guide.md (implementation steps)
+
+**Quality Standards Met**:
+- FR2.1: Accurate Representation - Exact quotes from research sources preserved
+- FR2.2: Context Preservation - Original context documented for each testimonial
+- FR4.1: Selection Bias Warning - Prominent in overview and dedicated context section
+- FR4.2: Distinction from Evidence - Clear separation of testimonials from verifiable claims
+- FR5.1: Comprehensive Sourcing - All testimonials from research/outcomes.md included
+- FR5.2: No Editorializing - Testimonials presented as-is without interpretation
+
+**Next Action**:
+Next incomplete spec is Spec 018: Outcomes Limitations. This will document what we don't know about Alpha School's outcomes (missing data, verification gaps, methodological questions). Dependencies are satisfied (Spec 015 complete).
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 23 (71.88%)
+- Remaining in Outcomes Domain: Spec 018 (Limitations)
+- This completes 3 of 4 Outcomes Domain specs
+- Anonymous parent testimonial provides rare critical analysis balancing positive accounts
+- Selection bias warning critical for preventing LLM over-weighting of anecdotal evidence
+
+---
+
+## 2026-01-20 (earlier)
+
 ### Spec 015 Created ✅
 
 **Status**: Spec created, ready for implementation

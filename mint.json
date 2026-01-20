@@ -1,0 +1,116 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Alpha School Documentation",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/logo/alpha-favicon.svg",
+  "colors": {
+    "primary": "#0000EF",
+    "light": "#0000EF",
+    "dark": "#0000EF",
+    "anchors": {
+      "from": "#0000EF",
+      "to": "#0000EF"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Website",
+      "url": "https://alpha.school"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Enroll",
+    "url": "https://alpha.school"
+  },
+  "tabs": [
+    {
+      "name": "Documentation",
+      "url": "reference"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Contact",
+      "icon": "envelope",
+      "url": "reference/contact/overview"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "Organization",
+      "pages": [
+        "reference/organization/overview",
+        "reference/organization/mission",
+        "reference/organization/leadership",
+        "reference/organization/history"
+      ]
+    },
+    {
+      "group": "Educational Model",
+      "pages": [
+        "reference/model/educational-philosophy",
+        "reference/model/two-hour-learning",
+        "reference/model/ai-integration",
+        "reference/model/human-instruction",
+        "reference/model/daily-schedule"
+      ]
+    },
+    {
+      "group": "Curriculum",
+      "pages": [
+        "reference/curriculum/overview",
+        "reference/curriculum/subjects",
+        "reference/curriculum/grade-levels",
+        "reference/curriculum/assessments"
+      ]
+    },
+    {
+      "group": "Outcomes",
+      "pages": [
+        "reference/outcomes/claims",
+        "reference/outcomes/evidence",
+        "reference/outcomes/testimonials",
+        "reference/outcomes/limitations"
+      ]
+    },
+    {
+      "group": "Enrollment",
+      "pages": [
+        "reference/enrollment/process",
+        "reference/enrollment/tuition"
+      ]
+    },
+    {
+      "group": "Locations",
+      "pages": [
+        "reference/locations/overview",
+        "reference/locations/expansion"
+      ]
+    },
+    {
+      "group": "Contact",
+      "pages": [
+        "reference/contact/overview"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "reference/guides/for-parents",
+        "reference/guides/for-educators",
+        "reference/guides/for-media"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/alphaschool",
+    "linkedin": "https://www.linkedin.com/company/alpha-school"
+  }
+}

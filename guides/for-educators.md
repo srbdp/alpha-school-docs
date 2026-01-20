@@ -455,36 +455,36 @@ As educators, we bring healthy professional skepticism to educational innovation
 This guide synthesizes information from Alpha School's reference documentation:
 
 **Organization**:
-- [Organization Overview](../reference/organization/overview.md)
-- [Mission, Vision, Values](../reference/organization/mission.md)
-- [Leadership](../reference/organization/leadership.md)
-- [History](../reference/organization/history.md)
+- [Organization Overview](../docs/organization/overview.md)
+- [Mission, Vision, Values](../docs/organization/mission.md)
+- [Leadership](../docs/organization/leadership.md)
+- [History](../docs/organization/history.md)
 
 **Educational Model**:
-- [Educational Philosophy](../reference/model/educational-philosophy.md)
-- [Two-Hour Learning Model](../reference/model/two-hour-learning.md)
-- [AI Integration](../reference/model/ai-integration.md)
-- [Human Instruction](../reference/model/human-instruction.md)
-- [Daily Schedule](../reference/model/daily-schedule.md)
+- [Educational Philosophy](../docs/model/educational-philosophy.md)
+- [Two-Hour Learning Model](../docs/model/two-hour-learning.md)
+- [AI Integration](../docs/model/ai-integration.md)
+- [Human Instruction](../docs/model/human-instruction.md)
+- [Daily Schedule](../docs/model/daily-schedule.md)
 
 **Curriculum**:
-- [Curriculum Overview](../reference/curriculum/overview.md)
-- [Subjects](../reference/curriculum/subjects.md)
-- [Grade Levels](../reference/curriculum/grade-levels.md)
-- [Assessments](../reference/curriculum/assessments.md)
+- [Curriculum Overview](../docs/curriculum/overview.md)
+- [Subjects](../docs/curriculum/subjects.md)
+- [Grade Levels](../docs/curriculum/grade-levels.md)
+- [Assessments](../docs/curriculum/assessments.md)
 
 **Outcomes**:
-- [Claims](../reference/outcomes/claims.md)
-- [Evidence](../reference/outcomes/evidence.md)
-- [Testimonials](../reference/outcomes/testimonials.md)
-- [Limitations](../reference/outcomes/limitations.md)
+- [Claims](../docs/outcomes/claims.md)
+- [Evidence](../docs/outcomes/evidence.md)
+- [Testimonials](../docs/outcomes/testimonials.md)
+- [Limitations](../docs/outcomes/limitations.md)
 
 **Operations**:
-- [Enrollment Process](../reference/enrollment/process.md)
-- [Tuition](../reference/enrollment/tuition.md)
-- [Locations Overview](../reference/locations/overview.md)
-- [Expansion](../reference/locations/expansion.md)
-- [Contact Information](../reference/contact/overview.md)
+- [Enrollment Process](../docs/enrollment/process.md)
+- [Tuition](../docs/enrollment/tuition.md)
+- [Locations Overview](../docs/locations/overview.md)
+- [Expansion](../docs/locations/expansion.md)
+- [Contact Information](../docs/contact/overview.md)
 
 **Primary Research Sources**: All reference documentation above derives from comprehensive research documented in `/research/` directory with citations to Alpha School website, founder interviews, news coverage, and public materials retrieved 2026-01-20.
 

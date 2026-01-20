@@ -39,13 +39,6 @@
       "url": "guides"
     }
   ],
-  "anchors": [
-    {
-      "name": "Contact",
-      "icon": "envelope",
-      "url": "docs/contact/overview"
-    }
-  ],
   "navigation": [
     {
       "group": "Getting Started",

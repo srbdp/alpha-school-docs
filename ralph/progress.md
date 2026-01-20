@@ -272,4 +272,46 @@ Implement Spec 001f: Research Locations Domain
 
 ---
 
+## 2026-01-20 (Later) - Spec 001f Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 001f: Research Locations Domain
+- Created `research/locations.md` (comprehensive research document with 19 sources)
+- Researched primary sources: alpha.school website (locations, about, contact pages), official social media
+- Researched secondary sources: press releases, news articles, Crunchbase, Google Maps
+- Documented all findings with source citations and retrieval dates
+- Updated roadmap.md: Spec 001f marked complete, stats updated (6/32 complete, 18.8%)
+- Updated tracking checklist for Spec 001f
+- Logged activity in activity.log
+
+**Key Details**:
+- Used web-research-doc-creator agent for efficient research
+- Followed incremental writing pattern (wrote after each source)
+- Documented information gaps and verification status
+- Successfully mapped all current locations and expansion plans
+
+**Research Findings**:
+- **Headquarters**: Austin, Texas (Legal entity: Legacy of Education, Inc.)
+- **Current Campuses**: 17 locations across 8 states (TX: 6, CA: 3, FL: 3, NC: 2, AZ: 1, NY: 1, VA: 1)
+- **Tuition Range**: $10,000 (Brownsville, TX) to $75,000 (San Francisco, CA)
+- **Expansion Plans (Fall 2026)**: The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, Chicago IL
+- **Additional Programs**: Texas Sports Academy (6 locations), Alpha Anywhere (online), 6 specialty schools
+- Information gaps identified: exact addresses for some campuses, facility square footage, future expansion beyond announced locations
+
+**Next Action**:
+Implement Spec 001g: Research Contact Domain (final research sub-spec)
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 6 (18.8%)
+- In Progress: 1 (Spec 001 parent - 6/7 sub-specs complete)
+- Planned: 25 (78.1%)
+- Phase 1 progress: 6/7 research sub-specs complete (86%)
+
+---
+
 *Last Updated: 2026-01-20*

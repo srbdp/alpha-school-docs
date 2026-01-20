@@ -336,3 +336,61 @@ Successfully researched and documented all publicly available information about 
 
 ### Next Steps
 Continue with Spec 001f: Research Locations Domain
+
+## 2026-01-20 - Spec 001f Implemented
+
+**Action**: Implemented Spec 001f - Research Locations Domain
+**Type**: Spec Implementation (Phase 1 Research)
+**Phase**: Phase 1 (Research)
+
+### Summary
+Successfully researched and documented all publicly available information about Alpha School's Locations domain, including current campus locations, campus details, and announced expansion plans. Used web-research-doc-creator agent to gather information from 19 primary and secondary sources.
+
+### Output File Created
+- `research/locations.md` - Comprehensive research document with detailed location information
+
+### Research Completed
+
+**Primary Sources Researched:**
+- alpha.school homepage
+- alpha.school/locations page
+- alpha.school/about page
+- alpha.school footer/contact for address info
+- LinkedIn company page
+- Twitter/X account (@AlphaSchoolATX)
+
+**Secondary Sources Researched:**
+- Press releases about new locations
+- News articles (SF Standard, Austin Journal, Brownsville Herald, etc.)
+- Crunchbase profile
+- Google Maps verification
+- Multiple social media location announcements
+
+### Key Findings
+- **Headquarters**: Austin, Texas (Legal name: Legacy of Education, Inc.)
+- **Current Campuses**: 17 locations across 8 states:
+  - Texas: 6 (Austin PK-5, Austin 6-8, Austin High 9-12, Brownsville, Fort Worth, Plano)
+  - California: 3 (Lake Forest, San Francisco, Santa Barbara)
+  - Florida: 3 (Miami, Palm Beach, Tampa)
+  - North Carolina: 2 (Charlotte, Raleigh)
+  - Arizona: 1 (Scottsdale)
+  - New York: 1 (New York City)
+  - Virginia: 1 (Chantilly)
+- **Tuition Range**: $10,000 (Brownsville) to $75,000 (San Francisco)
+- **Expansion Plans (Fall 2026)**: The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, Chicago IL
+- **Additional Programs**: Texas Sports Academy (6 locations), Alpha Anywhere (online), 6 specialty schools under Alpha umbrella
+
+### Information Gaps Identified
+- Exact street addresses for some campuses
+- Facility square footage and detailed campus features
+- Future expansion plans beyond Fall 2026 announcements
+- Campus capacities beyond Austin (155 students PK-8)
+- Specific opening dates for some announced locations
+
+### Updates Made
+- Updated roadmap.md: Spec 001f marked complete, stats updated (6/32 complete, 18.8%)
+- Updated ralph/specs/001f-research-locations/spec.md status to Complete
+- Updated ralph/specs/001f-research-locations/checklist.md status to Complete
+
+### Next Steps
+Continue with Spec 001g: Research Contact Domain (final research sub-spec)

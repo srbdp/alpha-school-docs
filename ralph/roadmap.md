@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 001e Complete)
+**Last Updated**: 2026-01-20 (Spec 001f Complete)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 5 (15.6%) | **In Progress**: 1 (3%) | **Planned**: 26 (81.4%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 6 (18.8%) | **In Progress**: 1 (3%) | **Planned**: 25 (78.1%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -43,7 +43,7 @@ Research is split into 7 independent sub-specs, one per domain. Each can be comp
 | 001c | ✅ Complete | Critical | None | Research Curriculum domain | `research/curriculum.md` | Small |
 | 001d | ✅ Complete | High | None | Research Outcomes domain | `research/outcomes.md` | Small |
 | 001e | ✅ Complete | High | None | Research Enrollment domain | `research/enrollment.md` | Small |
-| 001f | 📋 Planned | High | None | Research Locations domain | `research/locations.md` | Small |
+| 001f | ✅ Complete | High | None | Research Locations domain | `research/locations.md` | Small |
 | 001g | 📋 Planned | High | None | Research Contact domain | `research/contact.md` | Small |
 
 **Research Sources (for all sub-specs):**

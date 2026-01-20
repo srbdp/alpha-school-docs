@@ -1,6 +1,6 @@
 # Spec 001f: Research Locations Domain
 
-**Status**: 📋 Planned
+**Status**: ✅ Complete
 **Priority**: High
 **Phase**: 1 (Research)
 **Dependencies**: None
@@ -123,12 +123,12 @@ Create `research/locations.md` with this structure:
 
 ## Success Criteria
 
-- [ ] `research/locations.md` file exists
-- [ ] All primary sources researched
-- [ ] Current locations documented
-- [ ] All facts have source citations with retrieval dates
-- [ ] Information gaps documented
-- [ ] Status updated to Complete
+- [x] `research/locations.md` file exists
+- [x] All primary sources researched
+- [x] Current locations documented
+- [x] All facts have source citations with retrieval dates
+- [x] Information gaps documented
+- [x] Status updated to Complete
 
 ---
 

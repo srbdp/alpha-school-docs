@@ -6,8 +6,9 @@
     "light": "/logo/light.svg"
   },
   "favicon": "/logo/alpha-favicon.svg",
-  "appearance": {
-    "default": "light"
+  "modeToggle": {
+    "default": "light",
+    "isHidden": true
   },
   "colors": {
     "primary": "#0000EF",

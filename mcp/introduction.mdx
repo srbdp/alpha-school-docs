@@ -1,0 +1,61 @@
+---
+title: MCP Server
+description: Connect AI assistants to Alpha School documentation using the Model Context Protocol
+---
+
+# Alpha School MCP Server
+
+The Alpha School MCP Server enables AI assistants like Claude to access and search Alpha School documentation directly. Built on the [Model Context Protocol](https://modelcontextprotocol.io), it provides a seamless way to integrate Alpha School knowledge into AI-powered workflows.
+
+## What is MCP?
+
+The Model Context Protocol (MCP) is an open standard that allows AI assistants to connect to external data sources and tools. By running the Alpha School MCP server, you give AI assistants direct access to our documentation.
+
+## Features
+
+<CardGroup cols={2}>
+  <Card title="List Documents" icon="list" href="/mcp/tools/list-documents">
+    Browse all available documentation files and their categories
+  </Card>
+  <Card title="Get Document" icon="file" href="/mcp/tools/get-document">
+    Retrieve the full content of any specific document
+  </Card>
+  <Card title="Search Docs" icon="magnifying-glass" href="/mcp/tools/search-docs">
+    Keyword search across all documentation
+  </Card>
+  <Card title="Auto-Caching" icon="clock">
+    Documents are cached for 1 hour to improve performance
+  </Card>
+</CardGroup>
+
+## How It Works
+
+1. **Startup**: The server fetches documentation from the Alpha School GitHub repository
+2. **Caching**: Documents are cached in memory for 1 hour
+3. **Tool Calls**: When AI assistants call tools, the server searches or retrieves from the local cache
+4. **Auto-Refresh**: Cache automatically refreshes after the TTL expires
+
+## Use Cases
+
+- **AI-Powered Q&A**: Let Claude answer questions about Alpha School using official documentation
+- **Content Creation**: Help AI assistants write accurate content about Alpha School
+- **Research**: Enable AI tools to quickly find specific information across all docs
+- **Integration**: Build applications that leverage Alpha School knowledge
+
+## Getting Started
+
+<Steps>
+  <Step title="Install">
+    Run `npx alpha-school-mcp` or install globally
+
+    [View Installation Guide](/mcp/installation)
+  </Step>
+  <Step title="Configure">
+    Add the server to your MCP client configuration
+
+    [View Configuration Guide](/mcp/configuration)
+  </Step>
+  <Step title="Use">
+    Start asking your AI assistant questions about Alpha School
+  </Step>
+</Steps>

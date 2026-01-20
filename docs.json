@@ -152,6 +152,27 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "MCP Server",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "mcp/introduction",
+              "mcp/installation",
+              "mcp/configuration"
+            ]
+          },
+          {
+            "group": "Tools Reference",
+            "pages": [
+              "mcp/tools/list-documents",
+              "mcp/tools/get-document",
+              "mcp/tools/search-docs"
+            ]
+          }
+        ]
       }
     ]
   },

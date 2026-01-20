@@ -1,0 +1,75 @@
+---
+title: list_documents
+description: List all available Alpha School documentation files
+---
+
+# list_documents
+
+Lists all available documentation files with their paths and categories.
+
+## Parameters
+
+This tool takes no parameters.
+
+## Response
+
+Returns a JSON object containing an array of documents:
+
+```json
+{
+  "documents": [
+    {
+      "path": "docs/organization/mission",
+      "category": "docs"
+    },
+    {
+      "path": "api/curriculum/subjects",
+      "category": "api"
+    },
+    {
+      "path": "guides/for-parents",
+      "category": "guides"
+    }
+  ]
+}
+```
+
+### Response Fields
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `documents` | array | Array of document objects |
+| `documents[].path` | string | Document path (use with `get_document`) |
+| `documents[].category` | string | Document category: `docs`, `api`, or `guides` |
+
+## Categories
+
+| Category | Description |
+|----------|-------------|
+| `docs` | Core documentation about Alpha School |
+| `api` | API-style reference documentation |
+| `guides` | Audience-specific guides (parents, educators, media) |
+
+## Example Usage
+
+**Prompt to Claude:**
+> "What documentation is available about Alpha School?"
+
+**Claude's tool call:**
+```json
+{
+  "tool": "list_documents",
+  "parameters": {}
+}
+```
+
+## Related Tools
+
+<CardGroup cols={2}>
+  <Card title="get_document" icon="file" href="/mcp/tools/get-document">
+    Use the paths from list_documents to retrieve full content
+  </Card>
+  <Card title="search_docs" icon="magnifying-glass" href="/mcp/tools/search-docs">
+    Search for specific content instead of browsing
+  </Card>
+</CardGroup>

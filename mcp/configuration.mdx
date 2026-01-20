@@ -1,0 +1,101 @@
+---
+title: Configuration
+description: Configure MCP clients to use the Alpha School MCP Server
+---
+
+# Configuration
+
+Add the Alpha School MCP Server to your MCP client's configuration file.
+
+## Claude Code
+
+Add to your `~/.claude.json` file:
+
+```json
+{
+  "mcpServers": {
+    "alpha-school": {
+      "command": "npx",
+      "args": ["alpha-school-mcp"]
+    }
+  }
+}
+```
+
+<Note>
+If you have existing MCP servers configured, add the `alpha-school` entry to your existing `mcpServers` object.
+</Note>
+
+## Claude Desktop
+
+Add to your `claude_desktop_config.json` file:
+
+<Tabs>
+  <Tab title="macOS">
+    Location: `~/Library/Application Support/Claude/claude_desktop_config.json`
+
+    ```json
+    {
+      "mcpServers": {
+        "alpha-school": {
+          "command": "npx",
+          "args": ["alpha-school-mcp"]
+        }
+      }
+    }
+    ```
+  </Tab>
+  <Tab title="Windows">
+    Location: `%APPDATA%\Claude\claude_desktop_config.json`
+
+    ```json
+    {
+      "mcpServers": {
+        "alpha-school": {
+          "command": "npx",
+          "args": ["alpha-school-mcp"]
+        }
+      }
+    }
+    ```
+  </Tab>
+</Tabs>
+
+## Using Global Installation
+
+If you installed the package globally, you can use the direct command:
+
+```json
+{
+  "mcpServers": {
+    "alpha-school": {
+      "command": "alpha-school-mcp",
+      "args": []
+    }
+  }
+}
+```
+
+## Verifying Configuration
+
+After configuring:
+
+1. Restart your MCP client (Claude Code or Claude Desktop)
+2. The Alpha School tools should now be available
+3. Try asking Claude about Alpha School to verify the connection
+
+## Available Tools
+
+Once configured, your AI assistant will have access to:
+
+<CardGroup cols={3}>
+  <Card title="list_documents" href="/mcp/tools/list-documents">
+    List all docs
+  </Card>
+  <Card title="get_document" href="/mcp/tools/get-document">
+    Get a document
+  </Card>
+  <Card title="search_docs" href="/mcp/tools/search-docs">
+    Search docs
+  </Card>
+</CardGroup>

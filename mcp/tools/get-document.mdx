@@ -1,0 +1,84 @@
+---
+title: get_document
+description: Retrieve the full content of a specific Alpha School document
+---
+
+# get_document
+
+Retrieves the full content of a specific documentation file by its path.
+
+## Parameters
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| `path` | string | Yes | The document path (e.g., `docs/organization/mission`) |
+
+<Note>
+The path should not include the file extension. Use the paths returned by `list_documents`.
+</Note>
+
+## Response
+
+Returns a JSON object containing the document path and content:
+
+```json
+{
+  "path": "docs/organization/mission",
+  "content": "---\ntitle: Mission & Vision\n---\n\n# Alpha School Mission\n\nAlpha School exists to unlock the potential of every child..."
+}
+```
+
+### Response Fields
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `path` | string | The requested document path |
+| `content` | string | Full markdown/MDX content of the document |
+
+## Error Response
+
+If the document is not found:
+
+```json
+{
+  "error": "Document not found",
+  "path": "docs/invalid/path"
+}
+```
+
+## Example Usage
+
+**Prompt to Claude:**
+> "Tell me about Alpha School's mission"
+
+**Claude's tool call:**
+```json
+{
+  "tool": "get_document",
+  "parameters": {
+    "path": "docs/organization/mission"
+  }
+}
+```
+
+## Common Document Paths
+
+| Path | Content |
+|------|---------|
+| `docs/organization/mission` | Mission and vision statement |
+| `docs/model/two-hour-learning` | The 2-hour learning model |
+| `docs/model/ai-integration` | How AI is used in learning |
+| `docs/enrollment/process` | How to enroll |
+| `docs/enrollment/tuition` | Tuition and financial aid |
+| `guides/for-parents` | Parent guide |
+
+## Related Tools
+
+<CardGroup cols={2}>
+  <Card title="list_documents" icon="list" href="/mcp/tools/list-documents">
+    Get all available document paths
+  </Card>
+  <Card title="search_docs" icon="magnifying-glass" href="/mcp/tools/search-docs">
+    Find documents by keyword search
+  </Card>
+</CardGroup>

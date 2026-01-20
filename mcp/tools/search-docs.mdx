@@ -1,0 +1,82 @@
+---
+title: search_docs
+description: Search across all Alpha School documentation for keywords or phrases
+---
+
+# search_docs
+
+Searches across all documentation for a keyword or phrase, returning matching snippets.
+
+## Parameters
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| `query` | string | Yes | The search query (case-insensitive) |
+
+## Response
+
+Returns a JSON object containing an array of search results:
+
+```json
+{
+  "results": [
+    {
+      "path": "docs/organization/mission",
+      "snippet": "...Alpha School is dedicated to unlocking the potential..."
+    },
+    {
+      "path": "docs/model/two-hour-learning",
+      "snippet": "...students complete core academics in just two hours..."
+    }
+  ]
+}
+```
+
+### Response Fields
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `results` | array | Array of matching documents |
+| `results[].path` | string | Document path (use with `get_document`) |
+| `results[].snippet` | string | Text snippet showing match context |
+
+## Search Behavior
+
+- **Case-insensitive**: "AI" matches "ai", "AI", and "Ai"
+- **Partial matching**: "learn" matches "learning", "learners", etc.
+- **Multiple results**: Returns all documents containing the query
+- **Snippet context**: Shows surrounding text for context
+
+## Example Usage
+
+**Prompt to Claude:**
+> "How does Alpha School use AI in education?"
+
+**Claude's tool call:**
+```json
+{
+  "tool": "search_docs",
+  "parameters": {
+    "query": "AI integration"
+  }
+}
+```
+
+## Search Tips
+
+| Query Type | Example | Best For |
+|------------|---------|----------|
+| Single keyword | `tuition` | Broad search |
+| Phrase | `two hour learning` | Specific concepts |
+| Topic | `enrollment process` | Finding specific docs |
+
+## Related Tools
+
+<CardGroup cols={2}>
+  <Card title="get_document" icon="file" href="/mcp/tools/get-document">
+    Get full content after finding documents via search
+  </Card>
+  <Card title="list_documents" icon="list" href="/mcp/tools/list-documents">
+    Browse all documents instead of searching
+  </Card>
+</CardGroup>

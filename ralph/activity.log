@@ -4107,3 +4107,123 @@ Spec 022: Locations Expansion - Ready for creation if needed, or proceed to Spec
 ### Next Action
 Implement Spec 024 using `/implement_spec` skill or manual implementation following checklist.md tasks
 
+
+---
+
+## 2026-01-20 16:00 UTC - Created Spec 025: Educator Guide
+
+### Action Taken
+Created specification and checklist for Spec 025 (Educator Guide), the second of three Phase 3 guide documents.
+
+### Files Created
+- `ralph/specs/025-guide-educators/spec.md` (15,406 bytes)
+- `ralph/specs/025-guide-educators/checklist.md` (13,645 bytes)
+
+### Specification Summary
+**Spec 025**: Educator Guide
+**Priority**: Medium
+**Effort**: Small (~1 hour)
+**Phase**: 3 (Guides)
+**Dependencies**: 002-023 (All Phase 2 reference documentation)
+**Output**: `alpha-school-docs/guides/for-educators.md`
+
+### Functional Requirements (7 Major FRs)
+
+**FR1**: Document Structure (7 sections)
+  - FR1.1: Introduction Section (professional greeting, context, navigation)
+  - FR1.2: Educational Model & Philosophy Section (synthesize 006-010 with pedagogical depth)
+  - FR1.3: Curriculum Design & Implementation Section (synthesize 011-014 with instructional design focus)
+  - FR1.4: Outcomes, Evidence & Research Section (synthesize 015-018 with research rigor)
+  - FR1.5: Organizational Structure & Operations Section (synthesize 002-005, 019-022)
+  - FR1.6: Professional Questions Section (8-12 educator questions)
+  - FR1.7: Professional Engagement Section (visit, partnership, research collaboration)
+
+**FR2**: Content Quality Standards
+  - FR2.1: Source Attribution (trace to Phase 2 reference docs)
+  - FR2.2: Tone & Voice (professional, collegial, research-informed)
+  - FR2.3: Reading Level & Style (college-educated professional audience)
+  - FR2.4: Length & Format (2,500-3,500 words, professional markdown)
+
+**FR3**: Metadata & Maintenance
+  - FR3.1: Document Metadata (dates, version)
+  - FR3.2: Source Citations (reference doc links)
+
+### Implementation Phases
+**Phase 3.0**: Content Planning & Structure (8 tasks)
+  - Review all 22 Phase 2 reference docs with educator lens
+  - Research pedagogical context (learning theories, educational research)
+  - Create detailed outline with professional framing
+  - Identify 8-12 professional FAQ questions
+  - Document evidence presentation strategy
+
+**Phase 3.1**: Content Writing (14 tasks)
+  - Write 7 main sections (Introduction, Model & Philosophy, Curriculum Design, Outcomes & Research, Organizational Structure, Professional Questions, Professional Engagement)
+  - Add metadata and source citations
+  - Target: 2,500-3,500 words total
+  - Tone: Professional, collegial, research-informed
+
+### Key Decisions
+- Professional pedagogical framing (not simplified language)
+- Educator-specific perspective (pedagogy, research, instructional design)
+- Research rigor emphasis (methodology, evidence quality, limitations)
+- Professional engagement focus (not enrollment)
+- Pedagogical context integration (frame within educational research)
+- More theoretical depth than parent guide
+- Evidence presented with methodological transparency
+
+### Content Strategy
+**Target Audience**: Education professionals, administrators, researchers evaluating Alpha School's pedagogical approach
+
+**Primary Questions**: 
+  - What are the pedagogical foundations? (Model & Philosophy section)
+  - How is curriculum designed and implemented? (Curriculum Design section)
+  - What is the evidence base and research quality? (Outcomes & Research section with methodological detail)
+  - How can educators engage professionally? (Professional Engagement section)
+
+**Tone Guidelines**:
+  - Professional and collegial (educator-to-educator)
+  - Research-informed (reference learning science, educational theory)
+  - Methodologically honest (transparent about evidence gaps)
+  - Academic/professional framing (not marketing)
+  - Appropriate educational terminology
+  - Rigorous yet accessible
+
+**Key Differences from Parent Guide**:
+  - More pedagogical depth and educational theory
+  - Explicit research context and methodology details
+  - Educational terminology and concepts
+  - Focus on instructional design, not just outcomes
+  - Professional engagement pathways, not enrollment focus
+  - Evidence quality and methodology transparency
+  - Longer document (2,500-3,500 words vs. 2,000-3,000)
+
+### Pedagogical Context Framework
+**Educational theories/research to reference**:
+  - Constructivism and student-centered learning
+  - Personalized/adaptive learning research
+  - Mastery-based learning and competency models
+  - Time-on-task and learning efficiency research
+  - AI in education research (current state)
+  - Formative assessment and feedback
+  - Bloom's taxonomy and learning objectives
+  - Differentiation and Universal Design for Learning (UDL)
+
+### Checklist Structure (22 Tasks)
+**Phase 3.0**: 8 tasks (source review with educator lens, pedagogical context research, outline creation)
+**Phase 3.1**: 14 tasks (7 section writing tasks, metadata/finalization)
+**Manual Verification**: 10 review tasks (content quality, technical quality, LLM optimization)
+
+### Roadmap Updates
+- Updated `ralph/roadmap.md` Last Updated date to 2026-01-20 (Spec 025 Created)
+- Updated Spec 025 status to "📋 Planned (Spec Created)" in Phase 3 table
+
+### Next Action
+Spec 025 is now ready for implementation using `/implement_spec` skill or manual implementation following checklist.md tasks.
+
+### Project Status After This Spec Creation
+- **Phase 1 (Research)**: 7/7 complete ✅
+- **Phase 2 (Reference Docs)**: 22/22 complete ✅
+- **Phase 3 (Guides)**: 1/3 complete, 2/3 planned (specs created)
+  - Spec 024: Parent Guide - Complete ✅
+  - Spec 025: Educator Guide - Planned (Spec Created) 📋
+  - Spec 026: Media Guide - Planned (Spec Not Yet Created) 📋

@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 024 Implemented)
+**Last Updated**: 2026-01-20 (Spec 025 Created)
 
 ---
 
@@ -128,7 +128,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 024 | ✅ Complete | High | 002-023 | Parent guide - parent-focused overview | `guides/for-parents.md` | Small |
-| 025 | 📋 Planned | Medium | 002-023 | Educator guide - educator-focused overview | `guides/for-educators.md` | Small |
+| 025 | 📋 Planned (Spec Created) | Medium | 002-023 | Educator guide - educator-focused overview | `guides/for-educators.md` | Small |
 | 026 | 📋 Planned | Medium | 002-023 | Media guide - press/media overview | `guides/for-media.md` | Small |
 
 ---

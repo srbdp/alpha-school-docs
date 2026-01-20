@@ -3672,3 +3672,70 @@ Ready for implementation. When implemented, Spec 020 will complete the Enrollmen
 
 **Next Action**: Ready to implement Spec 021 - Locations Overview
 
+
+---
+
+## 2026-01-20 - Spec 021 Created
+
+**Action**: Created Spec 021 - Locations Overview Specification
+**Type**: Spec Creation
+**Phase**: Phase 2 (Reference Documentation - Locations Domain)
+
+### Summary
+Successfully created comprehensive specification for Spec 021 documenting Alpha School's campus network of 17 operating locations across 8 states, flagship Austin campus details, standard operational features, Texas Sports Academy specialty schools, strategic partnerships (Guidepost Montessori, Higher Ground Education), and Fall 2026 expansion plans. Specification defines 30 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review) plus post-implementation tasks for creating reference/locations/overview.md.
+
+### Files Created/Modified
+- `ralph/specs/021-locations-overview/spec.md` - Complete specification document (comprehensive campus network documentation requirements)
+- `ralph/specs/021-locations-overview/checklist.md` - Implementation checklist (30 tasks)
+- `ralph/roadmap.md` - Updated to reflect Spec 021 creation status
+- `ralph/activity.log` - This entry
+
+### Specification Overview
+- **Status**: 📋 Planned (Spec Created)
+- **Priority**: High
+- **Phase**: Phase 2 (Reference Documentation)
+- **Dependencies**: Spec 001f (Research Locations Domain)
+- **Output**: `reference/locations/overview.md`
+- **Implementation Tasks**: 30 tasks (6 validation, 14 writing, 6 review, 4 post-implementation)
+
+### Content Scope
+
+**Key Areas Documented:**
+1. **Current Campus Network**: 17 operating campuses organized by state - Texas (6), California (3), Florida (3), North Carolina (2), plus Arizona, New York, Virginia
+2. **Campus Details**: Addresses, grade levels (K-5 to K-12 variations), tuition range ($10k-$75k), contact information, facility features by location
+3. **Flagship Austin Campus**: Founded 2016, 150+ students, Cognia accredited, Year 11 operation, organizational prototype at 1201 Spyglass Dr
+4. **Standard Features**: 8:15 AM - 4:00 PM universal hours, two-hour AI learning, 60-90 min outdoor play, guides vs. teachers, no homework, all-inclusive tuition
+5. **Texas Sports Academy**: 6 sport-specific schools (basketball, baseball, gymnastics, cheer) at $15k tuition with Texas ESA ~$10.3k funding potential
+6. **Strategic Growth**: Guidepost Montessori partnership (July 2025), Higher Ground Education asset acquisition accelerating expansion 2 years
+7. **Fall 2026 Expansion**: 5 confirmed openings (The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, Chicago IL) plus exploration targets
+8. **Information Gaps**: Enrollment capacity (only Austin 150+), accreditation status (only Austin Cognia), square footage, transportation, before/after care
+
+**Critical Design Decisions:**
+1. State-by-state campus listing in single comprehensive subsection creating authoritative directory
+2. Flagship Austin campus dedicated subsection highlighting founding location and organizational prototype status
+3. Tuition range emphasis ($10k-$75k) demonstrating geographic market positioning strategy
+4. Strategic partnerships dedicated subsection documenting July 2025 growth inflection point
+5. Texas Sports Academy as specialty school category separate from campus network with sport-specific model
+6. Geographic expansion comparison examples (Brownsville $10k vs. San Francisco $75k) illustrating market segmentation
+
+### Functional Requirements
+- **FR1.1-FR1.9**: Document structure (header, overview, 10-property table, 6 details subsections, 3 examples, 6 FAQs, sources, footer)
+- **FR2.1-FR2.4**: Content quality (factual accuracy, Alpha vs. gaps distinction, information gaps handling, neutral presentation)
+- **FR3.1-FR3.3**: LLM optimization (hierarchical structure, scannable tables, example formatting with INFORMATION STATUS)
+
+### Data Sources
+- research/locations.md lines 34-405 (campus network, flagship details, standard features, specialty schools, partnerships, expansion, gaps)
+- ralph/specs/019-enrollment-process/spec.md (enrollment domain pattern)
+- ralph/specs/020-enrollment-tuition/spec.md (location-specific pricing pattern)
+
+### Next Steps
+Spec 021 created and ready for implementation. When implemented, will complete Locations Domain overview (1 of 2 specs: 021 Overview, 022 Expansion). Next incomplete spec after implementation will be Spec 022: Locations Expansion (if needed) or Spec 023: Contact Overview.
+
+### Key Observations
+- 17 operating campuses (Jan 2026) represents rapid growth from single Austin 2016 founding to multi-state network
+- $65k tuition variance (Brownsville $10k to SF $75k) reflects deliberate market segmentation strategy rather than differentiated educational product
+- July 2025 dual partnerships (Guidepost Montessori + Higher Ground Education) transformed growth trajectory from organic to consolidation-based expansion
+- Texas Sports Academy $15k tuition with Texas ESA ~$10.3k potential creates ~$4.7k net family cost for sport-specific pathways
+- Only Austin flagship has disclosed enrollment (150+) and accreditation (Cognia)—all other campus capacity/accreditation gaps
+- Fall 2026 expansion targets premium markets (Palo Alto, Santa Monica, Chicago, Aspen) and strategic new markets (Puerto Rico, Orlando, Phoenix)
+

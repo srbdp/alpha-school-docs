@@ -275,3 +275,64 @@ Successfully researched and documented all publicly available information about 
 
 ### Next Steps
 Continue with Spec 001e: Research Enrollment Domain
+
+## 2026-01-20 - Spec 001e Implemented
+
+**Action**: Implemented Spec 001e - Research Enrollment Domain
+**Type**: Spec Implementation (Phase 1 Research)
+**Phase**: Phase 1 (Research)
+
+### Summary
+Successfully researched and documented all publicly available information about Alpha School's Enrollment domain, including enrollment process, eligibility requirements, tuition/costs, financial aid, and capacity information. Used web-research-doc-creator agent to gather information from 19 primary and secondary sources.
+
+### Output File Created
+- `research/enrollment.md` - 12KB comprehensive research document
+
+### Research Completed
+
+**Primary Sources Researched:**
+- alpha.school homepage
+- alpha.school/enroll page
+- alpha.school/locations pages (San Francisco, Austin, GT School, Micro-schools, Brownsville)
+- alpha.school FAQ
+- LinkedIn company page
+- Twitter/X account (@AlphaSchoolATX)
+
+**Secondary Sources Researched:**
+- SF Standard coverage (tuition pricing)
+- Axios Austin coverage (Alpha Austin details)
+- Entrepreneur.com interview
+- Niche.com profile
+- Alt Ed Austin profile
+- Multiple social media posts about enrollment
+
+### Key Findings
+- **Enrollment Process**: Three-step process (1. Attend Showcase event, 2. Submit Application with $100 fee, 3. Shadow Day visit), rolling admissions (no fixed deadlines), MAP diagnostic assessments determine capability-based placement, $1,000 enrollment deposit required (credited toward tuition)
+- **Eligibility**: Grades K-12 (PreK-12 at some locations like Austin), level-based placement system rather than traditional grades, state-mandated immunizations or approved exemptions required
+- **Tuition/Costs**: Publicly available pricing by location:
+  - San Francisco: $75,000/year
+  - Austin, TX: $40,000/year
+  - GT School: $25,000/year
+  - Micro-schools: ~$15,000/year
+  - Brownsville, TX: $10,000/year
+  - All-inclusive pricing (includes ALL activities, trips, supplies)
+  - No additional fundraising ever
+  - 5% sibling discount available
+- **Financial Aid**: Tuition assistance available via Clarity software (not guaranteed to all applicants), school vouchers (~$12k in some states) can reduce micro-school costs to ~$300-400/month
+- **Capacity**: 5:1 student-to-guide ratio, Alpha Austin has 155 students (PK-8), no waitlist information publicly available
+
+### Information Gaps Identified
+- Exact tuition for most locations (requires direct inquiry)
+- Financial aid eligibility criteria and application deadlines
+- Acceptance rates and selection criteria
+- Waitlist status and length at various locations
+- Refund policies for deposit and tuition
+- Transfer student policies
+
+### Updates Made
+- Updated roadmap.md: Spec 001e marked complete, stats updated (5/32 complete, 15.6%)
+- Updated ralph/specs/001e-research-enrollment/spec.md status to Complete
+- Updated ralph/specs/001e-research-enrollment/checklist.md status to Complete
+
+### Next Steps
+Continue with Spec 001f: Research Locations Domain

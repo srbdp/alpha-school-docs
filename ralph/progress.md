@@ -231,4 +231,45 @@ Implement Spec 001e: Research Enrollment Domain
 
 ---
 
+## 2026-01-20 (Later) - Spec 001e Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 001e: Research Enrollment Domain
+- Created `research/enrollment.md` (12KB comprehensive research document)
+- Researched 19 sources including primary (alpha.school pages), news, secondary sources, and social media
+- Documented all findings with source citations and retrieval dates
+- Updated roadmap.md: Spec 001e marked complete, stats updated (5/32 complete, 15.6%)
+- Updated tracking checklist for Spec 001e
+- Logged activity in activity.log
+
+**Key Details**:
+- Used web-research-doc-creator agent for efficient research
+- Followed incremental writing pattern (wrote after each source)
+- Documented information gaps and verification status
+- Successfully obtained public tuition pricing data
+
+**Research Findings**:
+- **Enrollment Process**: Three-step process (Showcase attendance, Application with $100 fee, Shadow Day), rolling admissions, MAP diagnostics determine capability-based placement
+- **Eligibility**: Grades K-12 (PreK-12 in some locations), level-based system, state immunization requirements
+- **Tuition/Costs**: Publicly available pricing ranges from $10,000 (Brownsville, TX) to $75,000 (San Francisco), with Austin at $40,000 and micro-schools at ~$15,000. All-inclusive pricing (no additional fees), 5% sibling discount
+- **Financial Aid**: Tuition assistance available via Clarity software (not guaranteed), school vouchers can reduce costs
+- **Capacity**: 5:1 student-to-guide ratio, Alpha Austin has 155 students (PK-8)
+- Information gaps identified: exact tuition for most locations requires inquiry, financial aid criteria/deadlines not public, acceptance rates unknown, waitlist details unavailable
+
+**Next Action**:
+Implement Spec 001f: Research Locations Domain
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 5 (15.6%)
+- In Progress: 1 (Spec 001 parent - 5/7 sub-specs complete)
+- Planned: 26 (81.4%)
+- Phase 1 progress: 5/7 research sub-specs complete (71%)
+
+---
+
 *Last Updated: 2026-01-20*

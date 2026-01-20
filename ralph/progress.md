@@ -661,3 +661,73 @@ Implement Spec 004: Leadership reference documentation
 
 *Last Updated: 2026-01-20*
 
+
+
+## 2026-01-20 (Later) - Spec 004 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 004 specification document (`ralph/specs/004-organization-leadership/spec.md`)
+- Created Spec 004 implementation checklist (`ralph/specs/004-organization-leadership/checklist.md`)
+- Updated roadmap.md: Spec 004 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 22 (68.8%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 004 focuses on Leadership reference documentation
+- Third Phase 2 spec (following Spec 002 and Spec 003)
+- Dependencies: Spec 001a (Complete ✅), Spec 002 (Complete ✅)
+- Output: `reference/organization/leadership.md`
+- Priority: High
+- Effort: Small (~1 hour)
+
+**Specification Structure**:
+- 9 Functional Requirements organized in 3 groups (FR1: Structure, FR2: Quality, FR3: LLM Optimization)
+- 28 implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output template provided
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **Three Leader Focus**: research/organization.md lines 90-122 provides detailed information on three confirmed leaders (Joe Liemandt, MacKenzie Price, Andrew Price). Spec limits coverage to these three documented leaders.
+2. **Explicit Information Availability Note**: research/organization.md line 119 states Alpha School does not have dedicated leadership pages (404 errors). This information gap must be explicitly documented for transparency.
+3. **Public Information Boundary (FR2.4)**: Unique requirement for leadership - strictly limit to publicly available information. Include disclosed roles/backgrounds; exclude internal structure and private compensation.
+4. **Attribution Language**: Use "according to...", "described as..." patterns to properly attribute leadership backgrounds and claims.
+5. **Properties Table Structure**: Emphasize governance model, founder count, organizational structure. Full leader profiles in Details section. Enables LLM structured data extraction.
+
+**Content Coverage**:
+- **Properties table**: 8 structured attributes (governance_model, founder_count, principal, co_founders, founding_year, key_affiliations, public_leadership_pages, leadership_background)
+- **Details**: 5 subsections (Joe Liemandt profile, MacKenzie Price profile, Andrew Price profile, Governance Structure, Information Availability note)
+- **Examples**: 3 concrete examples (leadership investment, founder journey, multi-org leadership)
+- **FAQs**: 5 common questions with authoritative answers
+- **Sources**: 5 citations with retrieval dates
+
+**Content Quality Requirements**:
+- All facts trace to research/organization.md lines 90-122
+- Public information only - no speculation about private structure
+- Information gaps explicitly noted (no leadership page on website)
+- Attribution for backgrounds and roles
+- Three leader profiles: Joe Liemandt (Principal/Founder), MacKenzie Price (Co-Founder), Andrew Price (Co-Founder/CFO)
+
+**Next Action**:
+Implement Spec 004 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (if available)
+2. Following the manual checklist in `ralph/specs/004-organization-leadership/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 10 (31%)
+- Specs implemented: 9 (28%)
+- In Progress: 1 (Spec 004 - spec created, implementation pending)
+- Planned: 22 (69%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 2/22 implemented (9%), 1 spec created
+
+---
+
+*Last Updated: 2026-01-20*
+

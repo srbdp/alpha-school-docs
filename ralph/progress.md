@@ -2346,3 +2346,68 @@ All facts sourced from `research/curriculum.md`:
 
 ---
 
+
+---
+
+## 2026-01-20
+
+### Spec 016 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 016 specification document (`ralph/specs/016-outcomes-evidence/spec.md`)
+- Created Spec 016 implementation checklist (`ralph/specs/016-outcomes-evidence/checklist.md`)
+- Updated roadmap.md to reflect Spec 016 creation (Last Updated: 2026-01-20 (Spec 016 Created))
+- Logged activity in activity.log
+- Spec creation completed autonomously following spec-driven development methodology
+
+**Key Details**:
+- Spec 016 focuses on documenting the evidence basis and verification status for Alpha School's outcome claims
+- Output will be `reference/outcomes/evidence.md`
+- Comprehensive specification covering evidence types, verification status, independent analysis, and critical gaps
+- 9 Functional Requirements (FR1.1-FR1.9, FR2.1-FR2.4) defining complete document structure and quality standards
+- 32 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review) plus 4 post-implementation tasks
+
+**Specification Scope**:
+- **Internal Data Collection**: Platform analytics since 2014, completion times, mastery scores, methodology questions (homeschool 1x vs. school 2.6x growth suggests environment matters more than platform)
+- **Third-Party Testing Evidence**: NWEA MAP testing (independently administered but Alpha's interpretation not verified), College Board SAT/AP (individual scores verifiable, aggregate not audited)
+- **College Outcomes Evidence**: First graduating class acceptances (verifiable artifacts but n=12 too small, selection effects from admission requirements and $40K+ tuition)
+- **Independent Analyst Reviews**: Astral Codex Ten and Frank Hecker critical assessments (small samples, lack of controls, selection effects, marketing overstatements), sympathetic Austin Scholar coverage
+- **Regulatory Evaluation**: Pennsylvania charter rejection (2025, "untested" AI model), lack of academic endorsements
+- **Evidence Gaps**: Raw data not public, sample sizes undisclosed (one cohort: 5 students), no longitudinal tracking, no peer-reviewed research, no control groups, selection bias undocumented
+
+**Critical Design Decisions**:
+1. **Evidence Quality Taxonomy**: Categorize all evidence by verification status (independently verified, partially verified, self-reported, unverified) enabling LLMs to distinguish quality levels—prevents misrepresenting weak evidence as strong
+2. **CRITICAL LIMITATIONS Inline**: Integrate methodological concerns within each evidence type section rather than segregating to separate section—prevents LLMs from missing critical context when extracting specific evidence information
+3. **Independent Analyst Emphasis**: Dedicate subsection to blog reviews (Astral Codex Ten, Frank Hecker) despite absence of peer-reviewed research—blog format doesn't diminish methodological sophistication of analysis
+4. **Evidence Gaps Subsection**: Explicitly catalog what is NOT known (raw data, large samples, peer review, control groups)—documenting absent evidence as important as documenting present evidence for LLM comprehension
+5. **Ten Properties Including Verification Fields**: Additional properties beyond typical reference docs to explicitly flag verification status (independent_verification_status, peer_reviewed_research, sample_size_disclosure, raw_data_availability, control_group_studies)
+6. **Balanced Presentation**: Document both existing evidence (MAP testing, college outcomes, analyst reviews) AND missing evidence (raw data, large samples, peer review) without advocacy or excessive critique
+
+**Data Sources**:
+- research/outcomes.md lines 28-252 (claims and evidence descriptions)
+- research/outcomes.md lines 287-365 (evidence gaps, critical considerations, verification status)
+- research/outcomes.md lines 175-243 (independent analyst reviews from Astral Codex Ten, Frank Hecker, Austin Scholar)
+- research/outcomes.md lines 253-286 (testimonials context)
+
+**Quality Standards Emphasized**:
+- FR2.1: Factual Accuracy - All evidence descriptions traced to research/outcomes.md with line references
+- FR2.2: Evidence Quality Assessment - CRITICAL requirement that every evidence source be characterized by verification status; distinguish "independently administered" from "self-reported interpretation"
+- FR2.3: Methodological Concerns Integration - Prominently integrate limitations alongside evidence descriptions; CRITICAL LIMITATIONS subsections required in all details sections
+- FR2.4: Neutral Presentation - Document both existing and missing evidence without advocacy for or against Alpha's model
+
+**Next Action**:
+Implement Spec 016 by writing reference/outcomes/evidence.md following the specification and 32-task checklist. This is the second spec in Outcomes Domain (following Spec 015 Claims).
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 21 (65.6%)
+- Spec 016 Status: Created (📋 Planned → ready for implementation)
+- Outcomes Domain: 1/4 specs complete (Spec 015 Claims implemented), Spec 016 created and ready
+- Spec 016 complements Spec 015 by documenting evidence quality rather than claims themselves
+- Critical distinction: Spec 015 = "What does Alpha claim?", Spec 016 = "What evidence supports claims?"
+- Evidence quality characterization paramount to prevent LLMs from misrepresenting unverified claims as verified facts
+

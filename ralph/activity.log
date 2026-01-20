@@ -3219,3 +3219,111 @@ Spec 016: Outcomes Evidence - High priority, depends on Spec 015 (now complete),
 
 ---
 
+
+## 2026-01-20 - Spec 016 Created
+
+**Action**: Created Spec 016 - Outcomes Evidence specification and implementation checklist
+**Type**: Spec Creation
+**Phase**: Phase 2 (Reference Documentation - Outcomes Domain)
+
+### Summary
+Successfully created specification and implementation checklist for Spec 016 - Outcomes Evidence Reference Documentation. Spec defines comprehensive documentation of evidence basis and verification status for Alpha School's outcome claims, including internal data sources, third-party testing evidence, independent analyst reviews, regulatory evaluations, and critical evidence gaps.
+
+### Files Created/Modified
+- `ralph/specs/016-outcomes-evidence/spec.md` - Complete specification document
+- `ralph/specs/016-outcomes-evidence/checklist.md` - Complete implementation checklist (32 tasks)
+- `ralph/roadmap.md` - Updated "Last Updated" to reflect Spec 016 creation
+- `ralph/activity.log` - This entry
+- `ralph/progress.md` - Will be updated
+
+### Specification Overview
+- **Status**: 📋 Planned (ready for implementation)
+- **Priority**: High
+- **Dependencies**: Spec 015 (Outcomes Claims)
+- **Output**: `reference/outcomes/evidence.md`
+- **Implementation Effort**: Medium (~2 hours)
+
+### Specification Scope
+
+**Evidence Types Documented:**
+1. Internal Data Collection and Platform Analytics - Decade of data since 2014, platform tracking, methodology questions
+2. Third-Party Standardized Testing Evidence - NWEA MAP (independently administered but interpretation not verified), College Board SAT/AP
+3. College Outcomes Evidence - First graduating class acceptances, verifiability vs. selection effects
+4. Independent Analyst Reviews - Astral Codex Ten and Frank Hecker critical assessments, sympathetic Austin Scholar coverage
+5. Regulatory and Institutional Evaluation - Pennsylvania charter rejection (2025, "untested" model), lack of academic endorsements
+6. Evidence Gaps and Missing Data - Comprehensive catalog of absent raw data, sample sizes, longitudinal tracking, peer-reviewed research
+
+**Key Design Decisions:**
+1. **Evidence Quality Taxonomy**: Categorize all evidence by verification status (independently verified, partially verified, self-reported, unverified) enabling LLMs to distinguish quality levels
+2. **CRITICAL LIMITATIONS Inline**: Integrate methodological concerns within each evidence type section rather than segregating to prevent LLMs from missing context
+3. **Independent Analyst Emphasis**: Dedicate subsection to blog reviews (Astral Codex Ten, Frank Hecker) despite no peer-reviewed research—methodological sophistication warrants coverage
+4. **Evidence Gaps Subsection**: Explicitly catalog what is NOT known—documenting absent evidence as important as documenting present evidence
+5. **Ten Properties Including Verification Fields**: primary_data_source, independent_verification_status, peer_reviewed_research, sample_size_disclosure, raw_data_availability, control_group_studies, independent_analyst_reviews, regulatory_evaluation
+6. **Balanced Presentation**: Document both existing evidence (MAP testing, college outcomes) AND missing evidence (raw data, large samples, peer review) without advocacy
+
+### Functional Requirements Summary
+
+**FR1: Document Structure** (9 sub-requirements)
+- FR1.1: Header with one-sentence definition capturing evidence types, verification status, critical gaps
+- FR1.2: 3-paragraph overview (evidence base, independent analysis, evidence gaps)
+- FR1.3: 10 properties table with verification status fields
+- FR1.4: 6 details subsections with CRITICAL LIMITATIONS integrated inline
+- FR1.5: 3 examples illustrating evidence quality and limitations (MAP small samples, college selection effects, independent analyst review)
+- FR1.6: Related documentation links (7 related specs)
+- FR1.7: 5 FAQs addressing evidence quality, independent research, MAP verification, evidence gaps, analyst concerns
+- FR1.8: Sources section with all research/outcomes.md citations
+- FR1.9: Metadata footer with last updated/verified dates
+
+**FR2: Content Quality Standards** (4 requirements)
+- FR2.1: Factual Accuracy - All evidence descriptions traceable to research/outcomes.md
+- FR2.2: Evidence Quality Assessment (CRITICAL) - Every source characterized by verification status; distinguish "independently administered" from "self-reported interpretation"
+- FR2.3: Methodological Concerns Integration - Prominently integrate limitations alongside evidence descriptions; CRITICAL LIMITATIONS subsections required
+- FR2.4: Neutral Presentation - Document both existing and missing evidence without advocacy or excessive critique
+
+### Implementation Checklist Structure
+
+**Phase 1.0: Research Validation** (6 tasks)
+- Verify internal data, third-party testing, college outcomes, independent analyst reviews, regulatory evaluation, evidence gaps from research/outcomes.md
+
+**Phase 1.1: Documentation Writing** (15 tasks)
+- Write header, overview, properties table (10 properties), 6 details subsections, 3 examples, related links, 5 FAQs, sources, footer
+
+**Phase 1.2: Quality Review** (7 tasks)
+- CRITICAL: Evidence quality characterization check
+- Fact-check all evidence descriptions
+- Verify methodological concerns integration
+- Consistency, template compliance, neutral tone, cross-reference checks
+
+**Post-Implementation** (4 tasks)
+- Update roadmap (Outcomes Domain 1/4 → 2/4, Phase 2: 15/22 → 16/22, Overall: 21/32 → 22/32)
+- Update progress.md, activity.log, checklist status
+
+### Data Sources
+- research/outcomes.md lines 28-252 (original claims and evidence descriptions)
+- research/outcomes.md lines 287-365 (evidence gaps, critical considerations, verification status)
+- research/outcomes.md lines 175-243 (independent analyst reviews)
+- research/outcomes.md lines 253-286 (testimonials)
+
+### Quality Standards Emphasized
+- **Evidence Quality Taxonomy (CRITICAL)**: Every evidence source must be categorized by verification status to enable LLM quality discrimination
+- **CRITICAL LIMITATIONS Inline**: Methodological concerns integrated within each evidence type section prevents context loss
+- **Independent Analyst Coverage**: Blog reviews receive dedicated subsection despite lack of peer-reviewed research
+- **Evidence Gaps Explicit**: Comprehensive catalog of missing data (raw scores, large samples, longitudinal tracking, peer review, control groups)
+- **Balanced Presentation**: Neutral assessment of evidence quality without advocating for or against Alpha's model
+
+### Next Actions
+1. Implement Spec 016 by writing reference/outcomes/evidence.md following specification and 32-task checklist
+2. This is second spec in Outcomes Domain (following Spec 015 Claims)
+3. After implementation: Spec 017 (Outcomes Testimonials) and Spec 018 (Outcomes Limitations) complete Outcomes Domain
+
+### Blockers
+None
+
+### Notes
+- Spec 016 complements Spec 015 (Claims) by documenting evidence quality and verification status
+- Critical distinction: Spec 015 = "What does Alpha claim?", Spec 016 = "What evidence supports claims?"
+- Evidence quality characterization is paramount—LLMs must distinguish independently verified evidence from self-reported claims
+- Spec designed to prevent LLMs from misrepresenting unverified claims as verified facts by explicitly documenting verification gaps
+- Total specs in Outcomes Domain: 4 (015 Claims, 016 Evidence, 017 Testimonials, 018 Limitations)
+
+---

@@ -6,6 +6,63 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 014 Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 014: Curriculum Assessments Reference Documentation
+- Created `reference/curriculum/assessments.md` (comprehensive assessment reference document)
+- Updated roadmap.md to mark Spec 014 as complete (20/32 specs completed, 62.5%)
+- Updated progress.md with implementation details
+- Logged completion
+
+**Output File**:
+- `reference/curriculum/assessments.md` - 189 lines, comprehensive API-style reference documentation
+
+**Key Content Covered**:
+- **NWEA MAP Standardized Testing**: Primary third-party assessment, 3x yearly, RIT scores, 99th percentile claims, ~10 million U.S. students nationwide
+- **Internal Platform Mastery Assessments**: 90%+ accuracy requirement (80% in secondary sources—discrepancy noted), 100% multiple-choice format, comprehensive mastery tests before grade advancement
+- **Real-Time AI Tracking**: Eye tracking, attention monitoring, parent dashboards with daily progress, projected advancement timelines
+- **Performance-Based Assessments**: Test to Pass Showcase (debates, TEDx talks), life skills "tests to pass", high school super passion project outcomes
+- **Assessment Limitations**: Transparent documentation of verification gaps—no independent third-party verification, raw MAP scores not public, selection effects, multiple-choice format limitations, no longitudinal data
+
+**Documentation Structure**:
+- 9 properties in structured table (primary_standardized_test, standardized_test_frequency, internal_mastery_threshold, internal_test_format, real_time_tracking, parent_access, progression_requirement, performance_based_assessments, reported_outcomes_verification)
+- 5 Details subsections (NWEA MAP Testing, Internal Platform Assessments, Real-Time Tracking, Performance-Based Assessments, Assessment Limitations)
+- 3 Examples (Daily Mastery Progression, MAP Testing Performance, Test to Pass Showcase)
+- 5 FAQs addressing common assessment questions including independent verification
+- 12 source citations with retrieval dates
+
+**Quality Considerations**:
+- Transparently noted mastery threshold discrepancy (90% vs 80%) with source attribution—following Spec 011 precedent
+- Properly attributed performance claims to Alpha School as self-reported (2.6x-6.5x growth, 99th percentile, SAT/AP scores)
+- Comprehensive limitations section covering 7 key gaps: no independent verification, no raw MAP data public, selection effects, MC format limits, teaching-to-test concerns, limited non-MAP documentation, no longitudinal outcomes
+- Maintained neutral presentation without advocacy—documented what Alpha does and what verification gaps exist
+- All factual claims sourced from research/curriculum.md and research/outcomes.md with line references
+
+**Dependencies Satisfied**:
+- Spec 001c (Research Curriculum Domain) - Used research/curriculum.md lines 153-174, 188-193, 307-309, 353-359, 414, 507
+- Spec 011 (Curriculum Overview) - Referenced for mastery-based assessment context
+- research/outcomes.md - Used for performance claims and verification status
+
+**Next Action**:
+Proceed to Spec 015 (Outcomes Claims) - next incomplete spec in Outcomes Domain
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 20 (62.5%)
+- In Progress: 0 (0%)
+- Planned: 12 (37.5%)
+- Phase 2 Curriculum Domain: 4/4 specs complete (011, 012, 013, 014 complete)
+- Next domain: Outcomes (Specs 015-018, all planned)
+
+---
+
+## 2026-01-20 (earlier)
+
 ### Spec 013 Created ✅
 
 **Status**: Spec created, ready for implementation

@@ -6,6 +6,53 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 022 Created 🚧
+
+**Status**: Spec and Checklist Created - Implementation Pending
+
+**What was done**:
+- Created Spec 022 specification file (`ralph/specs/022-locations-expansion/spec.md`)
+- Created Spec 022 implementation checklist (`ralph/specs/022-locations-expansion/checklist.md`)
+- Updated roadmap.md: Spec 022 status changed from 📋 Planned to 🚧 In Progress
+- Logged activity in progress.md and activity.log
+
+**Specification Created**:
+- `ralph/specs/022-locations-expansion/spec.md` - 411 lines, complete functional requirements and implementation guidance
+
+**Functional Requirements Defined**:
+- **FR1**: Expansion Timeline Documentation (Confirmed Fall 2026 openings + Future exploration targets)
+- **FR2**: Strategic Partnerships (Guidepost Montessori partnership + Higher Ground Education acquisition)
+- **FR3**: Specialty Programs Expansion (Texas Sports Academy growth + Other specialty schools)
+- **FR4**: Growth Strategy and Patterns (Geographic strategy + Timeline acceleration)
+
+**Implementation Phases Defined**:
+- **Phase 2.0**: Content Planning (5 tasks) - source validation, structure planning, citation verification
+- **Phase 2.1**: Implementation (10 tasks) - create expansion.md with all FR content
+- **Cross-Reference Updates**: 2 tasks - bidirectional links with overview.md
+- **Verification**: 3 tasks - completeness, template compliance, quality review
+- **Total**: 20 tasks across 4 work streams
+
+**Key Decisions**:
+1. Separate expansion.md from overview.md for clarity between current vs. future operations
+2. Clear distinction between confirmed Fall 2026 openings and exploratory targets
+3. Dedicated section for strategic partnerships (Guidepost, Higher Ground) explaining rapid growth
+4. Texas Sports Academy expansion included as part of overall Alpha ecosystem
+
+**Output to be Created**:
+- `alpha-school-docs/reference/locations/expansion.md` - Comprehensive expansion documentation
+
+**Source Material Available**:
+- `research/locations.md` (Spec 001f) - lines 252-340 contain expansion plans, partnerships, Texas Sports Academy details
+- All dependencies satisfied (Spec 001f and Spec 021 complete)
+
+**Next Steps**:
+1. Begin Phase 2.0: Review research/locations.md expansion content
+2. Plan documentation structure matching FR requirements
+3. Create expansion.md file with template structure
+4. Implement all sections per checklist (Fall 2026 openings, exploratory targets, partnerships, TSA growth)
+
+---
+
 ### Spec 021 Implemented ✅
 
 **Status**: Complete - reference documentation created

@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 021 Implemented)
+**Last Updated**: 2026-01-20 (Spec 022 Created)
 
 ---
 
@@ -113,7 +113,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 021 | ✅ Complete | High | 001 | Locations overview and campus details | `reference/locations/overview.md` | Small |
-| 022 | 📋 Planned | Medium | 021 | Expansion plans (announced) | `reference/locations/expansion.md` | Small |
+| 022 | 🚧 In Progress | Medium | 021 | Expansion plans (announced) | `reference/locations/expansion.md` | Small |
 
 ### Contact Domain
 

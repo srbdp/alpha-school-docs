@@ -1,0 +1,62 @@
+---
+title: "Daily Schedule"
+api: "GET /model/daily-schedule"
+---
+
+Alpha School's daily schedule structure for academics and life skills.
+
+## Response
+
+<ResponseField name="day_structure" type="string">
+  Overall daily organization pattern.
+
+  **Example:** `"Morning academics (2 hrs) → Lunch → Afternoon life skills (2.5-4 hrs)"`
+</ResponseField>
+
+<ResponseField name="morning_duration" type="string">
+  Academic block length.
+
+  **Example:** `"2 hours"`
+</ResponseField>
+
+<ResponseField name="morning_start_ritual" type="string">
+  Day-opening activity.
+
+  **Example:** `"Limitless Launch goal-setting session"`
+</ResponseField>
+
+<ResponseField name="lunch_transition" type="string">
+  Break between morning and afternoon.
+
+  **Example:** `"Lunch break after 10:00 AM academic completion"`
+</ResponseField>
+
+<ResponseField name="afternoon_duration" type="string">
+  Life skills block length range.
+
+  **Example:** `"2.5-4 hours"`
+</ResponseField>
+
+<ResponseField name="core_subjects_timing" type="string">
+  When academics occur.
+
+  **Example:** `"Morning block, typically 8:00-10:00 AM"`
+</ResponseField>
+
+<ResponseField name="life_skills_timing" type="string">
+  When life skills occur.
+
+  **Example:** `"Afternoon, post-lunch"`
+</ResponseField>
+
+<ResponseField name="life_skills_count" type="number">
+  Number of life skills taught.
+
+  **Example:** `24`
+</ResponseField>
+
+<ResponseField name="real_world_projects" type="array">
+  Examples of student-run projects.
+
+  **Example:** `["Airbnb operations", "Food trucks", "Athletic training", "Public speaking", "Outdoor expeditions"]`
+</ResponseField>

@@ -1,0 +1,68 @@
+---
+title: "Outcomes Evidence"
+api: "GET /outcomes/evidence"
+---
+
+Research basis and verification status of Alpha School's outcome claims.
+
+## Response
+
+<ResponseField name="primary_data_source" type="string">
+  Main source of performance evidence.
+
+  **Example:** `"Internal platform analytics and third-party standardized testing (NWEA MAP, College Board SAT/AP)"`
+</ResponseField>
+
+<ResponseField name="data_collection_timeframe" type="string">
+  Period over which Alpha has collected data.
+
+  **Example:** `"Approximately one decade since 2014 (Alpha School claim)"`
+</ResponseField>
+
+<ResponseField name="third_party_assessments" type="array">
+  Independently administered standardized tests used.
+
+  **Example:** `["NWEA MAP", "College Board SAT", "College Board AP Exams"]`
+</ResponseField>
+
+<ResponseField name="independent_verification_status" type="string">
+  Whether claims have external academic audit.
+
+  **Example:** `"No independent academic audit; self-reported interpretation of third-party test results"`
+</ResponseField>
+
+<ResponseField name="peer_reviewed_research" type="string">
+  Published academic studies on 2-Hour Learning effectiveness.
+
+  **Example:** `"None—no published peer-reviewed studies on 2-Hour Learning model"`
+</ResponseField>
+
+<ResponseField name="sample_size_disclosure" type="string">
+  Whether Alpha publishes student counts for claims.
+
+  **Example:** `"Undisclosed for most claims; one cohort: 5 students completed both MAP tests"`
+</ResponseField>
+
+<ResponseField name="raw_data_availability" type="string">
+  Public access to underlying test scores and metrics.
+
+  **Example:** `"Not publicly available—no RIT score distributions, percentile breakdowns, or detailed metrics"`
+</ResponseField>
+
+<ResponseField name="control_group_studies" type="string">
+  Existence of randomized controlled trials or matched comparisons.
+
+  **Example:** `"None—no randomized controlled trials or matched comparison studies"`
+</ResponseField>
+
+<ResponseField name="independent_analyst_reviews" type="array">
+  Critical assessments from external researchers.
+
+  **Example:** `["Astral Codex Ten (critical)", "Frank Hecker (critical)", "Austin Scholar (sympathetic)"]`
+</ResponseField>
+
+<ResponseField name="regulatory_evaluation" type="string">
+  Government/education authority assessments of model.
+
+  **Example:** `"Pennsylvania charter rejection (2025) citing 'untested' AI model"`
+</ResponseField>

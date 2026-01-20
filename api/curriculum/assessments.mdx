@@ -1,0 +1,62 @@
+---
+title: "Assessments"
+api: "GET /curriculum/assessments"
+---
+
+Alpha School's multi-layered assessment approach for academic and life skills.
+
+## Response
+
+<ResponseField name="primary_standardized_test" type="string">
+  Third-party external assessment tool.
+
+  **Example:** `"NWEA MAP (Measures of Academic Progress)"`
+</ResponseField>
+
+<ResponseField name="standardized_test_frequency" type="string">
+  How often external tests are administered.
+
+  **Example:** `"3 times per year"`
+</ResponseField>
+
+<ResponseField name="internal_mastery_threshold" type="string">
+  Platform accuracy requirement for lesson/grade advancement (note discrepancy).
+
+  **Example:** `"90%+ on alpha.school; 80% in secondary sources"`
+</ResponseField>
+
+<ResponseField name="internal_test_format" type="string">
+  Question type for platform assessments.
+
+  **Example:** `"100% multiple-choice"`
+</ResponseField>
+
+<ResponseField name="real_time_tracking" type="array">
+  AI monitoring capabilities.
+
+  **Example:** `["eye tracking", "attention monitoring", "accuracy rates", "learning speed analytics"]`
+</ResponseField>
+
+<ResponseField name="parent_access" type="string">
+  Family visibility into student progress.
+
+  **Example:** `"Detailed dashboards showing daily progress, projected timelines, mastery status"`
+</ResponseField>
+
+<ResponseField name="progression_requirement" type="string">
+  Criteria for grade-level advancement.
+
+  **Example:** `"Comprehensive mastery tests covering full grade-level material before promotion"`
+</ResponseField>
+
+<ResponseField name="performance_based_assessments" type="array">
+  Non-academic evaluation methods.
+
+  **Example:** `["Test to Pass Showcase (debates, TEDx talks)", "Life skills tests to pass", "High school super passion project outcomes"]`
+</ResponseField>
+
+<ResponseField name="reported_outcomes_verification" type="string">
+  Independent validation status.
+
+  **Example:** `"Self-reported without independent third-party verification"`
+</ResponseField>

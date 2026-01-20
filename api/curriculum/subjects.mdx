@@ -1,0 +1,62 @@
+---
+title: "Curriculum Subjects"
+api: "GET /curriculum/subjects"
+---
+
+Academic subjects taught at Alpha School and their delivery platforms.
+
+## Response
+
+<ResponseField name="core_subjects" type="array">
+  Seven academic subjects taught during morning block.
+
+  **Example:** `["Math", "English/Language Arts", "Science", "History/Social Studies", "Reading", "Writing", "Foreign Language"]`
+</ResponseField>
+
+<ResponseField name="delivery_duration" type="string">
+  Daily time allocation for all academic subjects.
+
+  **Example:** `"2 hours"`
+</ResponseField>
+
+<ResponseField name="delivery_method" type="string">
+  Instructional delivery approach.
+
+  **Example:** `"AI-powered adaptive platforms with personalized instruction"`
+</ResponseField>
+
+<ResponseField name="central_platform" type="string">
+  Platform orchestrating curriculum pathway.
+
+  **Example:** `"Dash"`
+</ResponseField>
+
+<ResponseField name="proprietary_platforms" type="array">
+  Alpha School-developed applications.
+
+  **Example:** `["Alpha Math", "AlphaRead", "AlphaWrite", "Teach Tales", "Fluency Coach"]`
+</ResponseField>
+
+<ResponseField name="third_party_platforms" type="array">
+  External platforms integrated into curriculum.
+
+  **Example:** `["IXL", "Khan Academy", "Grammarly", "Math Academy", "Synthesis Tutor", "Amira", "Lalio"]`
+</ResponseField>
+
+<ResponseField name="standards_k8" type="string">
+  K-8 curriculum standards alignment.
+
+  **Example:** `"Common Core"`
+</ResponseField>
+
+<ResponseField name="standards_high_school" type="string">
+  High school curriculum standards alignment.
+
+  **Example:** `"Advanced Placement (AP Calculus, Statistics, English Language, English Literature, Biology, Chemistry, Physics)"`
+</ResponseField>
+
+<ResponseField name="mastery_threshold" type="string">
+  Required proficiency level before advancement.
+
+  **Example:** `"90%+ accuracy (alpha.school) or 80%+ (secondary sources)"`
+</ResponseField>

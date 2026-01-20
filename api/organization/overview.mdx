@@ -1,0 +1,62 @@
+---
+title: "Organization Overview"
+api: "GET /organization/overview"
+---
+
+Alpha School organization overview including basic information, structure, and key facts.
+
+## Response
+
+<ResponseField name="name" type="string">
+  Official organization name.
+
+  **Example:** `"Alpha School"`
+</ResponseField>
+
+<ResponseField name="type" type="string">
+  Organization type.
+
+  **Example:** `"Private K-12 School"`
+</ResponseField>
+
+<ResponseField name="founded" type="number">
+  Year founded.
+
+  **Example:** `2014`
+</ResponseField>
+
+<ResponseField name="headquarters" type="string">
+  Primary location.
+
+  **Example:** `"Austin, Texas"`
+</ResponseField>
+
+<ResponseField name="educational_model" type="string">
+  Core educational approach.
+
+  **Example:** `"2 Hour Learning (AI-powered mastery-based)"`
+</ResponseField>
+
+<ResponseField name="grade_levels" type="string">
+  Grades served.
+
+  **Example:** `"PreK-12"`
+</ResponseField>
+
+<ResponseField name="locations" type="number">
+  Number of campuses.
+
+  **Example:** `17`
+</ResponseField>
+
+<ResponseField name="tuition_range" type="string">
+  Annual tuition range.
+
+  **Example:** `"$10,000 - $75,000"`
+</ResponseField>
+
+<ResponseField name="key_people" type="array">
+  Founders and leadership.
+
+  **Example:** `["Joe Liemandt", "MacKenzie Price", "Andrew Price"]`
+</ResponseField>

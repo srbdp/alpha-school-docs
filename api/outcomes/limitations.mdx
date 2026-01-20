@@ -1,0 +1,68 @@
+---
+title: "Outcomes Limitations"
+api: "GET /outcomes/limitations"
+---
+
+Critical gaps in Alpha School's outcomes documentation.
+
+## Response
+
+<ResponseField name="independent_verification_status" type="string">
+  Whether third-party academic audits or peer-reviewed research exist.
+
+  **Example:** `"None - all claims self-reported without independent academic verification"`
+</ResponseField>
+
+<ResponseField name="peer_reviewed_research_status" type="string">
+  Whether academic studies validate 2-Hour Learning effectiveness.
+
+  **Example:** `"None - no published peer-reviewed studies on model effectiveness"`
+</ResponseField>
+
+<ResponseField name="raw_data_availability" type="string">
+  Whether raw MAP scores, RIT scores, percentiles are publicly available.
+
+  **Example:** `"Not available - no raw quantitative data published"`
+</ResponseField>
+
+<ResponseField name="sample_size_disclosure" type="string">
+  Whether cohort sizes for performance claims are documented.
+
+  **Example:** `"Not disclosed - one analyzed cohort had only 5 students"`
+</ResponseField>
+
+<ResponseField name="demographic_data_availability" type="string">
+  Whether outcomes by SES, prior performance, learning differences exist.
+
+  **Example:** `"Not available - no demographic breakdowns published"`
+</ResponseField>
+
+<ResponseField name="attrition_data_availability" type="string">
+  Whether retention rates and departure reasons are public.
+
+  **Example:** `"Not available - no attrition data published"`
+</ResponseField>
+
+<ResponseField name="longitudinal_data_status" type="string">
+  Whether multi-year college/career outcomes tracked.
+
+  **Example:** `"Unavailable - first class graduated 2025, too early for longitudinal data"`
+</ResponseField>
+
+<ResponseField name="methodology_documentation" type="string">
+  Whether growth multiplier calculation methods are published.
+
+  **Example:** `"Not documented - no published methodology for 2.6x, 3.6x, 6.5x calculations"`
+</ResponseField>
+
+<ResponseField name="control_group_studies" type="string">
+  Whether RCTs or matched comparison studies exist.
+
+  **Example:** `"None - no randomized controlled trials or matched comparison groups"`
+</ResponseField>
+
+<ResponseField name="regulatory_validation_status" type="string">
+  Whether education authorities endorse the model.
+
+  **Example:** `"Not validated - charter rejections cite 'untested' model; no accreditation body endorsement"`
+</ResponseField>

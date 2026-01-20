@@ -1,0 +1,56 @@
+---
+title: "Curriculum Overview"
+api: "GET /curriculum/overview"
+---
+
+Alpha School's mastery-based K-12 curriculum philosophy and structure.
+
+## Response
+
+<ResponseField name="curriculum_philosophy" type="string">
+  Core pedagogical approach emphasizing proficiency over time-based advancement.
+
+  **Example:** `"Mastery-based learning with personalized pacing and spaced repetition"`
+</ResponseField>
+
+<ResponseField name="mastery_threshold" type="string">
+  Proficiency requirement before advancement (note source discrepancy).
+
+  **Example:** `"Over 90% accuracy (alpha.school) or 80% (secondary sources)"`
+</ResponseField>
+
+<ResponseField name="core_subjects" type="array">
+  Academic subjects taught in morning block.
+
+  **Example:** `["Math", "English/Language Arts", "Science", "Social Studies", "Reading", "Writing", "Foreign Language"]`
+</ResponseField>
+
+<ResponseField name="core_subjects_duration" type="string">
+  Daily time allocation for academic subjects.
+
+  **Example:** `"2 hours (morning block with Pomodoro 25-minute sessions)"`
+</ResponseField>
+
+<ResponseField name="life_skills_count" type="number">
+  Number of life skills emphasized across curriculum.
+
+  **Example:** `24`
+</ResponseField>
+
+<ResponseField name="life_skills_duration" type="string">
+  Daily time allocation for life skills workshops.
+
+  **Example:** `"~4 hours (afternoon, screen-free, hands-on)"`
+</ResponseField>
+
+<ResponseField name="standards_alignment" type="object">
+  Curriculum standards followed by grade level.
+
+  **Example:** `{"K-8": "Common Core", "High School": "Advanced Placement"}`
+</ResponseField>
+
+<ResponseField name="delivery_model" type="string">
+  Instructional delivery approach.
+
+  **Example:** `"AI-powered personalized instruction via third-party and proprietary platforms, curated by central 'Dash' system"`
+</ResponseField>

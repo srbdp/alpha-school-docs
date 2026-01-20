@@ -1,0 +1,68 @@
+---
+title: "Contact Information"
+api: "GET /contact/overview"
+---
+
+Contact methods and communication channels for Alpha School inquiries.
+
+## Response
+
+<ResponseField name="primary_contact_method" type="string">
+  Main contact channel for general inquiries.
+
+  **Example:** `"Web form at alpha.school/learn-more"`
+</ResponseField>
+
+<ResponseField name="general_emails" type="array">
+  Publicly available purpose-specific email addresses.
+
+  **Example:** `["registrar@alpha.school", "admissions@alpha.school"]`
+</ResponseField>
+
+<ResponseField name="press_email" type="string">
+  Media inquiry contact.
+
+  **Example:** `"press@2hourlearning.com"`
+</ResponseField>
+
+<ResponseField name="headquarters_address" type="string">
+  Corporate headquarters (same as Austin PK-8 campus).
+
+  **Example:** `"1201 Spyglass Dr, Austin, TX 78746"`
+</ResponseField>
+
+<ResponseField name="phone_availability" type="string">
+  General phone contact status.
+
+  **Example:** `"Not publicly available (web form-first strategy)"`
+</ResponseField>
+
+<ResponseField name="social_media" type="object">
+  Official social media handles.
+
+  **Example:** `{"instagram": "@alphaschool_2hrlearning", "twitter": "@AlphaSchoolATX", "facebook": "@AlphaSchoolAustin", "youtube": "@thealphaschool", "linkedin": "alphaschools"}`
+</ResponseField>
+
+<ResponseField name="careers_portal" type="string">
+  Employment/job applications (external platform).
+
+  **Example:** `"https://www.crossover.com/clients/alpha"`
+</ResponseField>
+
+<ResponseField name="contact_form" type="string">
+  General inquiry form URL.
+
+  **Example:** `"https://alpha.school/learn-more/"`
+</ResponseField>
+
+<ResponseField name="events_page" type="string">
+  Upcoming info sessions and events.
+
+  **Example:** `"https://alpha.school/programs-events/"`
+</ResponseField>
+
+<ResponseField name="faq_page" type="string">
+  Self-service frequently asked questions.
+
+  **Example:** `"https://alpha.school/faq/"`
+</ResponseField>

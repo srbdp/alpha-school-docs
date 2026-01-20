@@ -1,0 +1,50 @@
+---
+title: "Outcomes Testimonials"
+api: "GET /outcomes/testimonials"
+---
+
+First-hand accounts from parents, students, and public recognition.
+
+## Response
+
+<ResponseField name="parent_testimonials" type="array">
+  Parent accounts documented from public sources.
+
+  **Example:** `[{"speaker": "Scott Jensen", "quote": "It's working for all the kids at the school"}, {"speaker": "Anonymous Parent (Astral Codex Ten)", "quote": "Genuine progress but marketing claims overstated"}]`
+</ResponseField>
+
+<ResponseField name="student_testimonials" type="array">
+  Student accounts documented from public sources.
+
+  **Example:** `[{"speaker": "Elle Kristine", "quote": "Friends at traditional school are so stressed out"}, {"speaker": "Marshall (age 9)", "quote": "The app gives you an explanation of how to get it correct"}]`
+</ResponseField>
+
+<ResponseField name="public_recognition" type="array">
+  Awards and recognition received.
+
+  **Example:** `[{"award": "Most School of the Future School", "organization": "Austin Chronicle (Best of Austin)", "year": 2024}]`
+</ResponseField>
+
+<ResponseField name="selection_bias_warning" type="string">
+  Important context about testimonial representativeness.
+
+  **Example:** `"Testimonials from public sources create inherent selection bias—satisfied families more likely to share publicly"`
+</ResponseField>
+
+<ResponseField name="critical_testimonials_available" type="boolean">
+  Whether critical perspectives exist in public testimonials.
+
+  **Example:** `true`
+</ResponseField>
+
+<ResponseField name="critical_testimonial_summary" type="string">
+  Summary of critical perspectives in testimonials.
+
+  **Example:** `"Anonymous parent notes: not genuine 2-hour learning (3-4 hrs actual), not AI-driven as marketed, estimates approach benefits 30-70% of children"`
+</ResponseField>
+
+<ResponseField name="testimonials_vs_evidence_distinction" type="string">
+  How testimonials should be weighted.
+
+  **Example:** `"Testimonials represent satisfaction and perception, not verification of academic claims"`
+</ResponseField>

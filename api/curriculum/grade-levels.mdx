@@ -1,0 +1,56 @@
+---
+title: "Grade Levels"
+api: "GET /curriculum/grade-levels"
+---
+
+Alpha School's PreK-12 capability-based level system.
+
+## Response
+
+<ResponseField name="grade_range" type="string">
+  Overall grade levels served across Alpha School locations.
+
+  **Example:** `"PreK-12 (varies by location)"`
+</ResponseField>
+
+<ResponseField name="grade_range_variability" type="boolean">
+  Whether grade ranges differ by campus location.
+
+  **Example:** `true`
+</ResponseField>
+
+<ResponseField name="level_basis" type="string">
+  How students are grouped and advance through curriculum.
+
+  **Example:** `"Capability-based levels (mastery-driven) vs. traditional age-based grades"`
+</ResponseField>
+
+<ResponseField name="prek_8_structure" type="string">
+  Learning approach for younger students.
+
+  **Example:** `"Structured curriculum with prescribed workshops and guided academic progression"`
+</ResponseField>
+
+<ResponseField name="high_school_structure" type="string">
+  Learning approach for older students.
+
+  **Example:** `"Self-directed super passion projects with dedicated mentorship and greater autonomy"`
+</ResponseField>
+
+<ResponseField name="standards_k8" type="string">
+  Curriculum standards for elementary/middle school.
+
+  **Example:** `"Common Core (K-8)"`
+</ResponseField>
+
+<ResponseField name="standards_high_school" type="string">
+  Curriculum standards for high school.
+
+  **Example:** `"Advanced Placement (AP Calculus, Statistics, English, Sciences)"`
+</ResponseField>
+
+<ResponseField name="progression_basis" type="string">
+  How students advance between levels.
+
+  **Example:** `"Demonstrated mastery (90%+ accuracy), not age or time"`
+</ResponseField>

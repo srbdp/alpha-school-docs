@@ -90,6 +90,68 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "API Reference",
+        "groups": [
+          {
+            "group": "Organization",
+            "pages": [
+              "api/organization/overview",
+              "api/organization/mission",
+              "api/organization/leadership",
+              "api/organization/history"
+            ]
+          },
+          {
+            "group": "Educational Model",
+            "pages": [
+              "api/model/educational-philosophy",
+              "api/model/two-hour-learning",
+              "api/model/ai-integration",
+              "api/model/human-instruction",
+              "api/model/daily-schedule"
+            ]
+          },
+          {
+            "group": "Curriculum",
+            "pages": [
+              "api/curriculum/overview",
+              "api/curriculum/subjects",
+              "api/curriculum/grade-levels",
+              "api/curriculum/assessments"
+            ]
+          },
+          {
+            "group": "Outcomes",
+            "pages": [
+              "api/outcomes/claims",
+              "api/outcomes/evidence",
+              "api/outcomes/testimonials",
+              "api/outcomes/limitations"
+            ]
+          },
+          {
+            "group": "Enrollment",
+            "pages": [
+              "api/enrollment/process",
+              "api/enrollment/tuition"
+            ]
+          },
+          {
+            "group": "Locations",
+            "pages": [
+              "api/locations/overview",
+              "api/locations/expansion"
+            ]
+          },
+          {
+            "group": "Contact",
+            "pages": [
+              "api/contact/overview"
+            ]
+          }
+        ]
       }
     ]
   },

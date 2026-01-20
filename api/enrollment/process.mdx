@@ -1,0 +1,68 @@
+---
+title: "Enrollment Process"
+api: "GET /enrollment/process"
+---
+
+Alpha School's three-step enrollment pathway and requirements.
+
+## Response
+
+<ResponseField name="enrollment_steps" type="array">
+  Three-step admissions process sequence.
+
+  **Example:** `["Attend Showcase", "Submit Application ($100)", "Shadow Day with MAP assessment"]`
+</ResponseField>
+
+<ResponseField name="application_fee" type="string">
+  Non-refundable fee per student for application.
+
+  **Example:** `"$100 per student"`
+</ResponseField>
+
+<ResponseField name="enrollment_deposit" type="string">
+  Deposit amount required to secure enrollment.
+
+  **Example:** `"$1,000 (applied toward tuition)"`
+</ResponseField>
+
+<ResponseField name="grade_levels_served" type="string">
+  Age/grade range across Alpha locations.
+
+  **Example:** `"K-12 (PreK-12 at select locations like Austin)"`
+</ResponseField>
+
+<ResponseField name="tuition_range" type="string">
+  Minimum and maximum annual tuition by location.
+
+  **Example:** `"$10,000/year (Brownsville) to $75,000/year (San Francisco)"`
+</ResponseField>
+
+<ResponseField name="student_guide_ratio" type="string">
+  Student-to-guide staffing ratio.
+
+  **Example:** `"5:1"`
+</ResponseField>
+
+<ResponseField name="admissions_type" type="string">
+  Enrollment timeline and deadline structure.
+
+  **Example:** `"Rolling admissions (no fixed deadlines)"`
+</ResponseField>
+
+<ResponseField name="financial_aid_availability" type="string">
+  Tuition assistance program and mechanism.
+
+  **Example:** `"Available via Clarity software (not guaranteed to all applicants)"`
+</ResponseField>
+
+<ResponseField name="diagnostic_assessment" type="string">
+  Placement test used for level determination.
+
+  **Example:** `"MAP (Measures of Academic Progress)"`
+</ResponseField>
+
+<ResponseField name="required_documentation" type="array">
+  Key documents needed for enrollment.
+
+  **Example:** `["Immunizations", "School records", "Waivers", "Emergency contacts", "Physical exam form"]`
+</ResponseField>

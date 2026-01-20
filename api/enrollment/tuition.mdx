@@ -1,0 +1,68 @@
+---
+title: "Tuition and Financial Aid"
+api: "GET /enrollment/tuition"
+---
+
+Alpha School's location-based tuition pricing and financial aid options.
+
+## Response
+
+<ResponseField name="tuition_range" type="string">
+  Minimum and maximum annual tuition across all Alpha locations.
+
+  **Example:** `"$10,000 - $75,000/year"`
+</ResponseField>
+
+<ResponseField name="location_pricing" type="object">
+  Tuition amounts by specific campus location.
+
+  **Example:** `{"san_francisco": "$75,000", "austin": "$40,000", "gt_school": "$25,000", "brownsville": "$10,000", "micro_schools": "~$15,000"}`
+</ResponseField>
+
+<ResponseField name="all_inclusive_model" type="boolean">
+  Whether tuition covers all student activities and costs.
+
+  **Example:** `true`
+</ResponseField>
+
+<ResponseField name="application_fee" type="string">
+  Non-refundable fee required with application.
+
+  **Example:** `"$100 per student"`
+</ResponseField>
+
+<ResponseField name="enrollment_deposit" type="string">
+  Deposit amount to secure enrollment spot (applies to tuition).
+
+  **Example:** `"$1,000 per student"`
+</ResponseField>
+
+<ResponseField name="sibling_discount" type="string">
+  Tuition reduction for multiple enrolled children.
+
+  **Example:** `"5% for second child and beyond"`
+</ResponseField>
+
+<ResponseField name="financial_aid_platform" type="string">
+  Third-party system for aid applications.
+
+  **Example:** `"Clarity"`
+</ResponseField>
+
+<ResponseField name="voucher_compatibility" type="boolean">
+  Whether school accepts state vouchers.
+
+  **Example:** `true`
+</ResponseField>
+
+<ResponseField name="typical_voucher_amount" type="string">
+  Common voucher value in eligible states.
+
+  **Example:** `"~$12,000/year"`
+</ResponseField>
+
+<ResponseField name="included_in_tuition" type="array">
+  What all-inclusive tuition covers.
+
+  **Example:** `["field trips", "supplies", "enrichment programs", "afternoon workshops", "sports", "arts", "technology", "MAP assessments"]`
+</ResponseField>

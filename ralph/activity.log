@@ -1201,3 +1201,158 @@ Spec includes complete output template showing exact markdown structure for `ref
 - Checklist has 28 tasks (slightly more than Spec 002's 22 due to three separate leader profiles)
 - Research source clearly documented (research/organization.md lines 90-122)
 
+
+## 2026-01-20 - Spec 004 Implemented ✅
+
+**Timestamp**: 2026-01-20
+**Action**: Implemented Spec 004 - Leadership Reference Documentation
+**Type**: Reference Documentation Implementation
+**Phase**: Phase 2 (Reference Documentation)
+
+### Summary
+Created the third Phase 2 reference documentation file by synthesizing research findings from `research/organization.md` (lines 90-122) into a structured, LLM-optimized API-style reference document answering "Who leads Alpha School?"
+
+### Files Created
+- `reference/organization/leadership.md` - 122 lines of structured API-style documentation
+
+### Implementation Approach
+
+**Single-Phase Workflow**: Documentation specs use direct writing approach (no Phase X.0 test foundation required)
+- Read research file focusing on Leadership section
+- Created output file following all 9 Functional Requirements
+- Verified content quality (FR2) with strict public information boundary
+- Verified LLM optimization (FR3)
+- Updated all tracking files
+
+### Document Structure (FR1)
+
+**9 Required Sections**:
+1. H1 title with one-sentence blockquote definition
+2. Overview section (3 paragraphs on founder-led governance, three leaders, affiliations)
+3. Properties table (8 structured attributes)
+4. Details section (5 subsections: Joe Liemandt, MacKenzie Price, Andrew Price, Governance Structure, Information Availability)
+5. Examples section (3 concrete examples)
+6. Related documentation links (4 links to related specs)
+7. FAQs section (5 Q&A pairs)
+8. Sources section (5 citations with retrieval dates)
+9. Footer metadata (last updated/verified dates)
+
+### Content Quality (FR2)
+
+**Factual Accuracy**:
+- All content traced to `research/organization.md` lines 90-122
+- Every claim has corresponding source citations
+- Three leader profiles complete: Joe Liemandt, MacKenzie Price, Andrew Price
+
+**Public Information Boundary**:
+- Strictly limited to publicly available information
+- No speculation about internal organizational structure
+- No private compensation details (only public disclosures)
+- Information gaps explicitly noted
+
+**Information Availability Transparency**:
+- Added explicit note: "Alpha School does not maintain a dedicated leadership, team, or 'about us' page on its website"
+- Listed specific 404 URLs: /about, /about-us, /team, /leadership, /our-story
+- Explained information gathered from external sources (Colossus, The Org, news articles)
+
+**Claims Attribution**:
+- Used "described as..." for characterizations (e.g., SalesBuilder as "first billion-dollar AI product")
+- Used "according to Colossus profile..." for third-party sources
+- Historical claims include context (e.g., "$600M by 1998")
+- Distinguished current roles from historical positions
+
+### LLM Optimization (FR3)
+
+**Hierarchical Structure**:
+- 16 total headings in H1 → H2 → H3 hierarchy
+- Enables efficient LLM parsing of document structure
+
+**Scannable Properties Table**:
+- GitHub Flavored Markdown table with 8 key-value pairs
+- Enables direct LLM extraction of structured attributes
+
+**Example Formatting**:
+- 3 examples with clear H3 delimiters
+- Concrete instances: leadership investment, founder journey, multi-org leadership
+
+### Key Design Decisions
+
+1. **Three Leader Focus**: research/organization.md provides information on three confirmed leaders. Document limits coverage to these publicly documented individuals (Joe Liemandt, MacKenzie Price, Andrew Price).
+
+2. **Explicit Information Availability Note**: research/organization.md line 119 states no dedicated leadership pages exist (404 errors). This information gap is explicitly documented in dedicated subsection to maintain transparency.
+
+3. **Public Information Boundary (FR2.4)**: Unique requirement for leadership spec - strictly limit to publicly available information. Included publicly disclosed roles/backgrounds; excluded internal structure and private compensation.
+
+4. **Attribution Language**: Used proper attribution patterns ("according to...", "described as...") to distinguish sourced claims from objective facts.
+
+5. **Governance Structure Honesty**: Acknowledged limits of public information about formal governance, board composition, and complete team roster.
+
+### Verification Results
+
+**Automated Checks** ✅:
+- File exists at correct path
+- Valid markdown syntax (122 lines)
+- All required sections present (16 headings)
+- Properties table complete (8 properties)
+- All sources include retrieval dates (5 citations)
+- Footer metadata present
+
+**Manual Verification** ✅:
+- One-sentence definition captures leadership structure
+- Overview is exactly 3 paragraphs
+- All facts trace to research/organization.md lines 90-122
+- Three leader profiles complete (Joe, MacKenzie, Andrew)
+- Public information boundary respected (no speculation)
+- Information gaps explicitly noted (no leadership page, 404 errors)
+- FAQs address 5 common questions
+- Related links use correct relative paths
+- Professional LLM-optimized tone maintained
+
+### Output Quality
+
+**Document Metrics**:
+- 122 lines (concise reference doc)
+- 16 headings (proper H1→H2→H3 hierarchy)
+- 8 properties in structured table
+- 5 subsections in Details
+- 3 concrete examples
+- 5 FAQ entries
+- 5 source citations
+
+**Content Coverage**:
+- Governance model (founder-led private school)
+- Three key leaders with detailed backgrounds
+- Affiliations (Trilogy, ESW Capital, 2 Hour Learning)
+- Investment history ($1B since 2022)
+- Information availability transparency
+
+### Updates Made
+- Updated `ralph/roadmap.md`: Spec 004 status to "✅ Complete", stats updated (10/32 complete, 31.3%)
+- Updated `ralph/progress.md`: Appended comprehensive completion entry
+- Updated `ralph/activity.log`: This entry
+- Updated `ralph/specs/004-organization-leadership/checklist.md`: Marked all 28 tasks complete
+
+### Next Action
+Implement Spec 005: History reference documentation (depends on Spec 002, same research source)
+
+### Blockers
+None
+
+### Progress Tracking
+
+- **Total Specs**: 32
+- **Specs Implemented**: 10 (31.3%)
+- **Specs In Progress**: 0 (0%)
+- **Specs Planned**: 22 (68.8%)
+- **Phase 1**: 7/7 complete (100%) ✅
+- **Phase 2**: 3/22 implemented (13.6%)
+- **Phase 3**: 0/3 guides (0%)
+
+### Notes
+
+- Successfully enforced public information boundary unique to leadership documentation
+- Information availability note provides transparency about documentation limitations
+- API-style template continues to work well for LLM optimization
+- Attribution language patterns effectively distinguish sourced claims from facts
+- Three leader profiles provide comprehensive coverage of publicly available leadership information
+

@@ -275,7 +275,7 @@ Alpha School was founded in 2014 by MacKenzie Price as "Emergent Academy" after 
 - Unlocking children's potential through revolutionary AI-powered education
 - Compressing academics into two hours to give students "their childhoods back"
 - Shift from time-based to mastery-based systems (90%+ proficiency required)
-- Long-term vision: democratize the model globally through a sub-\$1,000 tablet reaching "a billion kids within 20 years"
+- Long-term vision: democratize the model globally through a sub-$1,000 tablet reaching "a billion kids within 20 years"
 
 ### Leadership Expertise and Background
 
@@ -309,13 +309,13 @@ As of 2026, Alpha School operates 17 campuses across 8 U.S. states:
 
 **Charter School Attempts**: In 2025, Alpha applied to open public-school charter networks in six states. Pennsylvania, Texas, Utah, Arkansas, and North Carolina all rejected applications. Pennsylvania's Department of Education specifically cited the AI model as "untested" and failing to demonstrate alignment with state academic standards. Only Arizona approved a charter partnership.
 
-**Accessibility Considerations**: The tuition range raises equity questions. While the vision includes democratization through a sub-\$1,000 tablet within 20 years, current pricing places the model out of reach for most families. The organization operates both high-cost urban campuses (potentially subsidizing development) and lower-cost regional campuses, suggesting a strategy of using revenue from affluent markets to enable expansion into more accessible price points.
+**Accessibility Considerations**: The tuition range raises equity questions. While the vision includes democratization through a sub-$1,000 tablet within 20 years, current pricing places the model out of reach for most families. The organization operates both high-cost urban campuses (potentially subsidizing development) and lower-cost regional campuses, suggesting a strategy of using revenue from affluent markets to enable expansion into more accessible price points.
 
 ### Growth Plans and Organizational Sustainability
 
 **Expansion Trajectory**: From 16 students in a house (2014) to 17+ campuses across 8 states with 2,000+ students (2026). Continued multi-state expansion with entry into new markets (Puerto Rico, Chicago metro) announced for Fall 2026.
 
-**Long-Term Vision**: Develop a sub-\$1,000 tablet platform delivering personalized AI-powered education within 20 years, reaching "a billion kids." This represents scaling from premium private campuses to globally-accessible technology platform.
+**Long-Term Vision**: Develop a sub-$1,000 tablet platform delivering personalized AI-powered education within 20 years, reaching "a billion kids." This represents scaling from premium private campuses to globally-accessible technology platform.
 
 **Organizational Ties**: AI platforms owned by Trilogy Software (division of Trilogy Enterprises, Joe Liemandt). Close integration across Trilogy/ESW Capital ecosystem. This affiliation provides technological resources and capital for platform development but concentrates decision-making within affiliated entities.
 

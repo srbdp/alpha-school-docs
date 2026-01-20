@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 019 Implemented)
+**Last Updated**: 2026-01-20 (Spec 020 Created)
 
 ---
 
@@ -106,7 +106,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 019 | ✅ Complete | Critical | 001 | Enrollment process and eligibility | `reference/enrollment/process.md` | Small |
-| 020 | 📋 Planned | High | 019 | Tuition and financial aid (if public) | `reference/enrollment/tuition.md` | Small |
+| 020 | 📋 Planned (Spec Created) | High | 019 | Tuition and financial aid (if public) | `reference/enrollment/tuition.md` | Small |
 
 ### Locations Domain
 

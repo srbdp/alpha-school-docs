@@ -3575,3 +3575,70 @@ None
 - Updated roadmap.md: Spec 019 Complete, 25/32 (78%) project completion
 - Updated checklist.md: 100% complete
 - All facts traced to research/enrollment.md with explicit information gaps documented
+
+---
+
+## 2026-01-20 - Spec 020 Created
+
+**Action**: Created Spec 020 - Enrollment Tuition and Financial Aid Specification
+**Type**: Spec Creation
+**Phase**: Phase 2 (Reference Documentation - Enrollment Domain)
+
+### Summary
+Successfully created comprehensive specification for Spec 020 documenting Alpha School's tuition structure, all-inclusive model, financial aid programs, voucher strategies, and sibling discounts. Specification defines 34 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review) plus post-implementation tasks for creating reference/enrollment/tuition.md.
+
+### Files Created/Modified
+- `ralph/specs/020-enrollment-tuition/spec.md` - Complete specification document (comprehensive tuition documentation requirements)
+- `ralph/specs/020-enrollment-tuition/checklist.md` - Implementation checklist (34 tasks)
+- `ralph/roadmap.md` - Updated to reflect Spec 020 creation status
+- `ralph/progress.md` - Added Spec 020 creation entry
+- `ralph/activity.log` - This entry
+
+### Specification Overview
+- **Status**: 📋 Planned (Spec Created)
+- **Priority**: High
+- **Phase**: Phase 2 (Reference Documentation)
+- **Dependencies**: Spec 019 (Enrollment Process)
+- **Output**: `reference/enrollment/tuition.md`
+- **Implementation Tasks**: 34 tasks (7 validation, 14 writing, 6 review, 7 post-implementation)
+
+### Content Scope
+
+**Key Areas Documented:**
+1. **Tuition by Location**: San Francisco ($75k), Austin ($40k), GT School ($25k), Brownsville ($10k), micro-schools (~$15k); undisclosed locations (NY, Miami, Santa Barbara, Scottsdale)
+2. **All-Inclusive Model**: Trips (Formula 1, Poland), supplies, enrichment, "no additional fundraising ever"; comparison with traditional private school add-on fees
+3. **Fees and Deposits**: $100 application fee (non-refundable), $1,000 enrollment deposit (applies to tuition), refund policy gaps
+4. **Financial Aid**: Clarity platform process, CRITICAL LIMITATION (NOT guaranteed), undisclosed income thresholds/award ranges/approval rates
+5. **Voucher Strategies**: ~$12k vouchers reducing micro-school to $300-400/month (80% reduction), state-specific school choice programs
+6. **Sibling Discounts**: 5% for second+ children, combination with vouchers for maximum affordability
+7. **Information Gaps**: Payment schedules, refund policies, aid eligibility thresholds, meal/transportation costs
+
+**Critical Design Decisions:**
+1. All-inclusive model prominence with dedicated subsection and traditional school cost comparisons
+2. Financial aid limitation emphasis ("NOT guaranteed") in Overview, Properties, Details, Examples, FAQs
+3. Voucher strategy detailed documentation showing 80% cost reduction examples
+4. Hypothetical aid example (Example 3) with explicit CRITICAL LIMITATION about unpublished data
+5. Location pricing gaps documentation for NY/Miami/Santa Barbara/Scottsdale
+6. Neutral presentation avoiding "expensive"/"affordable" value judgments
+
+### Functional Requirements
+- **FR1.1-FR1.9**: Document structure (header, overview, 10-property table, 6 details subsections, 3 examples, 6 FAQs, sources, footer)
+- **FR2.1-FR2.4**: Content quality (factual accuracy, Alpha vs. gaps distinction, information gaps handling, neutral presentation)
+- **FR3.1-FR3.3**: LLM optimization (hierarchical structure, scannable tables, example formatting with INFORMATION STATUS)
+
+### Data Sources
+- research/enrollment.md lines 75-110 (tuition, fees, financial aid, vouchers, discounts)
+- research/enrollment.md lines 196-223 (information gaps)
+- ralph/specs/019-enrollment-process/spec.md (enrollment domain pattern)
+- ralph/specs/015-outcomes-claims/spec.md (comprehensive reference doc pattern)
+
+### Next Steps
+Ready for implementation. When implemented, Spec 020 will complete the Enrollment Domain documentation (2 of 2 specs: 019 Process, 020 Tuition). Next incomplete spec after implementation will be Spec 021: Locations Overview.
+
+### Key Observations
+- $65,000 tuition variance (Brownsville $10k to San Francisco $75k) reflects geographic market positioning strategy
+- All-inclusive model major differentiator—$75k SF includes everything vs. traditional schools with add-on fees
+- Voucher strategy (~$12k) provides greater affordability than sibling discount (5% = ~$2k on Austin tuition)
+- Financial aid transparency critical—Clarity platform exists but assistance NOT guaranteed, with many details undisclosed
+- Hypothetical aid example provides scenario while maintaining epistemic integrity through explicit limitations
+

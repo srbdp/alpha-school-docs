@@ -6,6 +6,73 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 020 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 020 specification document (`ralph/specs/020-enrollment-tuition/spec.md`)
+- Created Spec 020 implementation checklist (`ralph/specs/020-enrollment-tuition/checklist.md`)
+- Updated roadmap.md to reflect Spec 020 creation (Last Updated: 2026-01-20 (Spec 020 Created))
+- Logged activity in progress.md
+- Spec creation completed autonomously following spec-driven development methodology
+
+**Key Details**:
+- Spec 020 focuses on detailed tuition structure and financial aid at Alpha School—answering "How much does Alpha cost and how can families afford it?"
+- Output will be `reference/enrollment/tuition.md`
+- Comprehensive specification covering tuition, all-inclusive model, financial aid, vouchers, and affordability strategies with transparency about information gaps
+- 9 Functional Requirements (FR1.1-FR1.9) defining complete document structure
+- 34 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review) plus post-implementation
+
+**Specification Scope**:
+- **Tuition by Location**: Detailed pricing for each Alpha School location—San Francisco ($75,000/year, city's most expensive private school), Austin ($40,000), GT School ($25,000), Brownsville ($10,000, lowest-cost), micro-schools (~$15,000); undisclosed locations (NY, Miami, Santa Barbara, Scottsdale) require campus contact
+- **All-Inclusive Model**: Comprehensive breakdown of what tuition covers (trips like Formula 1/Poland, activities, supplies, enrichment) with "no additional fundraising ever" guarantee; comparison with traditional private school add-on fees
+- **Fees and Deposits**: $100 application fee (non-refundable), $1,000 enrollment deposit (applies toward tuition), refund policy gaps
+- **Financial Aid Programs**: Clarity platform process, application requirements (tax returns, income, assets, expenses), CRITICAL LIMITATION that assistance NOT guaranteed to every applicant, undisclosed income thresholds/award ranges/approval rates
+- **Affordability Strategies**: School voucher usage (~$12,000 reducing micro-school costs to $300-400/month, 80% reduction), state-specific availability (Texas, Florida, Arizona school choice programs), voucher eligibility variations
+- **Sibling Discounts**: 5% tuition reduction for second child and all subsequent children, multi-child savings calculations, combination with vouchers for maximum affordability
+- **Information Gaps**: Payment schedules not detailed, specific pricing for some locations requires campus contact, income thresholds for aid not public, refund policies not disclosed, meal/transportation costs not addressed
+
+**Functional Requirements Highlights**:
+- FR1.1-FR1.9: Complete document structure (header, overview, 10-property table, 6 details subsections, 3 examples, 6 FAQs, sources)
+- FR2.1-FR2.4: Content quality (factual accuracy, Alpha reporting vs. gaps distinction, information gaps handling, neutral presentation without "expensive"/"affordable" labels)
+- FR3.1-FR3.3: LLM optimization (hierarchical structure, scannable tables, example formatting with INFORMATION STATUS conclusions)
+
+**Design Decisions**:
+1. **Six Details Subsections**: Organized by financial topics (Tuition by Location, All-Inclusive Model, Fees/Deposits, Financial Aid Process, School Vouchers, Sibling Discounts)—separates pricing structure from affordability strategies
+2. **All-Inclusive Model Prominence**: Dedicated subsection with specific examples (Formula 1 trips, Poland travel) and comparison to traditional private school add-on fees—helps families understand true cost comparison beyond base tuition
+3. **Financial Aid Limitation Emphasis**: "NOT guaranteed to every applicant" appears in Overview paragraph 3, Properties table, Details subsection, Examples (CRITICAL LIMITATION), and FAQs to manage expectations
+4. **Voucher Strategy Detailed Documentation**: Extensive documentation with 80% cost reduction examples (~$12k vouchers reducing $15k micro-school to $3k/year)—demonstrates how $75k San Francisco school can have $300/month micro-school option in voucher-eligible states
+5. **Hypothetical Financial Aid Example**: Example 3 includes financial aid award scenario but clearly labeled as HYPOTHETICAL with explicit CRITICAL LIMITATION noting Alpha doesn't publish award data/formulas/approval rates—provides useful scenario while maintaining epistemic integrity
+6. **Location Pricing Gaps Documentation**: Explicitly lists locations requiring campus contact (NY, Miami, Santa Barbara, Scottsdale) in multiple sections—prevents LLMs from claiming comprehensive pricing knowledge
+
+**Data Sources**:
+- research/enrollment.md lines 75-99 (tuition/costs by location)
+- research/enrollment.md lines 101-110 (financial aid and vouchers)
+- research/enrollment.md lines 76-79 (fees and deposits)
+- research/enrollment.md lines 91-98 (all-inclusive model and discounts)
+- research/enrollment.md lines 196-223 (information gaps)
+- ralph/specs/019-enrollment-process/spec.md (enrollment domain pattern)
+- ralph/specs/015-outcomes-claims/spec.md (comprehensive reference doc pattern)
+
+**Next Action**:
+Spec 020 is now ready for implementation. Next step is to implement the specification by creating `reference/enrollment/tuition.md` following the 34-task checklist across 3 phases plus post-implementation tasks. This will complete the Enrollment Domain documentation (2 of 2 specs: 019 Process, 020 Tuition).
+
+**Blockers**: None
+
+**Notes**:
+- Spec 020 completes Enrollment Domain specification (2 specs total: 019 Process, 020 Tuition)
+- All-inclusive model ($75k SF includes everything vs. traditional schools with add-on fees) is major differentiator requiring prominence
+- Financial aid "NOT guaranteed" critical transparency—prevents assumption that application ensures award
+- Voucher strategy (~$12k value) dwarfs sibling discount (5% = ~$2k on Austin tuition)—represents most significant affordability mechanism
+- $65,000 tuition variance between Brownsville ($10k) and San Francisco ($75k) reflects geographic market positioning
+- Hypothetical aid example provides scenario while maintaining epistemic integrity through explicit CRITICAL LIMITATION
+- Next incomplete spec after implementation will be Spec 021: Locations Overview
+
+---
+
+## 2026-01-20 (earlier)
+
 ### Spec 019 Created ✅
 
 **Status**: Spec created, ready for implementation

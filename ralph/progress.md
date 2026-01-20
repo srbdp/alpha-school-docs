@@ -2968,3 +2968,52 @@ Created comprehensive API-style reference documentation for Alpha School's enrol
 - Updated: `ralph/specs/019-enrollment-process/checklist.md` (100% complete)
 
 **Next Spec**: 020 - Enrollment Tuition (depends on Spec 019)
+
+---
+
+## 2026-01-20: Spec 020 - Enrollment Tuition and Financial Aid
+
+**Status**: ✅ Complete
+
+**Implementation Summary**:
+Created comprehensive API-style reference documentation for Alpha School's tuition structure, pricing, financial aid programs, and affordability strategies at `reference/enrollment/tuition.md`.
+
+**Key Content Delivered**:
+- Location-based tuition pricing ($10,000 Brownsville to $75,000 San Francisco)
+- All-inclusive model covering trips, activities, supplies with no additional fundraising
+- Financial aid process via Clarity platform (NOT guaranteed to all applicants)
+- School voucher strategies (~$12,000 reducing micro-school costs to $300-400/month)
+- Sibling discounts (5% for second child and beyond)
+- Fees and deposits ($100 application fee, $1,000 enrollment deposit)
+- 10-property structured data table
+- 6 detailed subsections (Tuition by Location, All-Inclusive Model, Fees/Deposits, Financial Aid, Vouchers, Sibling Discounts)
+- 3 concrete cost scenarios (San Francisco full-pay, micro-school voucher strategy, Austin financial aid)
+- 6 FAQs addressing common financial questions
+- 9 source citations with retrieval dates
+
+**Information Transparency**:
+- Explicitly documented gaps: payment schedules, refund policies, aid eligibility thresholds, meal/transportation costs not publicly disclosed
+- Emphasized financial aid NOT guaranteed throughout document
+- Noted undisclosed locations (NY, Miami, Santa Barbara, Scottsdale) requiring campus contact
+- Maintained neutral tone without "expensive"/"affordable" value judgments
+- Clearly distinguished between Alpha's published information and hypothetical examples
+
+**Template Compliance**:
+- Perfect adherence to API-style documentation template
+- H1 → H2 → H3 hierarchy (no H4)
+- All required sections implemented (Header, Overview, Properties, Details, Examples, Related, FAQs, Sources, Footer)
+- LLM-optimized structure with scannable tables and clear examples
+- All examples include INFORMATION STATUS conclusions
+
+**Roadmap Updates**:
+- Spec 020 status changed from Planned to Complete
+- Project completion: 26/32 specs (81%)
+- Remaining: 6 planned specs (19%)
+- Enrollment domain documentation now complete (2 files: process.md, tuition.md)
+
+**Files Modified**:
+- Created: `alpha-school-docs/reference/enrollment/tuition.md` (111 lines)
+- Updated: `ralph/roadmap.md` (status and completion percentage)
+- Updated: `ralph/specs/020-enrollment-tuition/checklist.md` (100% complete)
+
+**Next Spec**: 021 - Locations Overview (depends on Spec 001)

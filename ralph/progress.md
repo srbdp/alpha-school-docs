@@ -6,6 +6,59 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 011 Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 011: Curriculum Overview Reference Documentation
+- Created `reference/curriculum/overview.md` (comprehensive curriculum reference document)
+- Updated roadmap.md to mark Spec 011 as complete (17/32 specs completed, 53.1%)
+- Updated progress.md with implementation details
+- Logged completion in activity.log
+
+**Output File**:
+- `reference/curriculum/overview.md` - 334 lines, comprehensive API-style reference documentation
+
+**Key Content Covered**:
+- **Curriculum Philosophy**: Mastery-based learning requiring 90%+ accuracy (alpha.school) or 80% (secondary sources), personalized pacing, spaced repetition
+- **Core Academic Subjects**: Math, English/Language Arts, Science, Social Studies delivered via AI platforms in 2-hour morning block
+- **Life Skills Program**: 24 life skills across 5 core areas, afternoon workshops, real-world projects
+- **Standards Alignment**: Common Core K-8, Advanced Placement high school, third-party and proprietary platforms
+- **Assessment Approach**: NWEA MAP tests 3x yearly, internal mastery tests, real-time platform tracking
+
+**Documentation Structure**:
+- 8 properties in structured table (curriculum_philosophy, mastery_threshold, core_subjects, core_subjects_duration, life_skills_count, life_skills_duration, standards_alignment, delivery_model)
+- 5 Details subsections (Mastery-Based Learning Philosophy, Core Academic Subjects, Life Skills Program, Standards Alignment, Assessment and Progression)
+- 3 Examples (Mastery-Based Progression, Life Skills Workshop, Curriculum Integration)
+- 5 FAQs addressing common curriculum questions
+- 12 source citations with retrieval dates
+
+**Quality Considerations**:
+- Transparently noted mastery threshold discrepancy (90% vs 80%) with source attribution
+- Properly attributed efficiency claims (20-30 hours per grade level) to Alpha without independent verification
+- Noted information gaps (no public scope/sequence, foreign language specifics unclear)
+- Attributed real-world project outcomes (profitable Airbnb, food trucks) as Alpha's reported examples
+- Maintained neutral presentation without advocacy or critique
+
+**Dependencies Satisfied**:
+- Spec 001c (Research Curriculum Domain) - Used research/curriculum.md as primary source
+- Spec 006 (Educational Philosophy) - Referenced for learning science context
+
+**Next Action**:
+Spec 012 (Subjects) is now ready for implementation once spec is written, or proceed to creating Spec 012 specification.
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 17 (53.1%)
+- In Progress: 0 (0%)
+- Planned: 15 (46.9%)
+- Phase 2 Curriculum Domain: 1/4 specs complete (011 complete, 012-014 planned)
+
+---
+
 ### Spec 001 Created ✅
 
 **Status**: Spec created, ready for implementation
@@ -1606,3 +1659,73 @@ Implement Spec 011: Curriculum Overview reference documentation (depends on Spec
 ---
 
 *Last Updated: 2026-01-20*
+
+## 2026-01-20 (Later) - Spec 011 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 011 specification document (`ralph/specs/011-curriculum-overview/spec.md`)
+- Created Spec 011 implementation checklist (`ralph/specs/011-curriculum-overview/checklist.md`)
+- Updated roadmap.md: Spec 011 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 15 (46.9%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 011 focuses on Curriculum Overview reference documentation
+- First Curriculum domain spec (following completion of Organization and Model domains)
+- Dependencies: Spec 001c (Research Curriculum Domain) - Complete ✅, Spec 006 (Educational Philosophy) - Complete ✅
+- Output: `reference/curriculum/overview.md`
+- Priority: High
+- Effort: Small (~1 hour)
+
+**Specification Structure**:
+- 16 Functional Requirements organized in 3 groups (FR1: Document Structure [9], FR2: Content Quality [4], FR3: LLM Optimization [3])
+- 32 implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output guidance with 8-property table structure
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **8 Properties Emphasizing Curriculum Attributes**: Properties focus on curriculum characteristics (philosophy, subjects, standards, delivery) rather than implementation details (AI platforms) or outcomes (test scores). Following Spec 006 pattern (8 properties) as both are "overview" specs providing broad context.
+
+2. **Five Details Subsections**: Mastery-Based Learning Philosophy → Core Academic Subjects → Life Skills Program → Standards Alignment → Assessment and Progression provides comprehensive curriculum coverage organized logically.
+
+3. **Handle Mastery Threshold Discrepancy Transparently**: research/curriculum.md shows conflict between 90%+ (alpha.school) and 80%+ (secondary sources). Spec 011 notes both values with source attribution per research file's own transparency about this discrepancy (lines 515-518).
+
+4. **Life Skills as Major Curriculum Component**: 24 life skills receive more daily time than academics (4 hours vs. 2 hours) and warrant full Details subsection with comprehensive coverage (not just mentioned in passing).
+
+5. **Note Information Gaps Explicitly Without Speculation**: research/curriculum.md lines 479-510 identify significant gaps (no public scope/sequence, foreign language specifics unclear, etc.). Spec 011 notes gaps directly rather than inferring or speculating.
+
+6. **Attribute Efficiency Claims and Real-World Project Outcomes**: All curriculum efficiency claims are self-reported ("20-30 hours per grade level", "2.6x faster", real-world project profitability). Spec 011 uses attribution language to prevent LLMs from stating unverified curriculum effectiveness as objective fact.
+
+**Content Coverage**:
+- **Properties table**: 8 structured attributes (curriculum_philosophy, mastery_threshold, core_subjects, core_subjects_duration, life_skills_count, life_skills_duration, standards_alignment, delivery_model)
+- **Details**: 5 subsections covering mastery-based learning philosophy through assessment and progression
+- **Examples**: 3 concrete examples (Mastery-Based Progression, Life Skills Workshop, Curriculum Integration)
+- **FAQs**: 5 common questions with authoritative answers
+- **Sources**: research/curriculum.md plus alpha.school, podcasts, and other cited sources
+
+**Research Source**:
+- Primary: research/curriculum.md (all 558 lines, comprehensive curriculum research)
+- Secondary: reference/model/educational-philosophy.md (Spec 006) for mastery-based learning context
+
+**Next Action**:
+Implement Spec 011 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/011-curriculum-overview/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 17 (53.1%)
+- Specs implemented: 16 (50%)
+- In Progress: 1 (Spec 011 - spec created, implementation pending)
+- Planned: 15 (46.9%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 9/22 implemented (40.9%), 1 spec created (Spec 011)
+- This is the first Curriculum domain spec, initiating Phase 2 work beyond Organization and Model domains
+
+---

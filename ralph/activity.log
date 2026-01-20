@@ -1489,3 +1489,159 @@ Implement Spec 005 by writing the actual reference document following the checkl
 - Chronological + thematic organization balances timeline with deep-dives
 - Ready for implementation following checklist tasks
 
+
+---
+
+## 2026-01-20 - Spec 005 Implemented
+
+### Task
+Implement Spec 005: History Reference Documentation
+
+### What Was Done
+
+#### Files Created
+1. `reference/organization/history.md` (370 lines, ~20 KB)
+   - Complete API-style reference documentation for Alpha School's history
+   - Followed all 9 Functional Requirements from spec
+   - Synthesized research from `research/organization.md` lines 123-219
+
+#### Document Structure
+
+**Header & Overview**:
+- One-sentence definition capturing 2014 founding → 2025 national expansion arc
+- 3-paragraph overview covering founding story, AI transformation, expansion challenges
+
+**Properties Table** (10 structured attributes):
+- original_name: "Emergent Academy"
+- founding_year: 2014
+- first_campus_year: 2016
+- founding_location: "Brian Holtz's house, Austin area"
+- initial_student_count: 16
+- founding_inspiration: "Daughters found school boring"
+- original_model: "Acton Academy microschool branch using adaptive apps"
+- ai_investment_year: 2022
+- first_graduating_class: 2025
+- expansion_timeline: "2014 (16 students) → 2025 (17+ campuses, 8 states)"
+
+**Details Section** (6 subsections, ~200 lines):
+
+1. **Founding (2014)**: MacKenzie Price's motivation (daughters bored in 3rd/1st grade), "steering the Titanic" frustration, Brian Holtz partnership (Acton Academy parent), starting with 16 kids in house, Emergent Academy name, Acton Academy branch
+
+2. **Early Model (2014-2016)**: Adaptive app usage (Khan Academy, ALEKS, Math Academy, Newsela, DreamBox), personalized self-paced learning, afternoon activities ("neighborhood lemonade stand wars", "Hero's Journey performances"), formal campus opening 2016
+
+3. **AI Investment & Platform Development (2022)**: Context (generative AI emergence), Joe Liemandt's ~$1B investment, Timeback platform (personalized learning), Incept LLM (curriculum generation), vision monitoring (engagement tracking, "anti-patterns"), integration with IXL, Khan Academy, Trilogy Software
+
+4. **Key Milestones (2014-2025)**: Chronological timeline organized by year
+   - 2014: Founding as Emergent Academy, 16 kids in house, Holtz partnership
+   - 2016: Formal campus established
+   - 2022: $1B AI investment, Timeback/Incept development
+   - 2025: First graduating class (11 of 12 to universities), year-round Alpha High, new campuses (Raleigh, NYC, Santa Barbara, Chantilly, Charlotte), SF $75k opening, charter applications
+
+5. **Charter School Initiatives (2025)**: Applications to 6 states through 2 Hour Learning initiative, 5 rejections (PA, TX, UT, AR, NC), 1 approval (AZ), Pennsylvania DoE reasoning quoted: "The artificial intelligence instructional model being proposed by this school is untested and fails to demonstrate how the tools, methods and providers would ensure alignment to Pennsylvania academic standards.", NYT coverage of innovation vs. regulatory tension
+
+6. **Geographic Expansion (2025)**: Tuition range diversity ($10k Brownsville → $40k Austin → $75k San Francisco), new 2025 campuses across AZ/CA/FL/NC/NY/TX/VA, announced Fall 2026 openings (The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, Chicago IL), multi-tiered pricing strategy supporting long-term $1k tablet vision
+
+**Examples** (3 structured examples):
+
+1. **Origin Story - From Frustration to Founding**: Catalyst (daughters bored) → Frustration ("steering the Titanic" comment) → Action (founded Emergent Academy, 16 kids in house) → Model (adaptive apps + afternoon activities) → Outcome (foundation for multi-state network)
+
+2. **Evolution from Microschool to AI Platform**: 2014 starting point (16 kids, Khan Academy) → 2016 progression (formal campus) → 2022 turning point ($1B investment, generative AI) → 2022-2025 development (Timeback, Incept, vision monitoring) → 2025 current state (17+ campuses, proprietary AI, first graduating class)
+
+3. **Expansion Strategy - Geographic and Economic Diversity**: Low-cost market ($10k Brownsville) → High-cost market ($75k San Francisco, most expensive in city) → Flagship ($40k Austin) → Geographic diversity (8 states + PR) → Strategic rationale (multi-tiered pricing toward $1k tablet, billion kids vision) → Regulatory navigation (charter applications)
+
+**Related Documentation**: Links to Organization Overview (002), Leadership (004), Educational Philosophy (006), AI Integration (008), Locations Overview (021)
+
+**FAQs** (6 questions):
+- When was Alpha School founded? (2014, Emergent Academy, 16 kids, formal campus 2016)
+- Who founded Alpha School and why? (MacKenzie Price, daughters bored, "steering the Titanic")
+- What was original name? (Emergent Academy, Acton Academy branch)
+- How did Alpha School start? (Holtz's house, adaptive apps, afternoon activities)
+- What was major AI investment? (2022, ~$1B by Liemandt, Timeback/Incept)
+- What happened with charter applications? (5 rejections, 1 approval, PA cited "untested")
+
+**Sources** (6 citations with retrieval dates): alpha.school, LinkedIn, 2hourlearning.com/founder, Colossus, NYT, SF Standard
+
+**Footer**: Last updated/verified 2026-01-20
+
+### Content Quality
+
+**Factual Accuracy (FR2.1)**:
+- All facts trace to research/organization.md lines 123-219
+- Timeline events accurately dated (2014, 2016, 2022, 2025)
+- Charter outcomes clearly stated (5 rejections: PA/TX/UT/AR/NC, 1 approval: AZ)
+- First graduating class details accurate (11 of 12 to four-year universities)
+- Every claim has source backing in research file
+
+**Claims Attribution (FR2.2)**:
+- AI investment: "approximately $1 billion" (not exact figure)
+- Charter rejections: Stated as facts with direct PA DoE quote
+- Pennsylvania DoE criticism: Quoted directly without editorial commentary
+- Origin story: Distinguished narrative elements from documented facts
+
+**Information Gaps (FR2.3)**:
+- Gaps noted where relevant (exact enrollment numbers over time not public)
+- No speculation about undocumented periods
+- Clear distinction between known facts vs. inferred context
+
+**Neutral Language (FR2.4)**:
+- Charter rejections: Factual presentation without defense or criticism
+- Pennsylvania DoE quote: Presented without editorial commentary
+- Acton Academy evolution: Presented as factual progression
+- AI investment timing: Noted relationship to generative AI emergence without hype
+- Professional, balanced tone throughout
+
+### LLM Optimization
+
+**Hierarchical Structure (FR3.1)**:
+- 25 total headings (1 H1, 8 H2, 16 H3)
+- Consistent hierarchy: History (H1) → Major Sections (H2) → Subsections (H3)
+- No H4 or deeper nesting
+- Clear document outline for LLM parsing
+
+**Scannable Tables (FR3.2)**:
+- Properties table: GitHub Flavored Markdown, 10 rows, 4 columns
+- Consistent column alignment
+- Parseable structured data for LLM key-value extraction
+
+**Example Formatting (FR3.3)**:
+- Examples use H3 headings with descriptive titles
+- Structured format with labels (Catalyst:, Action:, Starting Point:, etc.)
+- Clear delimiters separating examples from other content
+- Concrete, illustrative instances grounding historical narrative
+
+### Updates Made
+- Created `reference/organization/history.md`: 370 lines, comprehensive history documentation
+- Updated `ralph/roadmap.md`: Spec 005 status to "✅ Complete", stats updated (11/32 complete, 34.4%)
+- Updated `ralph/progress.md`: Appended comprehensive completion entry
+- Updated `ralph/activity.log`: This entry
+- Updated `ralph/specs/005-organization-history/checklist.md`: Ready to mark tasks complete
+
+### Next Action
+Implement Spec 006: Educational Philosophy reference documentation (depends on Spec 001b Model research)
+
+### Blockers
+None
+
+### Progress Tracking
+
+- **Total Specs**: 32
+- **Specs Implemented**: 11 (34.4%)
+- **Specs In Progress**: 0 (0%)
+- **Specs Planned**: 21 (65.6%)
+- **Phase 1**: 7/7 complete (100%) ✅
+- **Phase 2**: 4/22 implemented (18.2%)
+- **Phase 3**: 0/3 guides (0%)
+
+### Notes
+
+- Six subsection Details structure successfully balances chronology (Key Milestones) with thematic depth (Founding, AI Investment, Charter Initiatives, Expansion)
+- Neutral handling of charter rejections critical for maintaining documentation trustworthiness
+- Pennsylvania DoE "untested model" criticism quoted directly provides important context about regulatory challenges
+- Properties table focuses on founding facts enabling LLM structured data extraction
+- Three examples illustrate key historical themes: origin story, transformation arc, expansion strategy
+- Document demonstrates evolution: 16 kids with Khan Academy → $1B AI platform → 17+ campuses
+- Charter application outcomes (5 rejections, 1 approval) important for understanding Alpha's expansion challenges
+- Geographic and economic diversity ($10k-$75k tuition) reflects long-term democratization vision
+- API-style template continues to work well for LLM optimization
+- Single-phase documentation workflow proven effective across Specs 002-005
+

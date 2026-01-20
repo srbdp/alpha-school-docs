@@ -1390,3 +1390,70 @@ Implement Spec 009: Human Instruction reference documentation (depends on Spec 0
 ---
 
 *Last Updated: 2026-01-20*
+
+## 2026-01-20 (Later) - Spec 009 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 009 specification document (`ralph/specs/009-model-human-instruction/spec.md`)
+- Created Spec 009 implementation checklist (`ralph/specs/009-model-human-instruction/checklist.md`)
+- Updated roadmap.md: Spec 009 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 17 (53.1%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 009 focuses on Human Instruction reference documentation
+- Fourth Model domain spec (following Specs 006, 007, 008)
+- Dependencies: Spec 001b (Complete ✅), Spec 006 (Complete ✅)
+- Output: `reference/model/human-instruction.md`
+- Priority: High
+- Effort: Small (~1 hour)
+
+**Specification Structure**:
+- 16 Functional Requirements organized in 3 groups (FR1: Document Structure [9], FR2: Content Quality [4], FR3: LLM Optimization [3])
+- 10 implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output template provided
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **Single-Phase Workflow**: Documentation specs use Phase 2.0 (Write Documentation) only—no test foundation (following Specs 006-008)
+2. **9 Properties Emphasizing Role Transformation**: Properties focus on guide role attributes (title, responsibilities, compensation) rather than philosophy (Spec 006) or AI technical details (Spec 008)
+3. **Five Details Subsections**: Role Transformation → Core Responsibilities → Student Relationships → Compensation Model → AI Integration
+4. **Explicit "Zero Academic Instruction" Clarification**: Emphasized throughout to clarify fundamental difference from traditional teachers (research/model.md line 124)
+5. **Information Gaps Noted**: Training program, qualifications, professional development, turnover rates not publicly documented (research/model.md lines 367-371)
+6. **Separate Guide Role from Philosophy and AI**: Spec 009 covers "what guides do," Spec 006 covers "why it works," Spec 008 covers "how AI works"
+
+**Content Coverage**:
+- **Properties table**: 9 structured attributes (role_title, instructional_responsibility, primary_focus, one_on_one_time, monitoring_role, life_skills_role, compensation_minimum, compensation_context, recruitment_strategy)
+- **Details**: 5 subsections (Role Transformation, Core Responsibilities, Student Relationships, Compensation Model, AI Integration)
+- **Examples**: 3 concrete examples (Morning Monitoring, Weekly One-on-One, High Standards/High Support)
+- **FAQs**: 5 Q&A pairs (academic instruction, one-on-one time, morning monitoring, compensation, afternoon activities)
+- **Sources**: research/model.md lines 118-141 plus minimum 4 other citations
+
+**Research Source**:
+- Primary: research/model.md lines 118-141 (role transformation, responsibilities, one-on-one time, compensation)
+- Secondary: research/organization.md line 35, research/curriculum.md lines 223-224, reference/model/two-hour-learning.md line 33, reference/model/ai-integration.md line 63
+
+**Next Action**:
+Implement Spec 009 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/009-model-human-instruction/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 15 (46.9%)
+- Specs implemented: 14 (43.8%)
+- In Progress: 1 (Spec 009 - spec created, implementation pending)
+- Planned: 17 (53.1%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 7/22 implemented (31.8%), 1 spec created (Spec 009)
+- This is the fourth Model domain spec (following Specs 006, 007, 008)
+
+---
+
+*Last Updated: 2026-01-20*

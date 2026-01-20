@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 025 Created)
+**Last Updated**: 2026-01-20 (Spec 025 Implemented)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 30 (94%) | **In Progress**: 0 (0%) | **Planned**: 2 (6%) | **Estimated Effort**: ~12 hours
+**Total Specs**: 32 | **Completed**: 31 (97%) | **In Progress**: 0 (0%) | **Planned**: 1 (3%) | **Estimated Effort**: ~12 hours
 
 ---
 
@@ -128,7 +128,7 @@ Each sub-spec uses incremental writing - findings are written to file immediatel
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
 | 024 | ✅ Complete | High | 002-023 | Parent guide - parent-focused overview | `guides/for-parents.md` | Small |
-| 025 | 📋 Planned (Spec Created) | Medium | 002-023 | Educator guide - educator-focused overview | `guides/for-educators.md` | Small |
+| 025 | ✅ Complete | Medium | 002-023 | Educator guide - educator-focused overview | `guides/for-educators.md` | Small |
 | 026 | 📋 Planned | Medium | 002-023 | Media guide - press/media overview | `guides/for-media.md` | Small |
 
 ---

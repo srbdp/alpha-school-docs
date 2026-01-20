@@ -6,6 +6,72 @@ This file tracks the overall progress of the Alpha School LLM-Readable Documenta
 
 ## 2026-01-20
 
+### Spec 015 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 015 specification document (`ralph/specs/015-outcomes-claims/spec.md`)
+- Created Spec 015 implementation checklist (`ralph/specs/015-outcomes-claims/checklist.md`)
+- Updated roadmap.md to reflect Spec 015 creation (Last Updated: 2026-01-20 (Spec 015 Created))
+- Logged activity in progress.md
+- Spec creation completed autonomously following spec-driven development methodology
+
+**Key Details**:
+- Spec 015 focuses on Alpha School's self-reported outcome claims across learning speed, standardized testing, academic achievements, college outcomes, and student satisfaction
+- Output will be `reference/outcomes/claims.md`
+- Comprehensive specification covering claims with CRITICAL ATTRIBUTION DISCIPLINE requirement
+- 9 Functional Requirements (FR1.1-FR1.9) defining complete document structure
+- 27 implementation tasks across 3 phases (Research Validation, Documentation Writing, Quality Review)
+
+**Specification Scope**:
+- **Learning Speed Claims**: 2x-6.5x growth multipliers, grade-level completion timelines (20-30 hours vs. 200 hours)
+- **Standardized Test Performance**: MAP testing claims (2.6x-6.5x growth, 99th percentile, top 1-2% nationally)
+- **Academic Achievement Claims**: SAT scores (1470 average, 1535 senior median), AP exam performance (90% earn 4s/5s), National Merit recognition (50% of first class)
+- **College Outcomes**: First graduating class acceptances (Stanford, Vanderbilt, USC, UT Austin), college matriculation rate (11 of 12)
+- **Student Satisfaction**: Self-reported school preference (96% love school, 40-60% prefer school to vacation)
+- **Remediation Claims**: Students "two to three years behind" can catch up in 40-90 hours
+- **Attribution and Verification Status**: Clear indication all claims are self-reported without independent third-party verification
+- **Documentation Structure**: 10-property API-style table including explicit verification_status, 6 details subsections, 3 examples with VERIFICATION STATUS conclusions, 5 FAQs
+
+**Critical Design Decisions**:
+1. **Attribution Discipline**: EVERY outcome claim must use attribution language ("Alpha School claims...", "Alpha reports..."). Never state claims as objective facts. This is the most critical requirement (FR2.2).
+2. **Verification Status Explicit**: Properties table includes verification_status property; examples conclude with VERIFICATION STATUS statements; FAQ addresses independent verification
+3. **Critical Context Required**: Overview paragraph 3 comprehensively documents lack of verification, selection effects, sample size concerns, analyst critiques, charter rejections
+4. **Six Details Subsections**: More than typical reference docs but necessary for organizing diverse claim types (learning speed, standardized testing, high school academics, college outcomes, satisfaction, school-level performance)
+5. **Ten Properties Including verification_status**: Additional property beyond typical 8-9 to explicitly flag self-reported status
+6. **VERIFICATION STATUS in Examples**: Each example concludes with explicit verification status statement preventing misrepresentation as verified fact
+7. **Charter Rejection Inclusion**: Pennsylvania 2025 rejection citing "untested" model provides regulatory context
+8. **Balanced Presentation**: Document both Alpha's impressive claims AND methodological limitations/concerns without advocacy or excessive critique
+
+**Data Sources**:
+- research/outcomes.md lines 28-252 (all outcome claims from Alpha School, founder, and secondary sources)
+- research/outcomes.md lines 287-365 (information gaps, critical considerations, verification status)
+- Independent analyst concerns from Astral Codex Ten, Frank Hecker
+- Charter application rejection data (Pennsylvania Department of Education, 2025)
+
+**Quality Standards Emphasized**:
+- FR2.1: Factual Accuracy - All claims traced to research/outcomes.md with line references
+- FR2.2: Claims vs. Evidence Distinction - CRITICAL requirement that every claim be attributed to Alpha
+- FR2.3: Information Gaps Handling - Comprehensive documentation of verification gaps, sample sizes, selection effects
+- FR2.4: Neutral Presentation - Document claims and limitations without advocacy or excessive critique
+
+**Next Action**:
+Implement Spec 015 by writing reference/outcomes/claims.md following the specification and 27-task checklist. This is the next incomplete spec ready for implementation and first spec in Outcomes Domain.
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 20 (62.5%)
+- Spec 015 Status: Created (📋 Planned → ready for implementation)
+- Next domain: Outcomes (Specs 015-018, all planned)
+- Attribution discipline is paramount for this spec to prevent LLMs from misrepresenting unverified claims as facts
+
+---
+
+## 2026-01-20 (earlier)
+
 ### Spec 014 Implemented ✅
 
 **Status**: Complete

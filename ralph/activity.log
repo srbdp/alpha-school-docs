@@ -3065,3 +3065,84 @@ Successfully implemented Spec 013 following three-phase process: Research Valida
 - [x] FAQs addressing common grade level questions
 
 *Entry created: 2026-01-20*
+
+---
+
+## 2026-01-20 - Spec 015 Created
+
+**Action**: Created Spec 015 specification and checklist documents
+**Spec**: 015-outcomes-claims
+**Status**: 📋 Spec Created (Ready for Implementation)
+**Phase**: 2 (Reference Documentation - Outcomes Domain)
+**Priority**: High
+
+**Summary**:
+Created comprehensive specification for Outcomes Claims reference documentation following spec-driven development methodology. Spec 015 documents Alpha School's self-reported outcome claims across learning speed (2x-6.5x growth), standardized testing (99th percentile MAP scores), academic achievements (1470 SAT average), college outcomes (11 of 12 to four-year universities), and student satisfaction (96% love school)—with CRITICAL requirement that all claims be properly attributed as self-reported without independent third-party verification.
+
+**Specification Details**:
+- Output: `reference/outcomes/claims.md`
+- Functional Requirements: 9 (FR1.1-FR1.9 document structure, FR2.1-FR2.4 content quality, FR3.1-FR3.3 LLM optimization)
+- Implementation Tasks: 27 (6 research validation, 14 documentation writing, 7 quality review)
+- Properties: 10 (including explicit verification_status property)
+- Details Subsections: 6 (learning speed, standardized testing, high school academics, college outcomes, student satisfaction, school-level performance)
+- Examples: 3 (each with VERIFICATION STATUS conclusion)
+- FAQs: 5 (including comprehensive independent verification transparency)
+
+**Key Design Decisions**:
+1. **Attribution Discipline (CRITICAL)**: Every outcome claim must use attribution language ("Alpha School claims...", "Alpha reports...", "according to Alpha..."). Never state claims as objective facts. This is the most important requirement (FR2.2).
+2. **Verification Status Explicit**: Properties table includes verification_status property; examples conclude with VERIFICATION STATUS statements; FAQ 2 addresses independent verification comprehensively.
+3. **Critical Context Required**: Overview paragraph 3 documents lack of verification, selection effects (top 10th percentile admission, $40K+ tuition), small sample sizes (5 students in one cohort), independent analyst concerns, charter rejections.
+4. **Six Details Subsections**: More than typical 3-5 subsections but necessary for organizing diverse claim categories.
+5. **Ten Properties**: Additional verification_status property beyond typical 8-9 enables LLMs to immediately identify self-reported status.
+6. **Charter Rejection Inclusion**: Pennsylvania Department of Education 2025 rejection citing "untested" AI model provides regulatory skepticism context.
+7. **Balanced Presentation**: Document both Alpha's impressive claims AND methodological limitations without advocacy or excessive critique (neutral tone).
+
+**Content Scope**:
+- Learning Speed Claims: 2x faster learning, 2.6x-6.5x MAP growth multipliers, 20-30 hours vs. 200 hours for grade-level mastery, 40-90 hour remediation timelines
+- Standardized Test Performance: Top 1-2% nationally, 99th percentile school-wide, K-2 top 0.1%, grades 3-6 "2-3 levels above peers"
+- High School Academics: 1470 average SAT, 1535 senior median SAT, 90% earn 4s/5s on AP exams, 50% National Merit first class
+- College Outcomes: 11 of 12 (91.7%) first class to four-year universities (Stanford, Vanderbilt, USC, UT Austin)
+- Student Satisfaction: 96% love school, 40-60% prefer school to vacation, year-round operation at student request
+- Verification Status: Self-reported without independent verification, raw data not public, sample size concerns, selection effects, regulatory skepticism
+
+**Research Sources**:
+- research/outcomes.md lines 28-252: All outcome claims from Alpha School, founder interviews, secondary sources
+- research/outcomes.md lines 287-365: Information gaps, critical considerations, verification status documentation
+- Independent analyst critiques: Astral Codex Ten (small samples, "largely unverified"), Frank Hecker (marketing overstates AI, platform = "turbocharged spreadsheet")
+- Regulatory data: Pennsylvania charter rejection (2025)
+
+**Quality Standards Emphasized**:
+- FR2.1 (Factual Accuracy): All claims traced to research/outcomes.md with specific line references
+- FR2.2 (Claims vs. Evidence Distinction): CRITICAL - every claim attributed to Alpha, never stated as objective fact
+- FR2.3 (Information Gaps Handling): Comprehensive documentation of verification gaps, sample sizes, selection effects, longitudinal data absence
+- FR2.4 (Neutral Presentation): Document claims and limitations without advocacy ("impressive") or excessive critique ("exaggerated")
+
+**Files Created**:
+- ✅ Created: `ralph/specs/015-outcomes-claims/spec.md` (comprehensive specification, ~550 lines)
+- ✅ Created: `ralph/specs/015-outcomes-claims/checklist.md` (27 implementation tasks with detailed instructions)
+- ✅ Updated: `ralph/roadmap.md` (Last Updated: 2026-01-20 (Spec 015 Created))
+- ✅ Updated: `ralph/progress.md` (comprehensive Spec 015 creation entry)
+- ✅ Updated: `ralph/activity.log` (this entry)
+
+**Roadmap Impact**:
+- Total Specs: 32
+- Spec 015 Status: Created (📋 Planned → 📋 Ready for Implementation)
+- Next Task: Implement Spec 015 by writing reference/outcomes/claims.md following specification and checklist
+- Outcomes Domain: 0/4 → 0/4 specs implemented (Spec 015 created but not yet implemented)
+
+**Dependencies**:
+- ✅ Spec 001d: Research Outcomes Domain (complete - provides all source material)
+- Related: Spec 016 (Evidence), Spec 017 (Testimonials), Spec 018 (Limitations), Spec 014 (Assessments)
+
+**Critical Implementation Notes**:
+- Task 1.2.1 (Attribution Check) is the MOST CRITICAL quality review task
+- Every outcome claim in the document must be properly attributed to Alpha
+- Zero claims should be stated as independently verified facts
+- VERIFICATION STATUS must conclude each example
+- FAQ 2 must provide comprehensive transparency about lack of independent verification
+- Balance is key: document both claims and limitations neutrally
+
+**Next Immediate Action**:
+Implement Spec 015 by executing the 27-task checklist to create reference/outcomes/claims.md
+
+*Entry created: 2026-01-20*

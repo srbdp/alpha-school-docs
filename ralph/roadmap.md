@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 014 Implemented)
+**Last Updated**: 2026-01-20 (Spec 015 Created)
 
 ---
 

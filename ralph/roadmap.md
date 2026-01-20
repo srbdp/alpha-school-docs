@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 001 Created)
+**Last Updated**: 2026-01-20 (Spec 001 Restructured into 7 Sub-Specs)
 
 ---
 
@@ -15,9 +15,9 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 **Deliverables:**
 - **Reference Docs**: API-style Markdown for 7 organizational domains (22 files)
 - **Guides**: Audience-specific overview documents (3 files)
-- **Research**: Source documentation with citations (1 file)
+- **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 26 | **Completed**: 0 (0%) | **In Progress**: 1 (4%) | **Planned**: 25 (96%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 1 (3%) | **In Progress**: 1 (3%) | **Planned**: 30 (94%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -33,11 +33,20 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 
 ## Phase 1: Research (No Dependencies)
 
+Research is split into 7 independent sub-specs, one per domain. Each can be completed in a single agent session.
+
 | Spec | Status | Priority | Dependencies | Description | Output | Effort |
 |------|--------|----------|--------------|-------------|--------|--------|
-| 001 | 🚧 In Progress | Critical | None | Research & source documentation - gather all public Alpha School information with citations | `research/sources.md` | Medium |
+| 001 | 🚧 In Progress | - | None | Parent spec - overview and methodology | (see sub-specs) | - |
+| 001a | ✅ Complete | Critical | None | Research Organization domain | `research/organization.md` | Small |
+| 001b | 📋 Planned | Critical | None | Research Model domain | `research/model.md` | Small |
+| 001c | 📋 Planned | Critical | None | Research Curriculum domain | `research/curriculum.md` | Small |
+| 001d | 📋 Planned | High | None | Research Outcomes domain | `research/outcomes.md` | Small |
+| 001e | 📋 Planned | High | None | Research Enrollment domain | `research/enrollment.md` | Small |
+| 001f | 📋 Planned | High | None | Research Locations domain | `research/locations.md` | Small |
+| 001g | 📋 Planned | High | None | Research Contact domain | `research/contact.md` | Small |
 
-**Research Sources:**
+**Research Sources (for all sub-specs):**
 - alpha.school website (all pages)
 - Official social media (Twitter/X, LinkedIn, YouTube)
 - Official press releases
@@ -47,6 +56,9 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 
 **Available Tools:**
 - `web-research-doc-creator` agent - Use this agent to gather information from the web and synthesize it into documentation following this roadmap's template structure. Invoke with the Task tool (`subagent_type: "web-research-doc-creator"`).
+
+**Execution Pattern:**
+Each sub-spec uses incremental writing - findings are written to file immediately after each source is researched, not batched at the end. This prevents context window overflow and provides crash resilience.
 
 ---
 
@@ -201,7 +213,13 @@ alpha-school-docs/
 │   ├── for-educators.md
 │   └── for-media.md
 └── research/
-    └── sources.md
+    ├── organization.md
+    ├── model.md
+    ├── curriculum.md
+    ├── outcomes.md
+    ├── enrollment.md
+    ├── locations.md
+    └── contact.md
 ```
 
 ---
@@ -229,6 +247,7 @@ alpha-school-docs/
 
 v1 is complete when:
 
+- [ ] All 7 research files are complete (Phase 1)
 - [ ] All 7 reference documentation domains are populated (22 files)
 - [ ] All 3 guide documents are complete
 - [ ] All facts have source citations with retrieval dates

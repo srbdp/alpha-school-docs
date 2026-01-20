@@ -3147,3 +3147,121 @@ Created comprehensive API-style reference documentation for Alpha School's tuiti
 - Updated: `ralph/specs/020-enrollment-tuition/checklist.md` (100% complete)
 
 **Next Spec**: 021 - Locations Overview (depends on Spec 001)
+
+---
+
+## 2026-01-20 - Spec 024: Parent Guide - Specification Created
+
+**Spec**: 024-guide-parents
+**Action**: Created specification files
+**Status**: 🚧 In Progress (Spec Created, Implementation Pending)
+
+### Specification Created
+- Created `ralph/specs/024-guide-parents/spec.md` (comprehensive specification)
+- Created `ralph/specs/024-guide-parents/checklist.md` (20 implementation tasks)
+- Updated roadmap.md: Spec 024 status 📋 Planned → 🚧 In Progress
+- Updated project metrics: 29 complete (91%), 1 in progress (3%), 2 planned (6%)
+
+### Spec 024 Overview
+**Purpose**: Create parent-focused guide synthesizing all Phase 2 reference documentation
+**Output**: `alpha-school-docs/guides/for-parents.md`
+**Target Length**: 2,000-3,000 words
+**Dependencies**: All Phase 2 specs (002-023) - all complete ✅
+**Effort Estimate**: Small (~1 hour)
+
+### Functional Requirements
+**9 FR Requirements Defined**:
+
+**FR1 - Document Structure (7 sections)**:
+  - FR1.1: Introduction Section (welcome, context, navigation)
+  - FR1.2: Educational Philosophy & Model (synthesize 006-010: philosophy, 2-hour model, AI, human instruction, daily schedule)
+  - FR1.3: Curriculum & Grade Levels (synthesize 011-014: overview, subjects, grades, assessments)
+  - FR1.4: Outcomes & Evidence (synthesize 015-018: claims, evidence, testimonials, limitations)
+  - FR1.5: Practical Information (synthesize 019-022: enrollment, tuition, locations, expansion)
+  - FR1.6: FAQ Section (8-12 common parent questions)
+  - FR1.7: Next Steps (synthesize 019, 023: enrollment process, contact info)
+
+**FR2 - Content Quality Standards**:
+  - FR2.1: Source Attribution (trace all claims to Phase 2 reference docs)
+  - FR2.2: Tone & Voice (professional yet warm, second person, honest, no hyperbole)
+  - FR2.3: Reading Level (8th-10th grade, accessible, jargon-free)
+  - FR2.4: Length & Format (2,000-3,000 words, scannable markdown)
+
+**FR3 - Metadata & Maintenance**:
+  - FR3.1: Document Metadata (dates, version)
+  - FR3.2: Source Citations (links to reference docs)
+
+### Implementation Phases Defined
+**Phase 3.0: Content Planning & Structure** (7 tasks)
+  - Task 3.0.1-3.0.6: Review all 22 Phase 2 reference docs by domain
+  - Task 3.0.7: Create detailed outline with source mapping, FAQ list, content strategy
+
+**Phase 3.1: Content Writing** (13 tasks)
+  - Task 3.1.1: Write Introduction (250-300 words, warm welcome)
+  - Task 3.1.2-3.1.5: Write Educational Model section (1,500-2,000 words total)
+    - Philosophy, 2-hour learning, AI integration, human instruction, daily schedule
+  - Task 3.1.6: Write Curriculum section (500-600 words)
+  - Task 3.1.7-3.1.9: Write Outcomes section (900-1,200 words)
+    - Claims, evidence/testimonials, limitations (honest caveats)
+  - Task 3.1.10: Write Practical Information (500-600 words)
+  - Task 3.1.11: Write FAQ section (400-600 words, 8-12 questions)
+  - Task 3.1.12: Write Next Steps (300-400 words, clear CTA)
+  - Task 3.1.13: Add metadata and sources, verify traceability
+
+### Key Design Decisions
+
+**Narrative Structure**:
+- Guide uses narrative flow (not API-style reference)
+- Parent-focused perspective throughout
+- Story-like progression: What is it? → What's taught? → What outcomes? → How to enroll?
+
+**Tone Strategy**:
+- Professional yet warm (acknowledge weight of educational decisions)
+- Honest about limitations (Alpha School is new, evidence is limited)
+- No marketing hyperbole (build trust through transparency)
+- Accessible language (define jargon, use concrete examples)
+
+**Content Approach**:
+- Synthesis only (all content traces to Phase 2 reference docs)
+- No new research (respect Phase 1 scope)
+- Public information only
+- Appropriate caveats throughout (especially in Outcomes section)
+
+**Parent-Specific Focus**:
+- Address practical concerns (day-to-day experience, safety, socialization)
+- Include testimonials from parents
+- Clear enrollment process and next steps
+- FAQ addresses predictable parent questions
+
+### Source Material Available
+All dependencies complete - ready to implement:
+- Organization domain (4 docs): 002-005 ✅
+- Model domain (5 docs): 006-010 ✅
+- Curriculum domain (4 docs): 011-014 ✅
+- Outcomes domain (4 docs): 015-018 ✅
+- Enrollment domain (2 docs): 019-020 ✅
+- Locations domain (2 docs): 021-022 ✅
+- Contact domain (1 doc): 023 ✅
+
+### Manual Verification Checklist
+**9 quality reviews planned** after implementation:
+- Content quality (6 reviews): FR compliance, tone, parent-appropriateness, narrative flow, accuracy, actionability
+- Technical quality (2 reviews): markdown validity, document metrics
+- LLM optimization (1 review): structure, clarity, citations
+
+### Next Steps
+1. Ready to implement Spec 024 following checklist tasks
+2. Begin Phase 3.0: Review all Phase 2 reference docs
+3. Create content outline and source mapping
+4. Proceed to Phase 3.1: Write parent guide sections
+5. Complete manual verification reviews
+6. Update roadmap: 🚧 In Progress → ✅ Complete
+
+### Project Status After This Spec
+- **Phase 1 (Research)**: 7/7 complete ✅
+- **Phase 2 (Reference Docs)**: 22/22 complete ✅
+- **Phase 3 (Guides)**: 0/3 complete, 1/3 in progress 🚧
+  - Spec 024: Parent Guide - In Progress (spec created)
+  - Spec 025: Educator Guide - Planned
+  - Spec 026: Media Guide - Planned
+

@@ -3900,3 +3900,84 @@ Spec 021 created and ready for implementation. When implemented, will complete L
 ### Next Action
 Spec 022: Locations Expansion - Ready for creation if needed, or proceed to Spec 023: Contact Overview
 
+
+---
+
+## 2026-01-20 - Spec 024 Created
+
+**Action**: Created Spec 024: Parent Guide
+**Agent**: Claude (autonomous workflow)
+**Status**: 🚧 In Progress (Spec Created, Implementation Pending)
+
+### What Was Done
+- Created ralph/specs/024-guide-parents/ directory structure
+- Created spec.md with complete specification (9 FR requirements, 2 implementation phases)
+- Created checklist.md with detailed task breakdown (20 tasks total)
+- Updated roadmap.md: Spec 024 status 📋 Planned → 🚧 In Progress
+- Updated project progress: 29 complete, 1 in progress, 2 planned
+
+### Specification Details
+**Spec File**: ralph/specs/024-guide-parents/spec.md
+**Output File**: alpha-school-docs/guides/for-parents.md
+**Dependencies**: All Phase 2 reference docs (Specs 002-023)
+**Effort**: Small (~1 hour)
+**Priority**: High
+
+### Functional Requirements Summary
+**FR1**: Document Structure (7 sections)
+  - FR1.1: Introduction Section
+  - FR1.2: Educational Philosophy & Model Section (synthesize 006-010)
+  - FR1.3: Curriculum & Grade Levels Section (synthesize 011-014)
+  - FR1.4: Outcomes & Evidence Section (synthesize 015-018)
+  - FR1.5: Practical Information Section (synthesize 019-022)
+  - FR1.6: FAQ Section (8-12 questions)
+  - FR1.7: Next Steps Section (synthesize 019, 023)
+
+**FR2**: Content Quality Standards
+  - FR2.1: Source Attribution (trace to Phase 2 reference docs)
+  - FR2.2: Tone & Voice (professional, warm, honest)
+  - FR2.3: Reading Level (8th-10th grade)
+  - FR2.4: Length & Format (2,000-3,000 words, scannable markdown)
+
+**FR3**: Metadata & Maintenance
+  - FR3.1: Document Metadata (dates, version)
+  - FR3.2: Source Citations (reference doc links)
+
+### Implementation Phases
+**Phase 3.0**: Content Planning & Structure (7 tasks)
+  - Review all 22 Phase 2 reference docs
+  - Create detailed outline with source mapping
+  - Identify 8-12 FAQ questions
+  - Document content strategy and tone
+
+**Phase 3.1**: Content Writing (13 tasks)
+  - Write 7 main sections (Introduction, Model, Curriculum, Outcomes, Practical Info, FAQ, Next Steps)
+  - Add metadata and source citations
+  - Target: 2,000-3,000 words total
+  - Tone: Professional yet warm, parent-focused, honest about limitations
+
+### Key Decisions
+- Narrative guide structure (not API-style reference)
+- Parent-specific perspective and concerns
+- Honest caveats about what's unproven (Alpha School is new)
+- Action-oriented conclusion with clear next steps
+- Synthesis only (no new research, all content traces to Phase 2 docs)
+- Public information only (respect Phase 1 research scope)
+
+### Content Strategy
+**Target Audience**: Parents researching Alpha School for their children
+**Primary Questions**: 
+  - What is Alpha School's approach? (Model section)
+  - What will my child learn? (Curriculum section)
+  - What outcomes can I expect? (Outcomes section with honest caveats)
+  - How do I enroll? (Practical information and next steps)
+
+**Tone Guidelines**:
+  - Professional yet warm (not corporate, not overly casual)
+  - Honest about limitations (build trust with transparency)
+  - Accessible language (8th-10th grade reading level)
+  - Enthusiastic but realistic (no marketing hyperbole)
+
+### Next Action
+Implement Spec 024 using `/implement_spec` skill or manual implementation following checklist.md tasks
+

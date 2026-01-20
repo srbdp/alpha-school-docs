@@ -1230,3 +1230,87 @@ Implement Spec 008: AI Integration reference documentation (depends on Spec 006)
 ---
 
 *Last Updated: 2026-01-20*
+
+## 2026-01-20 (Later) - Spec 008 Created ✅
+
+**Status**: Spec created, ready for implementation
+
+**What was done**:
+- Created Spec 008 specification document (`ralph/specs/008-ai-integration/spec.md`)
+- Created Spec 008 implementation checklist (`ralph/specs/008-ai-integration/checklist.md`)
+- Updated roadmap.md: Spec 008 status changed from 📋 Planned to 🚧 In Progress
+- Updated stats: In Progress: 1 (3.1%), Planned: 18 (56.3%)
+- Logged activity in activity.log
+- Updated progress.md with this entry
+
+**Key Details**:
+- Spec 008 focuses on AI Integration reference documentation
+- Third Model domain spec (following Spec 006 Educational Philosophy and Spec 007 Two-Hour Learning Model)
+- Dependencies: Spec 001b (Complete ✅), Spec 006 (Complete ✅)
+- Output: `reference/model/ai-integration.md`
+- Priority: Critical
+- Effort: Medium (~2 hours)
+
+**Specification Structure**:
+- 16 Functional Requirements organized in 3 groups (FR1: Document Structure [9], FR2: Content Quality [4], FR3: LLM Optimization [3])
+- 104 implementation tasks in checklist
+- Single-phase documentation workflow (no test foundation phase)
+- Complete output guidance with 9-property table structure
+- Success criteria defined (automated + manual verification)
+
+**Key Design Decisions**:
+1. **9 Properties Emphasizing Platform Architecture and Capabilities**: Properties focus on technical attributes (platform_names, instructional_approach, knowledge_modeling, technology_stack) rather than philosophical foundations (Spec 006) or model structure (Spec 007). This keeps Spec 008 focused on "what AI platforms do and how they work technically."
+2. **Five Details Subsections Covering AI Integration Comprehensively**: Platform Architecture and Components, Personalization and Adaptive Learning, Learning Science Implementation, Technology Stack and Tools, Platform Evolution and Guardrails provide comprehensive AI coverage without crossing into philosophy or model structure
+3. **Explicit "NOT a Chatbot" Clarification**: research/model.md line 84 explicitly states Alpha's AI is "NOT a chatbot like ChatGPT" because chatbots "enable cheating." This is Alpha's deliberate positioning preserved throughout the spec
+4. **Vision Monitoring Handled Neutrally Without Surveillance Commentary**: research/model.md lines 106, 116 describe vision models analyzing student work patterns. Documentation presents this factually without editorializing on surveillance implications
+5. **Technology Ownership Attribution (Trilogy Software)**: research/model.md line 111 identifies Trilogy Software as platform owner. Include `platform_owner` property and mention in Details with link to Spec 004 (Leadership)
+6. **Separate AI Implementation from Philosophy and Model Structure**: AI Integration (Spec 008) covers "how AI platforms work technically" while Educational Philosophy (Spec 006) covers "why AI-based learning is effective philosophically" and Two-Hour Learning Model (Spec 007) covers "how academics are structured daily"
+
+**Content Coverage**:
+- **Properties table**: 9 structured attributes (platform_names, primary_function, instructional_approach, knowledge_modeling, adaptivity_features, technology_stack, third_party_tools, custom_tools, platform_owner)
+- **Details**: 5 subsections
+  - Platform Architecture and Components: Timeback, Dash, Incept; NOT chatbots; tutor and coach functions
+  - Personalization and Adaptive Learning: Knowledge graphs, real-time adaptation, zone of proximal development targeting
+  - Learning Science Implementation: Mastery-based progression (90%+), cognitive load theory, spaced repetition, multimodal support
+  - Technology Stack and Tools: "Ever-evolving mix" of built/bought apps; third-party tools (IXL, Khan Academy, Grammarly, Newsela); custom tools (Alpha Math, vision models); Trilogy Software ownership
+  - Platform Evolution and Guardrails: Post-2022 improvements, early circumvention challenges, current guardrails, vision model coaching interventions
+- **Examples**: 3 concrete examples (Adaptive Lesson Sequencing with knowledge graph, Knowledge Graph in Action with interest integration, Multimodal Support with accessibility accommodation)
+- **FAQs**: 5 Q&A pairs (platforms used, chatbot differences, personalization mechanisms, third-party tools, platform evolution)
+- **Sources**: research/model.md lines 78-118, alpha.school, 2hourlearning.com
+
+**Critical Attribution Requirements**:
+All AI platform capability claims must be attributed to avoid stating unverified capabilities as objective facts:
+- Platform personalization effectiveness - Self-reported
+- Vision monitoring capabilities - Not independently documented
+- "Prevents topic-shopping" claim - Alpha's characterization
+- Guardrails against circumvention - Alpha's claim of improvement
+- Post-2022 improvements - Based on Alpha's description
+
+**Information Gaps to Note**:
+- Specific AI models/algorithms used not disclosed
+- Detailed technical architecture not available in public materials
+- Data privacy practices not detailed publicly
+- Platform effectiveness not independently verified
+- Vision model technical specifications not described
+- Knowledge graph implementation details not provided
+
+**Next Action**:
+Implement Spec 008 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/008-ai-integration/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 14 (43.8%)
+- Specs implemented: 13 (40.6%)
+- In Progress: 1 (Spec 008 - spec created, implementation pending)
+- Planned: 18 (56.3%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 6/22 implemented (27.3%), 1 spec created (Spec 008)
+- This is the third Model domain spec (following Spec 006 Educational Philosophy and Spec 007 Two-Hour Learning Model)
+
+---
+
+*Last Updated: 2026-01-20*

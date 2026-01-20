@@ -144,4 +144,44 @@ Implement Spec 001c: Research Curriculum Domain
 
 ---
 
+## 2026-01-20 (Later) - Spec 001c Implemented ✅
+
+**Status**: Complete
+
+**What was done**:
+- Implemented Spec 001c: Research Curriculum Domain
+- Created `research/curriculum.md` (558 lines, 23KB comprehensive research document)
+- Researched 15 sources including primary (alpha.school), news, interviews, and analysis
+- Documented all findings with source citations and retrieval dates
+- Updated roadmap.md: Spec 001c marked complete, stats updated (3/32 complete, 9%)
+- Updated tracking checklist for Spec 001c
+- Logged activity in activity.log
+
+**Key Details**:
+- Used web-research-doc-creator agent for efficient research
+- Followed incremental writing pattern (wrote after each source)
+- Documented information gaps and source conflicts
+- Distinguished claims vs. verified facts
+
+**Research Findings**:
+- **Curriculum Overview**: Mastery-based learning (80-90% threshold), AI platforms "Time Back" and "Dash", claims 20-30 hours per grade level vs. 200 hours traditional
+- **Subjects Taught**: Core academics (Math, ELA, Science, Social Studies, Reading, Writing, Foreign Language) + 24 life skills (entrepreneurship, public speaking, financial literacy, leadership, etc.)
+- **Grade Levels**: PreK-12, capability-based "levels" rather than age-based grades, K-8 structured curriculum, high school self-directed
+- **Assessments**: NWEA MAP tests 3x/year, internal mastery tests, "Test to Pass Showcase" events
+- Information gaps identified: no public scope/sequence, foreign language details unclear, no independent curriculum audit, mastery threshold discrepancy (80% vs 90%)
+
+**Next Action**:
+Implement Spec 001d: Research Outcomes Domain
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Completed: 3 (9%)
+- In Progress: 1 (Spec 001 parent - 3/7 sub-specs complete)
+- Planned: 28 (88%)
+- Phase 1 progress: 3/7 research sub-specs complete (43%)
+
+---
+
 *Last Updated: 2026-01-20*

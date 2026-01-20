@@ -156,3 +156,61 @@ Successfully researched and documented all publicly available information about 
 
 ### Next Steps
 Continue with Spec 001c: Research Curriculum Domain
+
+## 2026-01-20 - Spec 001c Implemented
+
+**Action**: Implemented Spec 001c - Research Curriculum Domain
+**Type**: Spec Implementation (Phase 1 Research)
+**Phase**: Phase 1 (Research)
+
+### Summary
+Successfully researched and documented all publicly available information about Alpha School's Curriculum domain, including curriculum philosophy, subjects taught, grade levels, and assessment methods. Used web-research-doc-creator agent to gather information from 15 primary and secondary sources.
+
+### Output File Created
+- `research/curriculum.md` - 558 lines, 23KB comprehensive research document
+
+### Research Completed
+
+**Primary Sources Researched:**
+- alpha.school homepage and navigation
+- alpha.school/the-program/ page
+- alpha.school/faq page
+- alpha.school/life-skills page
+- 2hourlearning.com domain
+- YouTube channel
+- Social media accounts
+
+**Secondary Sources Researched:**
+- CBS News coverage
+- Newsweek article
+- Cognitive Revolution Podcast (Joe Liemandt interview)
+- Modern Wisdom Podcast (MacKenzie Price interview)
+- Michael Horn Substack analysis
+- Education Next article
+- Lexington Institute report
+- AEI Report Card Podcast
+
+### Key Findings
+- **Curriculum Overview**: Mastery-based learning requiring 80-90% accuracy, AI platforms "Time Back" (learning) and "Dash" (curriculum management), claims entire grade level takes 20-30 hours vs. 200 traditional
+- **Subjects Taught**: Core academics (Math, ELA, Science, Social Studies, Reading, Writing, Foreign Language), 24 life skills (entrepreneurship, public speaking, financial literacy, leadership, etc.), follows Common Core (K-8) and AP (high school)
+- **Grade Levels**: PreK-12 across campuses, capability-based "levels" vs. age-based grades, K-8 structured curriculum, high school self-directed passion projects
+- **Assessments**: NWEA MAP tests 3x/year, internal mastery tests in platform, "Test to Pass Showcase" annual events for life skills
+
+### Information Gaps Identified
+- No detailed curriculum scope/sequence publicly available
+- Foreign language specifics not documented
+- Science and social studies curriculum details lacking
+- No independent third-party curriculum audit
+- Mastery threshold discrepancy (80% vs 90%) between sources
+
+### Notes Captured
+- Claims vs. verified facts clearly distinguished
+- Self-reported metrics documented with appropriate caveats
+- Source conflicts noted (mastery threshold varies)
+
+### Updates Made
+- Updated roadmap.md: Spec 001c marked complete, stats updated (3/32 complete, 9%)
+- Updated ralph/specs/001c-research-curriculum/spec.md status
+
+### Next Steps
+Continue with Spec 001d: Research Outcomes Domain

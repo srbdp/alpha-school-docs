@@ -6,6 +6,9 @@
     "light": "/logo/light.svg"
   },
   "favicon": "/logo/alpha-favicon.svg",
+  "appearance": {
+    "default": "light"
+  },
   "colors": {
     "primary": "#0000EF",
     "light": "#0000EF",
@@ -28,84 +31,88 @@
   "tabs": [
     {
       "name": "Documentation",
-      "url": "reference"
+      "url": "docs"
+    },
+    {
+      "name": "Guides",
+      "url": "guides"
     }
   ],
   "anchors": [
     {
       "name": "Contact",
       "icon": "envelope",
-      "url": "reference/contact/overview"
+      "url": "docs/contact/overview"
     }
   ],
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["introduction"]
+      "pages": ["docs/introduction"]
     },
     {
       "group": "Organization",
       "pages": [
-        "reference/organization/overview",
-        "reference/organization/mission",
-        "reference/organization/leadership",
-        "reference/organization/history"
+        "docs/organization/overview",
+        "docs/organization/mission",
+        "docs/organization/leadership",
+        "docs/organization/history"
       ]
     },
     {
       "group": "Educational Model",
       "pages": [
-        "reference/model/educational-philosophy",
-        "reference/model/two-hour-learning",
-        "reference/model/ai-integration",
-        "reference/model/human-instruction",
-        "reference/model/daily-schedule"
+        "docs/model/educational-philosophy",
+        "docs/model/two-hour-learning",
+        "docs/model/ai-integration",
+        "docs/model/human-instruction",
+        "docs/model/daily-schedule"
       ]
     },
     {
       "group": "Curriculum",
       "pages": [
-        "reference/curriculum/overview",
-        "reference/curriculum/subjects",
-        "reference/curriculum/grade-levels",
-        "reference/curriculum/assessments"
+        "docs/curriculum/overview",
+        "docs/curriculum/subjects",
+        "docs/curriculum/grade-levels",
+        "docs/curriculum/assessments"
       ]
     },
     {
       "group": "Outcomes",
       "pages": [
-        "reference/outcomes/claims",
-        "reference/outcomes/evidence",
-        "reference/outcomes/testimonials",
-        "reference/outcomes/limitations"
+        "docs/outcomes/claims",
+        "docs/outcomes/evidence",
+        "docs/outcomes/testimonials",
+        "docs/outcomes/limitations"
       ]
     },
     {
       "group": "Enrollment",
       "pages": [
-        "reference/enrollment/process",
-        "reference/enrollment/tuition"
+        "docs/enrollment/process",
+        "docs/enrollment/tuition"
       ]
     },
     {
       "group": "Locations",
       "pages": [
-        "reference/locations/overview",
-        "reference/locations/expansion"
+        "docs/locations/overview",
+        "docs/locations/expansion"
       ]
     },
     {
       "group": "Contact",
       "pages": [
-        "reference/contact/overview"
+        "docs/contact/overview"
       ]
     },
     {
       "group": "Guides",
       "pages": [
-        "reference/guides/for-parents",
-        "reference/guides/for-educators",
-        "reference/guides/for-media"
+        "guides/for-parents",
+        "guides/for-educators",
+        "guides/for-media"
       ]
     }
   ],

@@ -8,7 +8,7 @@ Alpha School's foundational philosophy challenges the constraints of traditional
 
 The mission centers on unlocking children's potential through a revolutionary educational model built on 40 years of learning science. This includes concepts like the zone of proximal development and cognitive load theory, prioritizing a shift from time-based systems to mastery-based systems where students must demonstrate 90%+ proficiency before advancing. The approach aims to give children "their childhoods back" by compressing academic instruction into two hours daily while maintaining top-percentile performance.
 
-Alpha School's long-term vision is to democratize this model globally through a sub-\$1,000 tablet that "teaches everything in two hours," reaching a billion kids within 20 years. Currently operating at \$10,000-\$75,000 annual tuition across 17+ campuses, the organization positions AI as "the light microscope for education"—finally enabling individualized instruction at scale that pedagogical research has long advocated but traditional systems couldn't deliver.
+Alpha School's long-term vision is to democratize this model globally through a sub-&#36;1,000 tablet that "teaches everything in two hours," reaching a billion kids within 20 years. Currently operating at &#36;10,000-&#36;75,000 annual tuition across 17+ campuses, the organization positions AI as "the light microscope for education"—finally enabling individualized instruction at scale that pedagogical research has long advocated but traditional systems couldn't deliver.
 
 ## Properties
 
@@ -20,7 +20,7 @@ Alpha School's long-term vision is to democratize this model globally through a 
 | vision_timeline | string | Timeframe for democratization vision | "Reaching a billion kids within 20 years" |
 | core_commitments | array | Three explicit promises to parents | ["Love School", "Learn 2x in 2hrs", "Learn Life Skills"] |
 | learning_philosophy | string | Educational approach foundation | "Mastery-based vs. time-based system (90%+ proficiency required)" |
-| equity_goal | string | Democratization objective | "From \$10k-\$75k tuition to \$1k tablet accessible globally" |
+| equity_goal | string | Democratization objective | "From &#36;10k-&#36;75k tuition to &#36;1k tablet accessible globally" |
 | values | array | Core principles (implicit, inferred) | ["High Standards, High Support", "Mastery Over Time", "Holistic Development", "Teacher Investment"] |
 
 ## Details
@@ -38,9 +38,9 @@ The approach is built on "40 years of proven learning science" including the zon
 ### Vision
 
 Alpha School's stated long-term vision is to make AI-powered personalized education accessible globally through:
-- **Product Goal**: "A sub-\$1,000 tablet that teaches everything in two hours"
+- **Product Goal**: "A sub-&#36;1,000 tablet that teaches everything in two hours"
 - **Reach Goal**: Reaching "a billion kids" within 20 years
-- **Democratization**: Making education currently costing \$10,000-\$75,000 annually accessible at sub-\$1,000 price point
+- **Democratization**: Making education currently costing &#36;10,000-&#36;75,000 annually accessible at sub-&#36;1,000 price point
 
 Joe Liemandt frames AI as "the light microscope for education"—a transformative tool that finally enables the individualized instruction pedagogical research has long advocated. The vision positions AI not as replacement for teachers but as technology enabling educational approaches that were previously impossible at scale.
 
@@ -50,13 +50,13 @@ Joe Liemandt frames AI as "the light microscope for education"—a transformativ
 
 **Implicit Values:**
 
-- **High Standards, High Support** - Young people thrive when held to elevated expectations within highly supportive environments. This manifests in 90%+ mastery requirements combined with 5:1 student-to-guide ratios and \$100,000+ guide salaries.
+- **High Standards, High Support** - Young people thrive when held to elevated expectations within highly supportive environments. This manifests in 90%+ mastery requirements combined with 5:1 student-to-guide ratios and &#36;100,000+ guide salaries.
 
 - **Mastery Over Time** - Focus on demonstrated proficiency (90%+ on assessments) rather than traditional time-based progression. Students advance when ready, not when the calendar dictates.
 
 - **Holistic Development** - Commitment to developing the whole child through academics (2 hours) plus extensive life skills training (4 hours) including entrepreneurship, leadership, financial literacy, public speaking, and teamwork.
 
-- **Teacher/Guide Investment** - Commitment to paying guides minimum \$100,000 salaries (roughly double the ~\$50,000 national average teacher salary), positioning them as highly-paid mentors rather than traditional instructors.
+- **Teacher/Guide Investment** - Commitment to paying guides minimum &#36;100,000 salaries (roughly double the ~&#36;50,000 national average teacher salary), positioning them as highly-paid mentors rather than traditional instructors.
 
 ### Three Core Commitments
 
@@ -98,9 +98,9 @@ The structure gives students "their childhoods back" by limiting academics to 2 
 
 ### Example 2: Vision Milestone Progression
 
-**Current State (2026)**: Alpha School operates 17+ campuses with tuition ranging from \$10,000 (Brownsville, TX) to \$75,000 (San Francisco, CA). Average tuition ~\$40,000.
+**Current State (2026)**: Alpha School operates 17+ campuses with tuition ranging from &#36;10,000 (Brownsville, TX) to &#36;75,000 (San Francisco, CA). Average tuition ~&#36;40,000.
 
-**Vision Goal (2046)**: Sub-\$1,000 tablet accessible to a billion kids within 20 years.
+**Vision Goal (2046)**: Sub-&#36;1,000 tablet accessible to a billion kids within 20 years.
 
 This represents a democratization journey from premium private school pricing to globally-accessible technology platform. The vision requires technological advances, cost reductions, and market expansion Alpha School believes AI will enable.
 
@@ -108,7 +108,7 @@ This represents a democratization journey from premium private school pricing to
 
 **Value**: Teacher/Guide Investment
 
-**Implementation**: Guides earn minimum \$100,000 salaries—roughly double the ~\$50,000 national average teacher salary.
+**Implementation**: Guides earn minimum &#36;100,000 salaries—roughly double the ~&#36;50,000 national average teacher salary.
 
 **Philosophy**: High compensation attracts talent, enables 5:1 student-to-guide ratios, and positions guides as mentors/facilitators rather than traditional instructors. This reflects the "High Standards, High Support" value—investing heavily in human relationships while AI handles instruction.
 
@@ -128,7 +128,7 @@ A: Alpha School does not publish a formal mission statement. Based on organizati
 
 **Q: What is the long-term vision?**
 
-A: Alpha School's stated vision is to create "a sub-\$1,000 tablet that teaches everything in two hours" and reach "a billion kids within 20 years." This represents democratizing education currently costing \$10,000-\$75,000 annually at Alpha campuses to globally-accessible pricing. Founder Joe Liemandt positions AI as "the light microscope for education" enabling individualized instruction at unprecedented scale.
+A: Alpha School's stated vision is to create "a sub-&#36;1,000 tablet that teaches everything in two hours" and reach "a billion kids within 20 years." This represents democratizing education currently costing &#36;10,000-&#36;75,000 annually at Alpha campuses to globally-accessible pricing. Founder Joe Liemandt positions AI as "the light microscope for education" enabling individualized instruction at unprecedented scale.
 
 **Q: Does Alpha School have explicit values?**
 
@@ -140,7 +140,7 @@ A: Alpha School makes three explicit promises to parents: (1) **Love School** - 
 
 **Q: How does Alpha plan to reach "a billion kids"?**
 
-A: Through democratization via technology. Alpha School's vision is to develop a sub-\$1,000 tablet platform that delivers personalized AI-powered education within 20 years. This represents scaling from current premium campuses (\$10k-\$75k tuition, 17+ locations) to globally-accessible technology platform. The feasibility and specific pathway are not publicly detailed.
+A: Through democratization via technology. Alpha School's vision is to develop a sub-&#36;1,000 tablet platform that delivers personalized AI-powered education within 20 years. This represents scaling from current premium campuses (&#36;10k-&#36;75k tuition, 17+ locations) to globally-accessible technology platform. The feasibility and specific pathway are not publicly detailed.
 
 ## Sources
 

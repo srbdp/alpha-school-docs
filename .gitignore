@@ -1,0 +1,9 @@
+# Ralph
+ralph-logo.*
+run-ralph.sh
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store

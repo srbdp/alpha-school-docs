@@ -8,7 +8,7 @@ Alpha School uses the term "guides" rather than "teachers" to reflect a fundamen
 
 During the two-hour morning academic block, guides monitor student progress through AI dashboards, encouraging and motivating students while using AI monitoring data to identify when interventions are needed. Each student receives 30 minutes of weekly one-on-one time with guides to discuss progress, explore interests, and build deep relationships. Guides also facilitate afternoon life skills workshops, maintaining their mentorship focus beyond academics.
 
-Guides earn a minimum of \$100,000 annually—described by Alpha as roughly double the average teacher pay in comparable markets. This compensation model enables recruitment of talented professionals outside traditional education, attracting individuals focused on mentorship and emotional support rather than academic instruction. The guide role embodies Alpha's "high standards, high support" philosophy: holding students accountable to mastery while offering encouragement through the learning process.
+Guides earn a minimum of &#36;100,000 annually—described by Alpha as roughly double the average teacher pay in comparable markets. This compensation model enables recruitment of talented professionals outside traditional education, attracting individuals focused on mentorship and emotional support rather than academic instruction. The guide role embodies Alpha's "high standards, high support" philosophy: holding students accountable to mastery while offering encouragement through the learning process.
 
 ## Properties
 
@@ -60,7 +60,7 @@ The guide-student relationship embodies Alpha's "high standards, high support" p
 
 ### Compensation and Recruitment Model
 
-According to Alpha School, guides earn a minimum of \$100,000 annually—described as roughly double the average teacher pay in comparable markets. This compensation model serves a strategic purpose: enabling recruitment of talented professionals outside traditional education.
+According to Alpha School, guides earn a minimum of &#36;100,000 annually—described as roughly double the average teacher pay in comparable markets. This compensation model serves a strategic purpose: enabling recruitment of talented professionals outside traditional education.
 
 By offering compensation significantly above typical teacher salaries, Alpha attracts individuals who may not have teaching credentials but possess strong mentorship abilities, emotional intelligence, and relationship-building skills. The role appeals to professionals focused on supporting and motivating young people rather than delivering academic instruction.
 
@@ -124,7 +124,7 @@ A: Guides monitor student progress through AI dashboards, circulate to encourage
 
 **Q: How are guides compensated differently from traditional teachers?**
 
-A: According to Alpha School, guides earn a minimum of \$100,000 annually, described as roughly double the average teacher pay in comparable markets. This compensation enables recruitment of talented professionals outside traditional education who are focused on mentorship rather than academic instruction.
+A: According to Alpha School, guides earn a minimum of &#36;100,000 annually, described as roughly double the average teacher pay in comparable markets. This compensation enables recruitment of talented professionals outside traditional education who are focused on mentorship rather than academic instruction.
 
 **Q: What role do guides play in afternoon activities?**
 

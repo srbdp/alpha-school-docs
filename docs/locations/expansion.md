@@ -31,8 +31,8 @@ Alpha School has publicly announced the following campus openings for Fall 2026:
 
 | Location | State/Territory | Tuition (Annual) | Grade Levels | Notes |
 |----------|----------------|------------------|--------------|-------|
-| The Woodlands | Texas | \$40,000 | TBD | Houston area expansion |
-| Dorado | Puerto Rico | \$50,000 | TBD | First Puerto Rico location |
+| The Woodlands | Texas | &#36;40,000 | TBD | Houston area expansion |
+| Dorado | Puerto Rico | &#36;50,000 | TBD | First Puerto Rico location |
 | Palo Alto | California | TBD | TBD | Bay Area expansion due to demand |
 | Santa Monica | California | TBD | TBD | Los Angeles area entry |
 | Chicago | Illinois | TBD | TBD | Midwest expansion |
@@ -63,17 +63,17 @@ Texas Sports Academy, a specialty program under the Alpha School umbrella, combi
 
 | Sport | Location | Address | Grades | Tuition (Annual) |
 |-------|----------|---------|--------|------------------|
-| Baseball | Pearland, TX | 18500 Pearland Sites Road, Bldg. D, Pearland, TX | 4-8 | \$15,000 |
-| Basketball | Houston, TX | 11275 S. Sam Houston Parkway W., Houston, TX | 4-8 | \$15,000 |
-| Gymnastics | San Antonio, TX | 14242 Cross Canyon, San Antonio, TX | 4-8 | \$15,000 |
+| Baseball | Pearland, TX | 18500 Pearland Sites Road, Bldg. D, Pearland, TX | 4-8 | &#36;15,000 |
+| Basketball | Houston, TX | 11275 S. Sam Houston Parkway W., Houston, TX | 4-8 | &#36;15,000 |
+| Gymnastics | San Antonio, TX | 14242 Cross Canyon, San Antonio, TX | 4-8 | &#36;15,000 |
 
 **Fall 2026 Opening:**
 
 | Sport | Location | Grades | Tuition (Annual) |
 |-------|----------|--------|------------------|
-| Cheer | Lago Vista, TX | 5-8 | \$15,000 |
+| Cheer | Lago Vista, TX | 5-8 | &#36;15,000 |
 
-**Financial Aid Note**: The Texas Education Savings Account (ESA) program may provide approximately \$10,300 per student toward tuition, making the net cost for eligible Texas families around \$4,700/year.
+**Financial Aid Note**: The Texas Education Savings Account (ESA) program may provide approximately &#36;10,300 per student toward tuition, making the net cost for eligible Texas families around &#36;4,700/year.
 
 **Currently Operating Texas Sports Academy Locations**:
 - AIE Elite Prep (Basketball) - Round Rock, TX
@@ -122,7 +122,7 @@ Alpha School's expansion strategy demonstrates clear patterns in market selectio
 - **Major Metropolitan Areas**: New York City, San Francisco, Chicago, Miami
 - **Affluent Suburban Markets**: Scottsdale, Palo Alto, Santa Monica, The Woodlands, Chantilly (DC area)
 - **Regional Distribution**: Expanding across Sunbelt (Texas, Florida, Arizona) and high-income coastal markets (California, New York)
-- **Tuition Positioning**: Higher tuition in coastal/urban markets (\$65,000-\$75,000) vs. lower in Sunbelt (\$40,000-\$50,000)
+- **Tuition Positioning**: Higher tuition in coastal/urban markets (&#36;65,000-&#36;75,000) vs. lower in Sunbelt (&#36;40,000-&#36;50,000)
 
 **Market Entry Approaches**:
 1. **Partnerships**: Co-location with Guidepost Montessori facilities (Chantilly, Charlotte, Raleigh, Lake Forest, Palm Beach)
@@ -153,7 +153,7 @@ Alpha School operates additional specialty programs beyond Texas Sports Academy,
 
 ### Example 1: Bay Area Expansion Driven by Demand
 
-Following the August 2025 opening of Alpha School's San Francisco campus (at \$75,000/year tuition), demand in the Bay Area has driven plans for two additional campuses:
+Following the August 2025 opening of Alpha School's San Francisco campus (at &#36;75,000/year tuition), demand in the Bay Area has driven plans for two additional campuses:
 
 - **Palo Alto, CA** (Fall 2026) - Silicon Valley market entry
 - **East Bay, CA** (exploratory) - Eastern Bay Area expansion
@@ -183,7 +183,7 @@ Texas Sports Academy's January 2026 expansion demonstrates Alpha's ability to si
 - **3 locations opening simultaneously** (Baseball-Pearland, Basketball-Houston, Gymnastics-San Antonio)
 - **3 different sports** (Baseball, Basketball, Gymnastics)
 - **4 different cities** (when including Fall 2026 Cheer-Lago Vista)
-- **Consistent model**: Grades 4-8, \$15,000 tuition, Texas ESA-eligible
+- **Consistent model**: Grades 4-8, &#36;15,000 tuition, Texas ESA-eligible
 
 This coordinated multi-location launch suggests operational capability for rapid specialty program scaling beyond traditional Alpha School campuses.
 
@@ -208,7 +208,7 @@ A: The July 2025 strategic partnership allows Alpha School to open K-3 elementar
 
 **Q: What is Texas Sports Academy and how is it related to Alpha School?**
 
-A: Texas Sports Academy is a specialty program operated under the Alpha School umbrella that combines sport-specific athletic training with Alpha's two-hour AI-powered academic model. Students focus intensively on a single sport (basketball, baseball, gymnastics, cheer) while completing academic coursework using Alpha's platform. Texas Sports Academy campuses serve grades 4-8 at \$15,000/year tuition (with Texas ESA program potentially covering ~\$10,300). The program is expanding across Texas with 4 new locations opening in January and Fall 2026.
+A: Texas Sports Academy is a specialty program operated under the Alpha School umbrella that combines sport-specific athletic training with Alpha's two-hour AI-powered academic model. Students focus intensively on a single sport (basketball, baseball, gymnastics, cheer) while completing academic coursework using Alpha's platform. Texas Sports Academy campuses serve grades 4-8 at &#36;15,000/year tuition (with Texas ESA program potentially covering ~&#36;10,300). The program is expanding across Texas with 4 new locations opening in January and Fall 2026.
 
 **Q: How quickly is Alpha School expanding?**
 

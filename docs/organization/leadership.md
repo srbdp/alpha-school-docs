@@ -8,7 +8,7 @@ Alpha School operates under a founder-led governance model with three confirmed 
 
 The leadership team combines expertise in technology entrepreneurship, education innovation, and finance. Joe Liemandt's background in artificial intelligence—having created what was described as "the world's first billion-dollar artificial intelligence product" (SalesBuilder at Trilogy)—directly informs Alpha School's AI-powered learning model. MacKenzie Price's Stanford psychology background and personal motivation as a parent drive the school's focus on student engagement and personalized learning. Andrew Price's extensive financial and operational experience across Trilogy, ESW Capital, Crossover, and Ignite Technologies provides organizational stability and business acumen.
 
-Alpha School's leadership structure is closely affiliated with Trilogy Software and ESW Capital, with all three leaders having deep ties to this technology ecosystem. Joe Liemandt founded both Trilogy (1989) and ESW Capital (2001), while Andrew Price has served in financial leadership roles across these organizations since 1996. This affiliation enables Alpha School to leverage technological resources and expertise from the broader ecosystem, including Joe Liemandt's approximately \$1 billion investment since 2022 to develop AI software products like the Timeback personalized learning platform.
+Alpha School's leadership structure is closely affiliated with Trilogy Software and ESW Capital, with all three leaders having deep ties to this technology ecosystem. Joe Liemandt founded both Trilogy (1989) and ESW Capital (2001), while Andrew Price has served in financial leadership roles across these organizations since 1996. This affiliation enables Alpha School to leverage technological resources and expertise from the broader ecosystem, including Joe Liemandt's approximately &#36;1 billion investment since 2022 to develop AI software products like the Timeback personalized learning platform.
 
 ## Properties
 
@@ -29,9 +29,9 @@ Alpha School's leadership structure is closely affiliated with Trilogy Software 
 
 Joe Liemandt is a software entrepreneur who dropped out of Stanford University in 1989 to co-found Trilogy Software with programmer John Lynch. At Stanford, he majored in economics with computer science courses and studied under Ed Feigenbaum, known as the "father of expert systems."
 
-Trilogy Software developed SalesBuilder, described as "the world's first billion-dollar artificial intelligence product." Liemandt's success was rapid—he made the Forbes 400 list at age 27 and achieved a net worth exceeding \$600 million by 1998. In 2001, he founded ESW Capital, expanding his technology portfolio beyond Trilogy.
+Trilogy Software developed SalesBuilder, described as "the world's first billion-dollar artificial intelligence product." Liemandt's success was rapid—he made the Forbes 400 list at age 27 and achieved a net worth exceeding &#36;600 million by 1998. In 2001, he founded ESW Capital, expanding his technology portfolio beyond Trilogy.
 
-According to the Colossus profile, Liemandt initially resisted getting involved with Alpha School but became deeply engaged after observing that his daughters preferred school to vacation. Since 2022, following the emergence of generative AI technologies, he has invested approximately \$1 billion to fund and incubate AI software products at Alpha School, including the Timeback personalized learning platform. He currently serves as principal, describing his role as "product guy" and "dean of parents."
+According to the Colossus profile, Liemandt initially resisted getting involved with Alpha School but became deeply engaged after observing that his daughters preferred school to vacation. Since 2022, following the emergence of generative AI technologies, he has invested approximately &#36;1 billion to fund and incubate AI software products at Alpha School, including the Timeback personalized learning platform. He currently serves as principal, describing his role as "product guy" and "dean of parents."
 
 ### MacKenzie Price - Co-Founder
 
@@ -53,7 +53,7 @@ Andrew married MacKenzie in 2004, a decade before Alpha School was founded. At A
 
 Alpha School operates as a founder-led private school with decision-making concentrated among its three key leaders. The organization's governance structure is closely tied to its affiliated organizations—Trilogy Software, ESW Capital, and the broader 2 Hour Learning initiative—though the specific nature of formal governance relationships is not publicly documented.
 
-Joe Liemandt's substantial financial investment (approximately \$1 billion since 2022) and role as principal suggests significant operational authority. MacKenzie Price's role as original founder and ongoing public presence through her podcast indicates continued strategic influence. Andrew Price's concurrent CFO responsibilities across multiple affiliated organizations suggests integrated financial management across the ecosystem.
+Joe Liemandt's substantial financial investment (approximately &#36;1 billion since 2022) and role as principal suggests significant operational authority. MacKenzie Price's role as original founder and ongoing public presence through her podcast indicates continued strategic influence. Andrew Price's concurrent CFO responsibilities across multiple affiliated organizations suggests integrated financial management across the ecosystem.
 
 The lack of publicly available information about board composition, formal organizational charts, or complete team rosters beyond these three leaders limits what can be authoritatively stated about the governance structure.
 
@@ -66,7 +66,7 @@ Alpha School does not maintain a dedicated leadership, team, or "about us" page 
 ### Example 1: Leadership Investment in AI Development
 
 **Leader**: Joe Liemandt
-**Action**: Invested approximately \$1 billion since 2022 to fund and incubate AI software products at Alpha School, including the Timeback personalized learning platform
+**Action**: Invested approximately &#36;1 billion since 2022 to fund and incubate AI software products at Alpha School, including the Timeback personalized learning platform
 **Context**: This investment followed the emergence of generative AI technologies and represents a significant commitment to technology-driven education, leveraging Liemandt's decades of experience in artificial intelligence dating back to Trilogy's SalesBuilder product
 
 ### Example 2: Founder Journey from Industry to Education
@@ -95,13 +95,13 @@ Alpha School does not maintain a dedicated leadership, team, or "about us" page 
 ## FAQs
 
 **Q: Who founded Alpha School?**
-A: Alpha School was founded in 2014 by MacKenzie Price (initially as "Emergent Academy"), with Andrew Price as co-founder. Joe Liemandt joined as a significant investor and leader, investing approximately \$1 billion since 2022 and serving as principal.
+A: Alpha School was founded in 2014 by MacKenzie Price (initially as "Emergent Academy"), with Andrew Price as co-founder. Joe Liemandt joined as a significant investor and leader, investing approximately &#36;1 billion since 2022 and serving as principal.
 
 **Q: Who currently leads Alpha School?**
 A: Alpha School is led by three key people: Joe Liemandt (Principal/Founder), MacKenzie Price (Co-Founder), and Andrew Price (Co-Founder/CFO). Joe Liemandt serves as "product guy," dean of parents, and principal.
 
 **Q: What is Joe Liemandt's background?**
-A: Joe Liemandt is a software entrepreneur who dropped out of Stanford in 1989 to co-found Trilogy Software, which developed SalesBuilder (described as "the world's first billion-dollar artificial intelligence product"). He made the Forbes 400 at age 27, achieved a net worth exceeding \$600 million by 1998, and later founded ESW Capital in 2001.
+A: Joe Liemandt is a software entrepreneur who dropped out of Stanford in 1989 to co-found Trilogy Software, which developed SalesBuilder (described as "the world's first billion-dollar artificial intelligence product"). He made the Forbes 400 at age 27, achieved a net worth exceeding &#36;600 million by 1998, and later founded ESW Capital in 2001.
 
 **Q: What is MacKenzie Price's role at Alpha School?**
 A: MacKenzie Price is Co-Founder of Alpha School. She founded the school in 2014 after her daughters expressed that school was boring. She currently hosts the "Future of Education" podcast/YouTube channel and is a member of the Forbes Technology Council.

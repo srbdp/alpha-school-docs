@@ -2,7 +2,7 @@
 
 High-level overview of specifications, their dependencies, and implementation status. This is the primary reference for understanding project scope and planning new work.
 
-**Last Updated**: 2026-01-20 (Spec 001 Restructured into 7 Sub-Specs)
+**Last Updated**: 2026-01-20 (Spec 001b Complete)
 
 ---
 
@@ -17,7 +17,7 @@ Create authoritative, structured Markdown documentation for Alpha School that en
 - **Guides**: Audience-specific overview documents (3 files)
 - **Research**: Source documentation with citations (7 domain-specific files)
 
-**Total Specs**: 32 | **Completed**: 1 (3%) | **In Progress**: 1 (3%) | **Planned**: 30 (94%) | **Estimated Effort**: ~20 hours
+**Total Specs**: 32 | **Completed**: 2 (6%) | **In Progress**: 1 (3%) | **Planned**: 29 (91%) | **Estimated Effort**: ~20 hours
 
 ---
 
@@ -39,7 +39,7 @@ Research is split into 7 independent sub-specs, one per domain. Each can be comp
 |------|--------|----------|--------------|-------------|--------|--------|
 | 001 | 🚧 In Progress | - | None | Parent spec - overview and methodology | (see sub-specs) | - |
 | 001a | ✅ Complete | Critical | None | Research Organization domain | `research/organization.md` | Small |
-| 001b | 📋 Planned | Critical | None | Research Model domain | `research/model.md` | Small |
+| 001b | ✅ Complete | Critical | None | Research Model domain | `research/model.md` | Small |
 | 001c | 📋 Planned | Critical | None | Research Curriculum domain | `research/curriculum.md` | Small |
 | 001d | 📋 Planned | High | None | Research Outcomes domain | `research/outcomes.md` | Small |
 | 001e | 📋 Planned | High | None | Research Enrollment domain | `research/enrollment.md` | Small |

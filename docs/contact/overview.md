@@ -1,3 +1,8 @@
+---
+title: "Contact Information"
+description: "Contact methods and communication channels for Alpha School inquiries"
+---
+
 # Contact Information
 
 > Contact methods and communication channels for Alpha School inquiries, enrollment, media, and campus-specific questions

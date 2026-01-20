@@ -1,3 +1,8 @@
+---
+title: "Alpha School: A Parent's Guide"
+description: "A comprehensive guide about Alpha School for parents researching educational options"
+---
+
 # Alpha School: A Parent's Guide
 
 Welcome to this comprehensive guide about Alpha School. If you're researching educational options for your child, you're likely weighing a significant decision. This guide synthesizes everything publicly known about Alpha School to help you understand what makes this school different, what it offers, and whether it might be the right fit for your family.

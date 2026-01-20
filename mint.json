@@ -10,6 +10,9 @@
     "default": "light",
     "isHidden": true
   },
+  "styling": {
+    "latex": false
+  },
   "colors": {
     "primary": "#0000EF",
     "light": "#0000EF",

@@ -1,3 +1,8 @@
+---
+title: "Alpha School: Media Briefing"
+description: "Background and context for journalists covering Alpha School's AI-powered education model"
+---
+
 # Alpha School: Media Briefing
 
 ## Executive Summary
@@ -7,9 +12,9 @@
 - **What it is**: Alpha School is a private school network combining AI-powered academics with life skills training, claiming students can master traditional K-12 curricula in two hours daily versus six hours in conventional schools
 - **Founded**: 2014 by MacKenzie Price (Stanford psychology graduate); formal campus operations began 2016
 - **Scale**: 17 campuses across 8 states (TX, CA, FL, NC, AZ, NY, VA) as of January 2026; serves PreK-12 students
-- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~$1 billion invested since 2022); MacKenzie Price (Co-Founder); Andrew Price (CFO/Co-Founder)
+- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~\$1 billion invested since 2022); MacKenzie Price (Co-Founder); Andrew Price (CFO/Co-Founder)
 - **Tuition**: $10,000-$75,000 annually depending on location
-- **Core Innovation**: AI-driven mastery-based learning platform (not chatbot-style AI) combined with high-touch human mentorship (5:1 student-guide ratio, $100,000+ guide salaries)
+- **Core Innovation**: AI-driven mastery-based learning platform (not chatbot-style AI) combined with high-touch human mentorship (5:1 student-guide ratio, \$100,000+ guide salaries)
 - **Key Differentiator**: "No homework, no traditional grades" model with 90%+ mastery requirement before advancement; afternoons focused on entrepreneurship, leadership, public speaking, financial literacy
 - **Notable Claims**: 2.6x faster learning growth on standardized tests, 92% of first graduating class (12 students) enrolled in four-year universities including Stanford and Vanderbilt
 - **Critical Caveat**: All academic outcome claims are self-reported without independent verification or peer-reviewed research
@@ -135,7 +140,7 @@ The distinction matters for accuracy: Alpha's system is adaptive courseware with
 Alpha School replaces traditional teachers with "guides" who provide zero academic instruction. Their entire function is motivation, mentorship, and emotional support rather than content delivery.
 
 **Guide Characteristics**:
-- **Compensation**: Minimum $100,000 annual salary (approximately double the U.S. median teacher salary of ~$50,000)
+- **Compensation**: Minimum $100,000 annual salary (approximately double the U.S. median teacher salary of ~\$50,000)
 - **Ratio**: 5:1 students per guide (versus 15-30:1 in most schools)
 - **Qualifications**: No teaching certification required; emphasis on emotional intelligence, coaching ability, and belief in the model
 - **Academic Instruction**: Zero traditional teaching; platform delivers all content

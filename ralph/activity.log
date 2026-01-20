@@ -2614,3 +2614,88 @@ Created comprehensive API-style reference documentation explaining Alpha School'
 - Phase 3: 0/3 guides (0%)
 
 [2026-01-20 07:32:45] Spec 011 created - Curriculum Overview specification and checklist
+[2026-01-20 07:40:15] Spec 012 created - Curriculum Subjects specification and checklist
+
+## 2026-01-20 - Spec 012 Created
+
+**Action**: Created Spec 012: Curriculum Subjects Specification
+**Type**: Specification Creation (Phase 2 preparation)
+**Phase**: Spec development for Phase 2.0 implementation
+
+**Summary**:
+Created comprehensive specification and implementation checklist for Curriculum Subjects reference documentation. Spec defines API-style documentation that will answer "What subjects does Alpha School teach?" for LLM consumption, covering seven core academic subjects (Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language), delivery platforms (proprietary and third-party), and standards alignment (Common Core K-8, AP high school).
+
+**Files Created**:
+- ralph/specs/012-curriculum-subjects/spec.md (~475 lines)
+- ralph/specs/012-curriculum-subjects/checklist.md (~370 lines)
+
+**Key Spec Components**:
+1. **Functional Requirements** (9 FRs):
+   - FR1.1: Header and one-sentence definition
+   - FR1.2: 3-paragraph overview (subjects, platforms, standards)
+   - FR1.3: Properties table (9 properties including core_subjects array, platform lists, standards alignment)
+   - FR1.4: Details section (3 subsections: Subject-by-Subject Breakdown with 7-subject table, Platform Ecosystem and Daily Flow, Standards Alignment and Subject Integration)
+   - FR1.5: Examples section (3 examples: Math mastery progression, integrated history/reading, platform orchestration)
+   - FR1.6: Related documentation links (7 related specs)
+   - FR1.7: FAQs section (5 Q&A pairs)
+   - FR1.8: Sources section (9 cited sources with URLs and retrieval dates)
+   - FR1.9: Document footer with timestamps
+
+2. **Implementation Phases**:
+   - Phase 1.0: Research Validation (5 tasks) - verify subjects, platforms, standards, integration approach
+   - Phase 1.1: Documentation Writing (11 tasks) - write all 9 FR sections
+   - Phase 1.2: Quality Review (5 tasks) - fact-check, consistency, template compliance, readability, cross-references
+
+3. **Key Research Findings Documented**:
+   - Seven subjects from research/curriculum.md lines 52-67, 247-257
+   - Proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach (lines 330-335)
+   - Third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor (lines 337-342)
+   - Central "Dash" platform orchestrates pathway (lines 290-293, 344-346)
+   - Common Core K-8 and AP high school standards (lines 286-293, 324-327)
+   - History/geography integrated into reading passages (line 256)
+   - Mastery threshold discrepancy noted: 90%+ (alpha.school) vs. 80%+ (secondary sources)
+
+4. **Checklist Structure**:
+   - Total 26 tasks across 3 phases
+   - Phase 1.0: 5 validation tasks (verify subjects, platforms, standards, integration, thresholds)
+   - Phase 1.1: 11 writing tasks (one per FR section)
+   - Phase 1.2: 5 quality review tasks (fact-check, consistency, template compliance, readability, cross-references)
+
+**Key Decisions**:
+1. Subject-by-subject table format for clear platform mapping (7 subjects × 4 columns)
+2. Emphasis on platform ecosystem (Dash as orchestrator, not just app list)
+3. Subject integration approach highlighted as distinctive feature (history/geography in reading)
+4. Balanced documentation includes noted weakness (AlphaWrite "needs improvement" per review)
+5. Three-subsection Details structure: subject breakdown, platform ecosystem, standards alignment
+6. Mastery threshold discrepancy documented with source attribution (90%+ vs. 80%+)
+7. Related links to 7 specs (existing and future) for LLM navigation
+
+**Content Quality Measures**:
+- All facts traceable to research/curriculum.md with line number citations
+- Platform names verified from multiple sources (primary and secondary)
+- Standards alignment confirmed from podcast transcripts (Common Core K-8, AP high school)
+- Subject integration approach sourced from GenWise Substack analysis
+- Quality review phase ensures 100% fact verification and template compliance
+
+**Dependencies**:
+- Direct: Spec 001c (Research Curriculum Domain) - complete ✅
+- Direct: Spec 011 (Curriculum Overview) - complete ✅
+- Related: Specs 006, 007, 008, 010, 013, 014
+
+**Output File Path**:
+- reference/curriculum/subjects.md (to be created in implementation)
+
+**Next Steps**:
+- Spec 012 now ready for implementation following checklist tasks
+- Next spec to create: Spec 013 (Grade Levels) after 012 is implemented
+- Continue Phase 2 reference documentation (Curriculum domain specs 011-014)
+
+**Project Status**:
+- Total specs: 32
+- Specs with complete specification documents: 18 (56.3%)
+- Implemented specs: 17 (53.1%)
+- Phase 1: 7/7 complete (100%) ✅
+- Phase 2: 11/22 specs created (50%), 11/22 implemented (50%)
+- Phase 3: 0/3 guides (0%)
+
+*Entry created: 2026-01-20*

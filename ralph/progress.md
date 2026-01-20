@@ -1729,3 +1729,107 @@ Implement Spec 011 by writing the actual reference document following the checkl
 - This is the first Curriculum domain spec, initiating Phase 2 work beyond Organization and Model domains
 
 ---
+
+## 2026-01-20 - Spec 012: Curriculum Subjects (Created)
+
+**Status**: Spec created, ready for implementation
+**Phase**: Phase 2 (Reference Documentation - Curriculum Domain)
+**Type**: Specification Creation
+**Dependencies**: Spec 001c (Research Curriculum Domain) ✅, Spec 011 (Curriculum Overview) ✅
+
+### What Was Done
+
+Created complete specification and implementation checklist for Curriculum Subjects reference documentation. This spec defines the second Curriculum domain document, focusing specifically on the seven academic subjects taught during Alpha School's 2-hour morning block, the platforms delivering each subject, and curriculum standards alignment.
+
+**Files Created**:
+1. `ralph/specs/012-curriculum-subjects/spec.md` (475 lines) - Complete specification
+2. `ralph/specs/012-curriculum-subjects/checklist.md` (370 lines) - 26-task implementation checklist
+
+**Output Target**: `reference/curriculum/subjects.md`
+
+### Specification Overview
+
+**Scope**: Transform research findings from `research/curriculum.md` into API-style reference documentation answering "What subjects does Alpha School teach?" covering:
+- Seven core academic subjects: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
+- Subject-specific delivery platforms (proprietary: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach; third-party: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
+- Central "Dash" platform orchestrating curriculum pathways
+- Standards alignment: Common Core K-8, Advanced Placement high school
+- Subject integration approach: history/geography embedded in reading passages vs. standalone subjects
+
+**Specification Structure**:
+- 9 Functional Requirements organized in document structure requirements (FR1.1-FR1.9)
+- 26 implementation tasks in checklist across 3 phases
+- Complete output guidance with 9-property table structure
+- Subject-by-subject breakdown table (7 subjects × 4 columns)
+- Success criteria defined for each phase
+
+**Key Design Decisions**:
+
+1. **Subject-by-Subject Table Format**: FR1.4 defines detailed table mapping each of 7 subjects to primary platforms, description, and standards coverage. This structured format enables LLMs to extract platform-per-subject information clearly (e.g., "What platform teaches math?" → "IXL for new concepts, Fast Math for speed/accuracy").
+
+2. **Three-Subsection Details Organization**: Details section structured as (1) Subject-by-Subject Breakdown, (2) Platform Ecosystem and Daily Flow, (3) Standards Alignment and Subject Integration. This separates "what subjects" from "how subjects are delivered" from "what standards guide subjects" for clarity.
+
+3. **Emphasis on Platform Ecosystem**: Beyond listing platforms, spec emphasizes Dash as orchestrator analyzing performance and curating pathways through applications. Research shows Alpha uses 5 proprietary + 5 third-party platforms coordinated centrally—this ecosystem approach is distinctive and warrants explanation.
+
+4. **Subject Integration Highlighted**: History/geography NOT taught as separate subjects but integrated into reading passages (research/curriculum.md line 256). This integration approach differentiates Alpha's curriculum from traditional 7-subject models and warrants dedicated subsection in Details and FAQ coverage.
+
+5. **Mastery Threshold Discrepancy Documented**: Consistent with Spec 011, notes both 90%+ (alpha.school primary source) and 80%+ (secondary sources) mastery thresholds with source attribution. Property table will use format: "90%+ (alpha.school) or 80%+ (secondary sources)" to handle discrepancy transparently.
+
+6. **Balanced Documentation Includes Weakness**: AlphaWrite platform noted as "needs improvement" per Astral Codex Ten review (research/curriculum.md line 407). Spec includes this in subject breakdown table for balanced representation rather than presenting all platforms as equally effective.
+
+7. **9 Properties vs. 8 in Spec 011**: Spec 012 has 9 properties (adds `central_platform`, `proprietary_platforms`, `third_party_platforms`) vs. 8 in Spec 011 because subjects spec requires platform ecosystem detail while overview spec emphasizes curriculum philosophy.
+
+**Content Coverage**:
+- **Properties table**: 9 structured attributes (core_subjects array, delivery_duration, delivery_method, central_platform, proprietary_platforms array, third_party_platforms array, standards_k8, standards_high_school, mastery_threshold)
+- **Details**: 3 subsections (Subject-by-Subject Breakdown with 7-subject table, Platform Ecosystem and Daily Flow, Standards Alignment and Subject Integration)
+- **Examples**: 3 concrete examples (Math mastery progression using IXL/Fast Math, Integrated history/reading passage approach, Platform orchestration via Dash)
+- **FAQs**: 5 common questions (How many subjects? What platforms? What standards? Why no separate history? How long per grade level?)
+- **Sources**: 9 cited sources from research/curriculum.md lines 6-24 (alpha.school pages, podcasts, news, reviews)
+
+**Implementation Checklist Structure**:
+- **Phase 1.0 - Research Validation** (5 tasks): Verify seven subjects, platform lists (proprietary/third-party), standards alignment, subject integration claim, mastery threshold discrepancy
+- **Phase 1.1 - Documentation Writing** (11 tasks): Write header/definition, overview, properties table, details (3 subsections), examples, related links, FAQs, sources, footer
+- **Phase 1.2 - Quality Review** (5 tasks): Fact-check all claims, consistency check (naming, thresholds), template compliance, readability review, cross-reference validation
+
+**Research Foundation**:
+All functional requirements trace to research/curriculum.md with specific line citations:
+- Seven subjects: lines 52-67, 247-257
+- Proprietary platforms: lines 330-335 (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach)
+- Third-party platforms: lines 337-342 (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
+- Central Dash platform: lines 290-293, 344-346
+- Common Core K-8: lines 286-293, 324-327
+- AP high school: lines 286-293 (specific AP courses listed)
+- Subject integration: line 256 (history/geography in reading passages)
+- Mastery thresholds: lines 32-33 (90%+), 259 (80%+)
+- Platform-to-subject mapping: lines 395-414 (Astral Codex Ten detailed breakdown)
+
+**Quality Measures**:
+- Phase 1.2 fact-check task ensures 100% citation verification
+- Consistency check verifies platform/subject naming across document
+- Template compliance ensures roadmap.md structure followed
+- Cross-reference check validates links to 7 related specs (existing and future)
+- Readability review ensures concise paragraphs, active voice, concrete examples
+
+**Dependencies**:
+- **Direct**: Spec 001c (Research Curriculum Domain) - Complete ✅
+- **Direct**: Spec 011 (Curriculum Overview) - Complete ✅
+- **Related**: Specs 006 (Educational Philosophy), 007 (Two-Hour Learning), 008 (AI Integration), 010 (Daily Schedule), 013 (Grade Levels - future), 014 (Assessments - future)
+
+**Next Action**:
+Implement Spec 012 by writing the actual reference document following the checklist. This can be done by:
+1. Using the implement_spec skill (recommended)
+2. Following the manual checklist in `ralph/specs/012-curriculum-subjects/checklist.md`
+
+**Blockers**: None
+
+**Notes**:
+- Total specs: 32
+- Specs with specs written: 18 (56.3%)
+- Specs implemented: 17 (53.1%)
+- In Progress: 1 (Spec 012 - spec created, implementation pending)
+- Planned: 14 (43.8%)
+- Phase 1 progress: 7/7 complete (100%) ✅
+- Phase 2 progress: 11/22 implemented (50%), 1 spec created (Spec 012)
+- Curriculum domain: 2/4 specs created (011 ✅ implemented, 012 spec created)
+
+---

@@ -2021,7 +2021,7 @@ Implement Spec 008: AI Integration reference documentation (depends on Spec 006)
   - Platform Architecture and Components: Timeback, Dash, Incept; NOT chatbots; tutor and coach functions
   - Personalization and Adaptive Learning: Knowledge graphs, real-time adaptation, zone of proximal development targeting
   - Learning Science Implementation: Mastery-based progression (90%+), cognitive load theory, spaced repetition, multimodal support
-  - Technology Stack and Tools: "Ever-evolving mix" of built/bought apps; third-party tools (IXL, Khan Academy, Grammarly, Newsela); custom tools (Alpha Math, vision models); Trilogy Software ownership
+  - Technology Stack and Tools: "Ever-evolving mix" of built/bought apps; third-party tools (Khan Academy, Grammarly, Newsela); custom tools (Alpha Math, vision models); Trilogy Software ownership
   - Platform Evolution and Guardrails: Post-2022 improvements, early circumvention challenges, current guardrails, vision model coaching interventions
 - **Examples**: 3 concrete examples (Adaptive Lesson Sequencing with knowledge graph, Knowledge Graph in Action with interest integration, Multimodal Support with accessibility accommodation)
 - **FAQs**: 5 Q&A pairs (platforms used, chatbot differences, personalization mechanisms, third-party tools, platform evolution)
@@ -2090,7 +2090,7 @@ Implement Spec 008 by writing the actual reference document following the checkl
   - Platform Architecture and Components: Three platforms, NOT chatbots clarification, tutor/coach functions
   - Personalization and Adaptive Learning: Knowledge graphs, real-time adaptation, zone of proximal development, prevents topic-shopping
   - Learning Science Implementation: Mastery-based progression (90%+), cognitive load theory, spaced repetition, multimodal support
-  - Technology Stack and Tools: Built + bought approach, third-party integrations (IXL, Khan, Grammarly, Newsela), custom tools (Alpha Math, vision models), Trilogy Software ownership
+  - Technology Stack and Tools: Built + bought approach, third-party integrations (Khan Academy, Grammarly, Newsela), custom tools (Alpha Math, vision models), Trilogy Software ownership
   - Platform Evolution and Guardrails: Post-2022 improvements, early circumvention challenges, current guardrails, vision monitoring
 - **Examples**: Adaptive lesson sequencing, knowledge graph in action, multimodal support
 - **Related**: Links to 6 related specs (006, 007, 009, 010, 002, 004)
@@ -2447,7 +2447,7 @@ Created complete specification and implementation checklist for Curriculum Subje
 
 **Scope**: Transform research findings from `research/curriculum.md` into API-style reference documentation answering "What subjects does Alpha School teach?" covering:
 - Seven core academic subjects: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
-- Subject-specific delivery platforms (proprietary: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach; third-party: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
+- Subject-specific delivery platforms (proprietary: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach; third-party: Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
 - Central "Dash" platform orchestrating curriculum pathways
 - Standards alignment: Common Core K-8, Advanced Placement high school
 - Subject integration approach: history/geography embedded in reading passages vs. standalone subjects
@@ -2461,7 +2461,7 @@ Created complete specification and implementation checklist for Curriculum Subje
 
 **Key Design Decisions**:
 
-1. **Subject-by-Subject Table Format**: FR1.4 defines detailed table mapping each of 7 subjects to primary platforms, description, and standards coverage. This structured format enables LLMs to extract platform-per-subject information clearly (e.g., "What platform teaches math?" → "IXL for new concepts, Fast Math for speed/accuracy").
+1. **Subject-by-Subject Table Format**: FR1.4 defines detailed table mapping each of 7 subjects to primary platforms, description, and standards coverage. This structured format enables LLMs to extract platform-per-subject information clearly (e.g., "What platform teaches math?" → "Proprietary platforms for new concepts, Fast Math for speed/accuracy").
 
 2. **Three-Subsection Details Organization**: Details section structured as (1) Subject-by-Subject Breakdown, (2) Platform Ecosystem and Daily Flow, (3) Standards Alignment and Subject Integration. This separates "what subjects" from "how subjects are delivered" from "what standards guide subjects" for clarity.
 
@@ -2478,7 +2478,7 @@ Created complete specification and implementation checklist for Curriculum Subje
 **Content Coverage**:
 - **Properties table**: 9 structured attributes (core_subjects array, delivery_duration, delivery_method, central_platform, proprietary_platforms array, third_party_platforms array, standards_k8, standards_high_school, mastery_threshold)
 - **Details**: 3 subsections (Subject-by-Subject Breakdown with 7-subject table, Platform Ecosystem and Daily Flow, Standards Alignment and Subject Integration)
-- **Examples**: 3 concrete examples (Math mastery progression using IXL/Fast Math, Integrated history/reading passage approach, Platform orchestration via Dash)
+- **Examples**: 3 concrete examples (Math mastery progression using proprietary platforms/Fast Math, Integrated history/reading passage approach, Platform orchestration via Dash)
 - **FAQs**: 5 common questions (How many subjects? What platforms? What standards? Why no separate history? How long per grade level?)
 - **Sources**: 9 cited sources from research/curriculum.md lines 6-24 (alpha.school pages, podcasts, news, reviews)
 
@@ -2491,7 +2491,7 @@ Created complete specification and implementation checklist for Curriculum Subje
 All functional requirements trace to research/curriculum.md with specific line citations:
 - Seven subjects: lines 52-67, 247-257
 - Proprietary platforms: lines 330-335 (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach)
-- Third-party platforms: lines 337-342 (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
+- Third-party platforms: lines 337-342 (Khan Academy, Grammarly, Math Academy, Synthesis Tutor)
 - Central Dash platform: lines 290-293, 344-346
 - Common Core K-8: lines 286-293, 324-327
 - AP high school: lines 286-293 (specific AP courses listed)
@@ -2560,14 +2560,14 @@ Created comprehensive API-style reference documentation answering "What subjects
 - Seven subjects documented: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
 - Platform ecosystem: Dash (central orchestrator) + 5 proprietary apps + 7 third-party platforms
 - Proprietary: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
-- Third-party: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
+- Third-party: Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
 - Standards: Common Core K-8, AP high school (Calculus, Statistics, English, Biology, Chemistry, Physics)
 - Mastery threshold: 90%+ (alpha.school) or 80%+ (secondary sources) — discrepancy documented
 - Subject integration: History/geography embedded in reading passages (not standalone subjects)
 - Efficiency claim: 20-30 hours per grade level vs. 200 hours traditional
 
 **Examples Provided**:
-1. Math Mastery Progression: IXL instruction → immediate feedback on error → "Fast Math" drills → advancement
+1. Math Mastery Progression: Proprietary platform instruction → immediate feedback on error → "Fast Math" drills → advancement
 2. Integrated History/Reading: Declaration of Independence passage with dual assessment
 3. Platform Orchestration: Morning block flow through Dash with seamless transitions across 6 platforms
 

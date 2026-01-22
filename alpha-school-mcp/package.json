@@ -1,5 +1,5 @@
 {
-  "name": "@alpha-school/mcp",
+  "name": "alpha-school-mcp",
   "version": "1.0.0",
   "description": "MCP server for Alpha School documentation",
   "main": "dist/index.js",

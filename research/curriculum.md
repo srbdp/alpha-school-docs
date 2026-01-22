@@ -263,7 +263,7 @@
 **Daily Structure:**
 - Students complete 8-12 daily lessons called "minimums"
 - Q breaks occur every 20-30 minutes for physical activity
-- Platform utilizes third-party tools (IXL) and proprietary applications (AlphaReads)
+- Platform utilizes third-party tools and proprietary applications (AlphaReads)
 - Students receive immediate feedback on each question
 - Incorrect answers trigger explanations
 
@@ -289,7 +289,7 @@
 
 **Delivery Platform:**
 - Uses "a dashboard" where students "click on a button and it will take them directly to whichever adaptive app is right for that student based on the level, the subject"
-- Third-party apps: "Alex or Math Academy or IXL"
+- Third-party apps: "Alex or Math Academy"
 - Also proprietary applications
 
 **SAT Performance:**
@@ -335,7 +335,6 @@
 - Fluency Coach
 
 *Third-Party Apps:*
-- IXL
 - Khan Academy
 - Grammarly
 - Math Academy
@@ -396,14 +395,14 @@
 
 | Subject | Platform | Notes |
 |---------|----------|-------|
-| Math (new concepts) | IXL | Core math instruction |
+| Math (new concepts) | Proprietary | Core math instruction |
 | Math (speed/accuracy) | "Fast Math" | Practice on familiar material |
-| Spelling/Grammar | IXL | Language arts component |
+| Spelling/Grammar | Proprietary | Language arts component |
 | Reading (older students) | AlphaReads | Proprietary platform |
 | Reading (younger students) | Amira, Lalio | Third-party apps |
-| Science | IXL | Primarily IXL-based |
-| Social Studies | IXL | Primarily IXL-based |
-| Foreign Language | IXL | Primarily IXL-based |
+| Science | Proprietary | Platform-based |
+| Social Studies | Proprietary | Platform-based |
+| Foreign Language | Proprietary | Platform-based |
 | Writing | AlphaWrite | Newly launched, needs improvement |
 
 **Daily Lesson Structure ("Minimums"):**
@@ -549,7 +548,7 @@ The following are consistently reported across multiple independent sources:
 - Core subjects: math, English/language arts, science, social studies
 - Afternoon life skills workshops (~4 hours)
 - "Guides" instead of teachers for academic block
-- Use of IXL as primary third-party platform
+- Use of proprietary and third-party platforms
 - 24 life skills framework
 - Mastery-based progression (not time-based)
 

@@ -82,7 +82,7 @@
 - [ ] Document Timeback platform (personalized learning)
 - [ ] Document Incept (custom LLM for curriculum generation)
 - [ ] Document vision monitoring (engagement tracking, "anti-patterns")
-- [ ] Document integration partners (IXL, Khan Academy, Trilogy Software, in-house engineering)
+- [ ] Document integration partners (Khan Academy, Trilogy Software, in-house engineering)
 - [ ] Trace all facts to research/organization.md lines 131, 140-146
 
 #### Subsection: Key Milestones (2014-2025)

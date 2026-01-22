@@ -19,7 +19,7 @@ Transform research findings into a structured reference document covering:
 - **Curriculum Philosophy**: Mastery-based learning (90%+ or 80%+ threshold per source), personalized pacing, spaced repetition
 - **Core Academic Subjects**: Math, English/Language Arts, Science, Social Studies, Reading, Writing, Foreign Language (K-12)
 - **Life Skills Program**: 24 life skills organized across 5 core areas, age-appropriate workshops, real-world projects
-- **Standards Alignment**: Common Core (K-8), Advanced Placement (high school), third-party platforms (IXL, Khan Academy)
+- **Standards Alignment**: Common Core (K-8), Advanced Placement (high school), third-party platforms (Khan Academy)
 - **Assessment Approach**: NWEA MAP tests (3x yearly), internal mastery tests, platform-tracked progression
 - **Grade Level Structure**: K-12, level-based vs. age-based progression, PreK-8 structured vs. high school self-directed
 
@@ -72,9 +72,9 @@ Transform research findings into a structured reference document covering:
 - **Requirement**: Expanded explanation organized by subsections
 - **Subsections** (5 required):
   - **Mastery-Based Learning Philosophy**: 90%+ accuracy requirement (alpha.school) vs. 80%+ (secondary sources—note discrepancy per research/curriculum.md lines 515-518); personalized pacing; spaced repetition; prevents cumulative knowledge gaps; efficiency claim (20-30 hours per grade level vs. 200 hours traditional); knowledge graph tracking
-  - **Core Academic Subjects (Morning Block)**: Four core subjects (Math, English/Language Arts, Science, History/Social Studies) plus Reading, Writing, Foreign Language; 2-hour morning block; Pomodoro sessions (25-minute blocks); AI-powered delivery; platform-based (IXL, Khan Academy, Math Academy, proprietary tools); Common Core K-8, AP high school; history/geography integrated into reading passages
+  - **Core Academic Subjects (Morning Block)**: Four core subjects (Math, English/Language Arts, Science, History/Social Studies) plus Reading, Writing, Foreign Language; 2-hour morning block; Pomodoro sessions (25-minute blocks); AI-powered delivery; platform-based (Khan Academy, Math Academy, proprietary tools); Common Core K-8, AP high school; history/geography integrated into reading passages
   - **Life Skills Program (Afternoon)**: 24 life skills across 5 core areas (Teamwork & Leadership, Storytelling & Public Speaking, Entrepreneurship & Financial Literacy, Relationship Building & Socialization, Grit & Hard Work); 4-hour afternoon workshops; age-appropriate progression (PreK → K-1 → 2-3 → 4-5 → 6-8 → high school); real-world projects (Airbnb operations, food trucks, athletic training, public speaking progressions); "Tests to Pass" for life skills mastery; screen-free, hands-on format
-  - **Standards Alignment and Curriculum Sources**: Common Core (K-8), Advanced Placement (high school); third-party platforms (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor); proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach); central platform "Dash" curates pathway through applications; history/geography integrated vs. standalone subjects
+  - **Standards Alignment and Curriculum Sources**: Common Core (K-8), Advanced Placement (high school); third-party platforms (Khan Academy, Grammarly, Math Academy, Synthesis Tutor); proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach); central platform "Dash" curates pathway through applications; history/geography integrated vs. standalone subjects
   - **Assessment and Progression**: NWEA MAP tests 3x yearly (nationally normed, adaptive); internal mastery tests (90%+ or 80%+ threshold); real-time platform tracking (accuracy, speed, completion); level-based vs. age-based progression; "Test to Pass Showcase" events; no homework policy (efficiency claim); parent dashboards with performance insights
 - **Source**: research/curriculum.md lines 30-174, 247-314, 395-443
 - **Rationale**: Provides depth while maintaining scannable structure

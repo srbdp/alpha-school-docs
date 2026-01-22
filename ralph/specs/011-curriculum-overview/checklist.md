@@ -144,7 +144,7 @@
   - **Files**: `reference/curriculum/overview.md` (Details section, H3 subsection 1)
 
 - [ ] **Task 2.0.18**: Write Details subsection 2 - Core Academic Subjects (Morning Block)
-  - Cover: Four core subjects (Math, English/Language Arts, Science, History/Social Studies) plus Reading, Writing, Foreign Language; 2-hour morning block; Pomodoro sessions (25-minute blocks); AI-powered delivery; platform-based (IXL, Khan Academy, Math Academy, proprietary tools); Common Core K-8, AP high school; history/geography integrated into reading passages
+  - Cover: Four core subjects (Math, English/Language Arts, Science, History/Social Studies) plus Reading, Writing, Foreign Language; 2-hour morning block; Pomodoro sessions (25-minute blocks); AI-powered delivery; platform-based (Khan Academy, Math Academy, proprietary tools); Common Core K-8, AP high school; history/geography integrated into reading passages
   - **FR**: FR1.4
   - **Source**: research/curriculum.md lines 52-65, 207-225, 247-256, 287-289, 324-326, 395-407
   - **Files**: `reference/curriculum/overview.md` (Details section, H3 subsection 2)
@@ -156,7 +156,7 @@
   - **Files**: `reference/curriculum/overview.md` (Details section, H3 subsection 3)
 
 - [ ] **Task 2.0.20**: Write Details subsection 4 - Standards Alignment and Curriculum Sources
-  - Cover: Common Core (K-8), Advanced Placement (high school); third-party platforms (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor); proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach); central platform "Dash" curates pathway through applications; history/geography integrated vs. standalone subjects
+  - Cover: Common Core (K-8), Advanced Placement (high school); third-party platforms (Khan Academy, Grammarly, Math Academy, Synthesis Tutor); proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach); central platform "Dash" curates pathway through applications; history/geography integrated vs. standalone subjects
   - **FR**: FR1.4
   - **Source**: research/curriculum.md lines 256, 287-293, 324-343, 395-407
   - **Files**: `reference/curriculum/overview.md` (Details section, H3 subsection 4)
@@ -219,7 +219,7 @@
   - **Files**: `reference/curriculum/overview.md` (FAQs section, Q&A 3)
 
 - [ ] **Task 2.0.29**: Write FAQ 4 - How does Alpha's curriculum align with educational standards?
-  - Answer: Common Core standards K-8, Advanced Placement curriculum high school; uses third-party platforms (IXL, Khan Academy) and proprietary tools aligned to these standards; central platform "Dash" curates pathway through applications
+  - Answer: Common Core standards K-8, Advanced Placement curriculum high school; uses third-party platforms (Khan Academy) and proprietary tools aligned to these standards; central platform "Dash" curates pathway through applications
   - **FR**: FR1.7
   - **Source**: research/curriculum.md lines 287-289, 324-326, 337-346
   - **Files**: `reference/curriculum/overview.md` (FAQs section, Q&A 4)

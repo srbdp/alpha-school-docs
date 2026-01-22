@@ -74,7 +74,7 @@
   - [ ] Source: line 103
 - [ ] Add property 7: `third_party_tools` (array)
   - [ ] Description: "External platforms integrated into Alpha's AI system"
-  - [ ] Example: ["IXL", "Khan Academy", "Grammarly", "Newsela"]
+  - [ ] Example: ["Khan Academy", "Grammarly", "Newsela"]
   - [ ] Source: line 104
 - [ ] Add property 8: `custom_tools` (array)
   - [ ] Description: "Alpha-built platforms and features"
@@ -142,7 +142,7 @@
   - [ ] "Ever-evolving mix of adaptive learning apps" (line 103)
   - [ ] Both build and buy (line 103)
 - [ ] List third-party tools:
-  - [ ] IXL (line 104)
+  - [ ] (Proprietary platforms)
   - [ ] Khan Academy (line 104)
   - [ ] Grammarly (line 104)
   - [ ] Newsela (line 104)
@@ -245,7 +245,7 @@
   - [ ] Source: lines 87-96
 - [ ] Write FAQ 4:
   - [ ] **Q**: "What third-party tools does Alpha integrate with its AI platforms?"
-  - [ ] **A**: List IXL, Khan Academy, Grammarly, Newsela; explain "ever-evolving mix" of built and bought apps approach
+  - [ ] **A**: List Khan Academy, Grammarly, Newsela; explain "ever-evolving mix" of built and bought apps approach
   - [ ] Source: lines 103-104
 - [ ] Write FAQ 5:
   - [ ] **Q**: "How has Alpha's AI platform evolved since 2022?"

@@ -666,7 +666,7 @@ Successfully researched and documented all publicly available information about 
 ### Key Findings
 - **Educational Philosophy**: Three core commitments (love school, master academics in 2 hours, high standards/support), based on Bloom's 2 Sigma, zone of proximal development, mastery-based learning
 - **2-Hour Learning Model**: 2 hours AI-powered academics + 2.5-4 hours life skills, claims 2.6x faster learning
-- **AI Integration**: Platforms "Time Back" and "Dash", uses IXL/Khan Academy, vision models, NOT chatbots
+- **AI Integration**: Platforms "Time Back" and "Dash", uses Khan Academy, vision models, NOT chatbots
 - **Human Instruction**: "Guides" provide mentorship not instruction, $100k+ salaries, 30 min/week 1:1 time
 - **Daily Schedule**: Goal-setting, 2-hour academic block (4x25 min Pomodoros), lunch, afternoon life skills
 
@@ -2061,7 +2061,7 @@ Implement Spec 005: History Reference Documentation
 
 2. **Early Model (2014-2016)**: Adaptive app usage (Khan Academy, ALEKS, Math Academy, Newsela, DreamBox), personalized self-paced learning, afternoon activities ("neighborhood lemonade stand wars", "Hero's Journey performances"), formal campus opening 2016
 
-3. **AI Investment & Platform Development (2022)**: Context (generative AI emergence), Joe Liemandt's ~$1B investment, Timeback platform (personalized learning), Incept LLM (curriculum generation), vision monitoring (engagement tracking, "anti-patterns"), integration with IXL, Khan Academy, Trilogy Software
+3. **AI Investment & Platform Development (2022)**: Context (generative AI emergence), Joe Liemandt's ~$1B investment, Timeback platform (personalized learning), Incept LLM (curriculum generation), vision monitoring (engagement tracking, "anti-patterns"), integration with Khan Academy, Trilogy Software
 
 4. **Key Milestones (2014-2025)**: Chronological timeline organized by year
    - 2014: Founding as Emergent Academy, 16 kids in house, Holtz partnership
@@ -2697,7 +2697,7 @@ Created comprehensive API-style reference documentation explaining Alpha School'
 - Prevents topic-shopping through curated difficulty
 
 **Technology Stack**:
-- Third-party tools: IXL, Khan Academy, Grammarly, Newsela
+- Third-party tools: Khan Academy, Grammarly, Newsela
 - Custom tools: Alpha Math, vision models, AI curriculum recommendation
 - Owner: Trilogy Software (Joe Liemandt)
 
@@ -3055,7 +3055,7 @@ Created comprehensive specification and implementation checklist for Curriculum 
 3. **Key Research Findings Documented**:
    - Seven subjects from research/curriculum.md lines 52-67, 247-257
    - Proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach (lines 330-335)
-   - Third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor (lines 337-342)
+   - Third-party platforms: Khan Academy, Grammarly, Math Academy, Synthesis Tutor (lines 337-342)
    - Central "Dash" platform orchestrates pathway (lines 290-293, 344-346)
    - Common Core K-8 and AP high school standards (lines 286-293, 324-327)
    - History/geography integrated into reading passages (line 256)
@@ -3135,7 +3135,7 @@ Successfully implemented Spec 012, creating comprehensive API-style reference do
    - Seven core subjects documented: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language
    - Subject-by-subject table with platform mapping, descriptions, and standards coverage
    - Proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
-   - Third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
+   - Third-party platforms: Khan Academy, Grammarly, Math Academy, Synthesis Tutor, Amira, Lalio
    - Central orchestration platform: "Dash" (part of Time Back system)
 
 3. **Key Content Highlights**:
@@ -3147,7 +3147,7 @@ Successfully implemented Spec 012, creating comprehensive API-style reference do
    - AlphaWrite weakness noted per parent reviews (transparency in documentation)
 
 4. **Examples Provided**:
-   - Math Mastery Progression: IXL fractions → immediate feedback → "Fast Math" speed drills → advancement
+   - Math Mastery Progression: Proprietary platform fractions → immediate feedback → "Fast Math" speed drills → advancement
    - Integrated History/Reading: Declaration of Independence passage with dual assessment (literacy + content)
    - Platform Orchestration: Full morning block flow through Dash with 6+ platform transitions
 

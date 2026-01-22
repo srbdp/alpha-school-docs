@@ -101,7 +101,7 @@ The model is described as built on 40 years of established learning science, spe
 
 **Technology Approach:**
 - Combines an "ever-evolving mix of adaptive learning apps" that they both build and buy
-- Uses third-party tools: IXL, Khan Academy, Grammarly, Newsela
+- Uses third-party tools: Khan Academy, Grammarly, Newsela
 - Custom-built tools: "Alpha Math"
 - Vision models analyzing student work patterns
 - AI-powered curriculum recommendation systems
@@ -295,7 +295,7 @@ Nat Malkus (AEI Senior Fellow) frames Alpha as addressing education sector conce
 - Provides multimodal support (video, audio, written text, voice reading)
 
 **Technology Stack:**
-- Uses mix of: IXL, Khan Academy, custom-built tools like "Alpha Math"
+- Uses mix of: Khan Academy, custom-built tools like "Alpha Math"
 - AI-powered curriculum recommendation systems
 - Vision models analyzing student work patterns
 - Personalized lesson planning based on learning rate data

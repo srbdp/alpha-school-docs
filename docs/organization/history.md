@@ -55,7 +55,7 @@ Key platforms developed during this period include:
 
 **Vision Monitoring**: Computer vision technology that tracks student engagement and identifies "anti-patterns" (behaviors indicating disengagement or difficulty). This system provides real-time feedback to guides and helps optimize learning conditions.
 
-The platforms integrate with existing tools from IXL, Khan Academy, Trilogy Software, and Alpha's own engineering team, creating a comprehensive AI-powered learning environment. This technological infrastructure distinguishes modern Alpha School from its microschool origins and represents the school's evolution into an AI-first educational model.
+The platforms integrate with existing tools from Khan Academy, Trilogy Software, and Alpha's own engineering team, creating a comprehensive AI-powered learning environment. This technological infrastructure distinguishes modern Alpha School from its microschool origins and represents the school's evolution into an AI-first educational model.
 
 ### Key Milestones (2014-2025)
 
@@ -145,7 +145,7 @@ The expansion pattern suggests Alpha is testing its model across diverse demogra
 
 **2022 Turning Point**: Joe Liemandt invested approximately &#36;1 billion following the emergence of generative AI, funding development of proprietary platforms.
 
-**2022-2025 Development**: Custom AI infrastructure built including Timeback (personalized learning platform), Incept (curriculum generation LLM), and vision monitoring (engagement tracking). Integration with IXL, Khan Academy, Trilogy Software, and in-house engineering.
+**2022-2025 Development**: Custom AI infrastructure built including Timeback (personalized learning platform), Incept (curriculum generation LLM), and vision monitoring (engagement tracking). Integration with Khan Academy, Trilogy Software, and in-house engineering.
 
 **2025 Current State**: 17+ campuses across 8 states, proprietary AI platform replacing off-the-shelf tools, first graduating senior class (11 of 12 students to four-year universities), campus sizes of 155+ students, tuition ranging from &#36;10,000 to &#36;75,000 depending on location.
 

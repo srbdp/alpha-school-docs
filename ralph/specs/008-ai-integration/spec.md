@@ -19,7 +19,7 @@ Transform research findings into a structured reference document covering:
 - **Platform Architecture**: Timeback (learning platform), Dash (curriculum system), Incept (vision monitoring)
 - **Personalization Mechanisms**: Knowledge graphs, real-time adaptation, zone of proximal development targeting
 - **Learning Science Implementation**: Mastery-based progression (90%+), cognitive load theory, spaced repetition
-- **Technology Stack**: Third-party tools (IXL, Khan Academy, Grammarly, Newsela), custom tools (Alpha Math), vision models
+- **Technology Stack**: Third-party tools (Khan Academy, Grammarly, Newsela), custom tools (Alpha Math), vision models
 - **Platform Evolution**: Post-2022 improvements, guardrails against student circumvention, coaching interventions
 - **Technology Ownership**: Trilogy Software (division of Trilogy Enterprises, Joe Liemandt)
 
@@ -78,7 +78,7 @@ Transform research findings into a structured reference document covering:
   - **Platform Architecture and Components**: Timeback (learning), Dash (curriculum), Incept (vision monitoring); NOT chatbots like ChatGPT; tutor and coach functions; laptop-based delivery
   - **Personalization and Adaptive Learning**: Knowledge graphs tracking what students know; combines knowledge data with interests; real-time performance monitoring and lesson adjustment; zone of proximal development targeting; prevents topic-shopping through curated difficulty
   - **Learning Science Implementation**: Mastery-based progression (90%+ requirement); cognitive load theory application; spaced repetition for retention; multimodal support (video, audio, text, voice reading); analyzes accuracy and speed
-  - **Technology Stack and Tools**: "Ever-evolving mix" of built and bought apps; third-party tools (IXL, Khan Academy, Grammarly, Newsela); custom-built tools (Alpha Math); vision models analyzing work patterns; AI-powered curriculum recommendation; personalized lesson planning from learning rate data
+  - **Technology Stack and Tools**: "Ever-evolving mix" of built and bought apps; third-party tools (Khan Academy, Grammarly, Newsela); custom-built tools (Alpha Math); vision models analyzing work patterns; AI-powered curriculum recommendation; personalized lesson planning from learning rate data
   - **Platform Evolution and Guardrails**: Significant improvements post-2022 when AI integration deepened; early apps allowed student circumvention; current systems provide guardrails; vision model analysis informs coaching interventions
 - **Source**: research/model.md lines 78-118
 - **Rationale**: Provides depth while maintaining scannable structure

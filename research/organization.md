@@ -141,7 +141,7 @@ Alpha School originally branched off Acton Academy, a franchise of microschools.
 - **Timeback:** AI-powered personalized learning platform developed ~2022 with $1B investment
 - **Incept:** Custom LLM for curriculum generation
 - **Vision monitoring:** Tracks student engagement and "anti-patterns"
-- Uses applications from IXL, Khan Academy, Trilogy Software, and school's own engineers
+- Uses applications from Khan Academy, Trilogy Software, and school's own engineers
 
 *Source: LinkedIn, colossus.com, 2hourlearning.com, news articles, retrieved 2026-01-20*
 

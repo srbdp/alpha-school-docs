@@ -8,7 +8,7 @@ Alpha School uses three primary AI platforms for instruction: Timeback (learning
 
 The AI creates a "knowledge graph" of what each student knows, combining performance data with student interests to tailor content. Alpha's platforms enable mastery-based progression requiring 90%+ accuracy before advancing, apply cognitive load theory to prevent overwhelm, use spaced repetition for retention, and provide multimodal support (video, audio, written text, voice reading). The AI analyzes accuracy and speed through lessons, keeps students in optimal learning zones (zone of proximal development), and prevents topic-shopping by curating appropriate difficulty levels.
 
-Alpha's technology approach combines an "ever-evolving mix of adaptive learning apps" that they both build and buy, integrating third-party tools (IXL, Khan Academy, Grammarly, Newsela) with custom-built platforms (Alpha Math, vision models, AI-powered curriculum recommendation systems). The platforms are owned by Trilogy Software, a division of Trilogy Enterprises headed by Joe Liemandt. According to Alpha materials, the AI platforms underwent significant improvements post-2022 when AI integration deepened—early adaptive apps allowed student circumvention, but current systems provide guardrails, with vision model analysis of student behavior now informing coaching interventions.
+Alpha's technology approach combines an "ever-evolving mix of adaptive learning apps" that they both build and buy, integrating third-party tools (Khan Academy, Grammarly, Newsela) with custom-built platforms (Alpha Math, vision models, AI-powered curriculum recommendation systems). The platforms are owned by Trilogy Software, a division of Trilogy Enterprises headed by Joe Liemandt. According to Alpha materials, the AI platforms underwent significant improvements post-2022 when AI integration deepened—early adaptive apps allowed student circumvention, but current systems provide guardrails, with vision model analysis of student behavior now informing coaching interventions.
 
 ## Properties
 
@@ -20,7 +20,7 @@ Alpha's technology approach combines an "ever-evolving mix of adaptive learning 
 | knowledge_modeling | string | How AI tracks and represents student understanding | "Creates 'knowledge graph' of what each student knows, combined with interests" |
 | adaptivity_features | array | Real-time adjustment mechanisms | ["Real-time performance monitoring", "Lesson difficulty adjustment", "Zone of proximal development targeting", "Mastery-based progression (90%+)", "Gap identification and targeted practice"] |
 | technology_stack | string | Platform development approach | "Ever-evolving mix of adaptive learning apps both built and bought" |
-| third_party_tools | array | External platforms integrated into Alpha's AI system | ["IXL", "Khan Academy", "Grammarly", "Newsela"] |
+| third_party_tools | array | External platforms integrated into Alpha's AI system | ["Khan Academy", "Grammarly", "Newsela"] |
 | custom_tools | array | Alpha-built platforms and features | ["Alpha Math", "Vision models for work pattern analysis", "AI-powered curriculum recommendation", "Personalized lesson planning systems"] |
 | platform_owner | string | Technology development entity | "Trilogy Software (division of Trilogy Enterprises, Joe Liemandt)" |
 
@@ -50,7 +50,7 @@ The AI uses spaced repetition for retention, revisiting previously mastered conc
 
 ### Technology Stack and Tools
 
-Alpha School describes its technology approach as an "ever-evolving mix of adaptive learning apps" that combine both built and bought platforms. The school integrates established third-party educational tools—including IXL (adaptive practice), Khan Academy (instructional videos and exercises), Grammarly (writing feedback), and Newsela (reading comprehension)—into its AI-powered curriculum delivery system.
+Alpha School describes its technology approach as an "ever-evolving mix of adaptive learning apps" that combine both built and bought platforms. The school integrates established third-party educational tools—including Khan Academy (instructional videos and exercises), Grammarly (writing feedback), and Newsela (reading comprehension)—into its AI-powered curriculum delivery system.
 
 Alpha has also developed custom-built tools specific to its educational model. These include **Alpha Math** (a proprietary mathematics platform), **vision models** that analyze student work patterns and behavior to inform coaching interventions, **AI-powered curriculum recommendation systems** that suggest optimal content sequencing, and **personalized lesson planning systems** that generate individualized daily schedules based on each student's learning rate data.
 
@@ -137,7 +137,7 @@ A: Alpha's AI creates a "knowledge graph" tracking what each student knows acros
 
 **Q: What third-party tools does Alpha integrate with its AI platforms?**
 
-A: Alpha School integrates established third-party educational tools into its AI-powered curriculum delivery system, including IXL (adaptive practice), Khan Academy (instructional videos and exercises), Grammarly (writing feedback), and Newsela (reading comprehension). Alpha describes this as an "ever-evolving mix of adaptive learning apps" that combines both built and bought platforms—leveraging existing proven tools while developing proprietary systems (Alpha Math, vision models, AI-powered curriculum recommendation, personalized lesson planning) specific to its educational model.
+A: Alpha School integrates established third-party educational tools into its AI-powered curriculum delivery system, including Khan Academy (instructional videos and exercises), Grammarly (writing feedback), and Newsela (reading comprehension). Alpha describes this as an "ever-evolving mix of adaptive learning apps" that combines both built and bought platforms—leveraging existing proven tools while developing proprietary systems (Alpha Math, vision models, AI-powered curriculum recommendation, personalized lesson planning) specific to its educational model.
 
 **Q: How has Alpha's AI platform evolved since 2022?**
 

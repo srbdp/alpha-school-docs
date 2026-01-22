@@ -17,7 +17,7 @@ Create API-style reference documentation that answers "What subjects does Alpha 
 
 Transform research findings into a structured reference document covering:
 - **Core Academic Subjects**: Seven subjects taught during morning block (Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language)
-- **Subject-Specific Delivery Platforms**: Platform breakdown per subject (IXL, Khan Academy, Math Academy, proprietary tools)
+- **Subject-Specific Delivery Platforms**: Platform breakdown per subject (Khan Academy, Math Academy, proprietary tools)
 - **Standards Alignment**: Common Core (K-8), Advanced Placement (high school)
 - **Subject Integration**: History/geography integrated into reading passages vs. standalone subjects
 - **Platform Ecosystem**: Central "Dash" platform curating pathways through applications
@@ -48,7 +48,7 @@ Transform research findings into a structured reference document covering:
 - **Requirement**: 2-3 paragraph narrative explaining Alpha School's subject offerings
 - **Content Coverage**:
   - Paragraph 1: Seven core subjects taught during 2-hour morning block—Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language; delivered via AI-powered platforms with personalized instruction; mastery-based progression requires 90%+ accuracy (alpha.school) or 80%+ (secondary sources) before advancing
-  - Paragraph 2: Platform ecosystem—central "Dash" platform analyzes performance and curates pathways through mix of proprietary applications (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach) and third-party platforms (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor); students receive immediate feedback on each question with explanations for incorrect answers
+  - Paragraph 2: Platform ecosystem—central "Dash" platform analyzes performance and curates pathways through mix of proprietary applications (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach) and third-party platforms (Khan Academy, Grammarly, Math Academy, Synthesis Tutor); students receive immediate feedback on each question with explanations for incorrect answers
   - Paragraph 3: Standards alignment—Common Core K-8, Advanced Placement for high school; history/geography integrated into reading passages rather than taught as separate disciplines; curriculum designed to complete grade-level material in 20-30 hours vs. traditional 200 hours
 - **Source**: research/curriculum.md lines 30-67, 247-257, 286-293, 328-351, 395-414
 - **Rationale**: Provides LLMs with comprehensive overview before detailed subject breakdown
@@ -73,13 +73,13 @@ Transform research findings into a structured reference document covering:
 - **Requirement**: Expanded explanation organized by subsections
 - **Subsections** (3 required):
   - **Subject-by-Subject Breakdown**: Detailed table with columns: Subject | Primary Platform(s) | Description | Standards Coverage
-    - Math: IXL (new concepts), "Fast Math"/proprietary (speed/accuracy); Common Core K-8, AP Calculus/Statistics high school; adaptive problem sets with immediate feedback
-    - English/Language Arts: IXL (spelling/grammar); Common Core K-8, AP English Language/Literature high school; integrated with reading and writing components
+    - Math: Proprietary platforms (new concepts), "Fast Math"/proprietary (speed/accuracy); Common Core K-8, AP Calculus/Statistics high school; adaptive problem sets with immediate feedback
+    - English/Language Arts: Proprietary platforms (spelling/grammar); Common Core K-8, AP English Language/Literature high school; integrated with reading and writing components
     - Reading: AlphaRead (older students), Amira/Lalio (younger students); comprehension, fluency, vocabulary; history/geography integrated into passages
     - Writing: AlphaWrite (proprietary, "needs improvement" per review); essay composition, creative writing; identified as weaker area requiring enhancement
-    - Science: IXL (primary platform); Common Core K-8, AP Biology/Chemistry/Physics high school; inquiry-based learning with simulations
-    - History/Social Studies: IXL (primary platform); integrated into reading passages vs. standalone subject; civics, geography, historical analysis
-    - Foreign Language: IXL (primary platform); language acquisition; availability varies by grade level
+    - Science: Proprietary platforms (primary platform); Common Core K-8, AP Biology/Chemistry/Physics high school; inquiry-based learning with simulations
+    - History/Social Studies: Proprietary platforms (primary platform); integrated into reading passages vs. standalone subject; civics, geography, historical analysis
+    - Foreign Language: Proprietary platforms (primary platform); language acquisition; availability varies by grade level
   - **Platform Ecosystem and Daily Flow**: Central "Dash" dashboard analyzes student performance and directs to appropriate application based on subject, level, and learning needs; students complete 8-12 daily lessons ("minimums") across subjects; 25-minute Pomodoro sessions with Q breaks every 20-30 minutes; interface "goes green" when mastery achieved; spaced repetition brings back topics at calculated intervals; system tracks accuracy, speed, completion in real-time; parent dashboards provide performance insights
   - **Standards Alignment and Subject Integration**: Common Core curriculum K-8 ensures grade-appropriate content across subjects; Advanced Placement curriculum at high school level (AP Calculus, Statistics, English Language, English Literature, Biology, Chemistry, Physics); history and geography NOT taught as separate disciplines but integrated into reading passages; this approach combines content knowledge with literacy skill development; foreign language availability and depth varies by campus and grade level
 - **Source**: research/curriculum.md lines 30-67, 247-257, 286-293, 328-351, 395-443
@@ -88,9 +88,9 @@ Transform research findings into a structured reference document covering:
 #### FR1.5: Examples Section
 - **Requirement**: Concrete examples illustrating subjects in practice
 - **Examples to Include** (3 required):
-  - **Math Mastery Progression**: Student working on fractions using IXL platform; answers question incorrectly; AI provides explanation of correct approach; student attempts similar problems until achieving 90%+ accuracy on problem set; "Fast Math" platform then drills speed and fluency on mastered concepts; student advances to decimals only after demonstrating mastery
+  - **Math Mastery Progression**: Student working on fractions using proprietary math platform; answers question incorrectly; AI provides explanation of correct approach; student attempts similar problems until achieving 90%+ accuracy on problem set; "Fast Math" platform then drills speed and fluency on mastered concepts; student advances to decimals only after demonstrating mastery
   - **Integrated History/Reading**: Student in 4th grade receives reading passage about the American Revolution; comprehension questions assess both reading skills and historical understanding; eliminates need for separate history class while building dual competencies; history/geography content embedded across reading curriculum
-  - **Platform Orchestration**: Student logs into "Dash" central platform at start of morning; Dash analyzes yesterday's performance and today's spaced repetition schedule; directs student to Math Academy for new algebra concept, then IXL for science review, then AlphaRead for comprehension practice; student clicks each subject button and seamlessly moves between platforms; all progress tracked centrally
+  - **Platform Orchestration**: Student logs into "Dash" central platform at start of morning; Dash analyzes yesterday's performance and today's spaced repetition schedule; directs student to Math Academy for new algebra concept, then proprietary platform for science review, then AlphaRead for comprehension practice; student clicks each subject button and seamlessly moves between platforms; all progress tracked centrally
 - **Source**: research/curriculum.md lines 60-64, 256, 290-293, 328-351, 409-414
 - **Rationale**: Grounds abstract subject description with concrete student experiences
 
@@ -114,7 +114,7 @@ Transform research findings into a structured reference document covering:
     A: Seven core academic subjects during the 2-hour morning block: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, and Foreign Language. History and geography are integrated into reading passages rather than taught as standalone subjects.
 
   - **Q: What platforms deliver each subject?**
-    A: Alpha uses a mix of proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach) and third-party platforms (IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor). The central "Dash" platform orchestrates the student's pathway through these applications based on performance and learning needs.
+    A: Alpha uses a mix of proprietary platforms (Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach) and third-party platforms (Khan Academy, Grammarly, Math Academy, Synthesis Tutor). The central "Dash" platform orchestrates the student's pathway through these applications based on performance and learning needs.
 
   - **Q: What curriculum standards does Alpha School follow?**
     A: Common Core curriculum for K-8 students across all subjects. High school students follow Advanced Placement (AP) curriculum including AP Calculus, Statistics, English Language, English Literature, Biology, Chemistry, and Physics.
@@ -170,7 +170,7 @@ Transform research findings into a structured reference document covering:
 
 - [ ] **Task 1.0.2**: Verify platform lists
   - Confirm proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
-  - Confirm third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor
+  - Confirm third-party platforms: Khan Academy, Grammarly, Math Academy, Synthesis Tutor
   - Confirm "Dash" as central platform
   - Source lines: 290-293, 328-351, 395-414
   - **Success**: All platforms documented with citations

@@ -27,7 +27,7 @@
 - [ ] **Task 1.0.2**: Verify platform lists
   - Read research/curriculum.md lines 290-293, 328-351, 395-414
   - Confirm proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach
-  - Confirm third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor
+  - Confirm third-party platforms: Khan Academy, Grammarly, Math Academy, Synthesis Tutor
   - Confirm "Dash" as central orchestration platform
   - Note platform-to-subject mappings
   - **FR**: FR1.3, FR1.4 (platform documentation)
@@ -110,13 +110,13 @@
   - Create "Details" section with H2 heading
   - Add subsection: "Subject-by-Subject Breakdown" (H3)
   - Create table with columns: Subject | Primary Platform(s) | Description | Standards Coverage
-  - Add row for Math: IXL, Fast Math; Common Core K-8, AP Calculus/Statistics; adaptive problem sets
-  - Add row for English/Language Arts: IXL; Common Core K-8, AP English Language/Literature; integrated with reading/writing
+  - Add row for Math: Proprietary platforms, Fast Math; Common Core K-8, AP Calculus/Statistics; adaptive problem sets
+  - Add row for English/Language Arts: Proprietary platforms; Common Core K-8, AP English Language/Literature; integrated with reading/writing
   - Add row for Reading: AlphaRead (older), Amira/Lalio (younger); comprehension, fluency; history/geography integrated
   - Add row for Writing: AlphaWrite; essay composition; note "needs improvement" per review
-  - Add row for Science: IXL; Common Core K-8, AP Biology/Chemistry/Physics; inquiry-based
-  - Add row for History/Social Studies: IXL; integrated into reading passages; civics, geography
-  - Add row for Foreign Language: IXL; language acquisition; availability varies
+  - Add row for Science: Proprietary platforms; Common Core K-8, AP Biology/Chemistry/Physics; inquiry-based
+  - Add row for History/Social Studies: Proprietary platforms; integrated into reading passages; civics, geography
+  - Add row for Foreign Language: Proprietary platforms; language acquisition; availability varies
   - **FR**: FR1.4 - Details Section (Subject Breakdown)
   - **Files**: reference/curriculum/subjects.md
   - **Success Criteria**: All 7 subjects comprehensively documented with platforms and standards
@@ -147,7 +147,7 @@
 - [ ] **Task 1.1.7**: Write examples section (FR1.5)
   - Create "Examples" section with H2 heading
   - Write Example 1 - Math Mastery Progression:
-    - Student working on fractions using IXL
+    - Student working on fractions using proprietary math platform
     - Answers incorrectly, AI provides explanation
     - Student attempts similar problems until 90%+ accuracy
     - Fast Math drills speed and fluency
@@ -159,7 +159,7 @@
   - Write Example 3 - Platform Orchestration:
     - Student logs into Dash platform
     - Dash analyzes yesterday's performance and spaced repetition schedule
-    - Directs to Math Academy (new algebra), IXL (science review), AlphaRead (comprehension)
+    - Directs to Math Academy (new algebra), proprietary platform (science review), AlphaRead (comprehension)
     - Student clicks subject buttons, seamlessly moves between platforms
     - All progress tracked centrally
   - **FR**: FR1.5 - Examples Section
@@ -307,7 +307,7 @@
 ### Key Research Findings to Incorporate
 - Seven subjects: Math, English/Language Arts, Science, History/Social Studies, Reading, Writing, Foreign Language (lines 52-67, 247-257)
 - Proprietary platforms: Alpha Math, AlphaRead, AlphaWrite, Teach Tales, Fluency Coach (lines 330-335)
-- Third-party platforms: IXL, Khan Academy, Grammarly, Math Academy, Synthesis Tutor (lines 337-342)
+- Third-party platforms: Khan Academy, Grammarly, Math Academy, Synthesis Tutor (lines 337-342)
 - Central platform: "Dash" orchestrates pathway (lines 290-293, 344-346)
 - Standards: Common Core K-8, AP high school (lines 286-293, 324-327)
 - Subject integration: History/geography embedded in reading passages (line 256)

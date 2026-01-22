@@ -15,13 +15,13 @@ An MCP (Model Context Protocol) server that exposes Alpha School documentation t
 No installation needed:
 
 ```bash
-npx @alpha-school/mcp
+npx alpha-school-mcp
 ```
 
 ### Global Installation
 
 ```bash
-npm install -g @alpha-school/mcp
+npm install -g alpha-school-mcp
 alpha-school-mcp
 ```
 
@@ -36,7 +36,7 @@ Add to your MCP client configuration:
   "mcpServers": {
     "alpha-school": {
       "command": "npx",
-      "args": ["@alpha-school/mcp"]
+      "args": ["alpha-school-mcp"]
     }
   }
 }
@@ -49,7 +49,7 @@ Add to your MCP client configuration:
   "mcpServers": {
     "alpha-school": {
       "command": "npx",
-      "args": ["@alpha-school/mcp"]
+      "args": ["alpha-school-mcp"]
     }
   }
 }

@@ -77,7 +77,7 @@ Transform research findings into a structured reference document covering:
 - **Subsections**:
   - **Founding (2014)**: MacKenzie Price's motivation, partnership with Brian Holtz, "Emergent Academy" name, Acton Academy connection, starting with 16 kids in a house
   - **Early Model (2014-2016)**: Adaptive app usage (Khan Academy, ALEKS, Math Academy, etc.), self-paced learning, afternoon activities ("lemonade stand wars", "Hero's Journey performances"), formal campus opening 2016
-  - **AI Investment & Platform Development (2022)**: Joe Liemandt's ~$1B investment, Timeback platform, Incept LLM, vision monitoring, integration with IXL, Khan Academy, Trilogy Software
+  - **AI Investment & Platform Development (2022)**: Joe Liemandt's ~$1B investment, Timeback platform, Incept LLM, vision monitoring, integration with Khan Academy, Trilogy Software
   - **Key Milestones (2014-2025)**: Chronological list of major events
   - **Charter School Initiatives (2025)**: Applications to PA, TX, UT, AR, NC (all rejected), Arizona partnership (approved), Pennsylvania DoE rejection reasoning
   - **Geographic Expansion (2025)**: New campus launches, San Francisco as most expensive ($75k), diverse market strategy ($10k-$75k range)
@@ -289,7 +289,7 @@ Create `reference/organization/history.md` with this structure:
 
 ### AI Investment & Platform Development (2022)
 
-[Following generative AI emergence, Joe Liemandt invested ~$1 billion to develop AI platforms. Key developments: Timeback (personalized learning platform), Incept (custom LLM for curriculum generation), vision monitoring (tracks engagement and "anti-patterns"), integration with IXL, Khan Academy, Trilogy Software, and in-house engineering]
+[Following generative AI emergence, Joe Liemandt invested ~$1 billion to develop AI platforms. Key developments: Timeback (personalized learning platform), Incept (custom LLM for curriculum generation), vision monitoring (tracks engagement and "anti-patterns"), integration with Khan Academy, Trilogy Software, and in-house engineering]
 
 ### Key Milestones (2014-2025)
 

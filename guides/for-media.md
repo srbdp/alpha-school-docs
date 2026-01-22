@@ -12,8 +12,8 @@ description: "Background and context for journalists covering Alpha School's AI-
 - **What it is**: Alpha School is a private school network combining AI-powered academics with life skills training, claiming students can master traditional K-12 curricula in two hours daily versus six hours in conventional schools
 - **Founded**: 2014 by MacKenzie Price (Stanford psychology graduate); formal campus operations began 2016
 - **Scale**: 17 campuses across 8 states (TX, CA, FL, NC, AZ, NY, VA) as of January 2026; serves PreK-12 students
-- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~\$1 billion invested since 2022); MacKenzie Price (Co-Founder); Andrew Price (CFO/Co-Founder)
-- **Tuition**: \$10,000-\$75,000 annually depending on location
+- **Leadership**: Joe Liemandt (Principal/Investor, Forbes 400 at age 27, Trilogy Software founder, ~\$1 billion invested since 2022); MacKenzie Price (Co-Founder)
+- **Tuition**: \$45,000-\$75,000 annually depending on location
 - **Core Innovation**: AI-driven mastery-based learning platform (not chatbot-style AI) combined with high-touch human mentorship (5:1 student-guide ratio, \$100,000+ guide salaries)
 - **Key Differentiator**: "No homework, no traditional grades" model with 90%+ mastery requirement before advancement; afternoons focused on entrepreneurship, leadership, public speaking, financial literacy
 - **Notable Claims**: 2.6x faster learning growth on standardized tests, 92% of first graduating class (12 students) enrolled in four-year universities including Stanford and Vanderbilt
@@ -57,10 +57,6 @@ Alpha School founder MacKenzie Price has stated the vision is to reach "a billio
 - Started original Emergent Academy concept in 2014
 - Developed the two-hour learning model and life skills curriculum framework
 
-**Andrew Price** - CFO and Co-Founder
-- Financial operations and campus expansion strategy
-- Relationship to MacKenzie Price not publicly documented
-
 **Organizational Structure**: Alpha School operates as Legacy of Education, Inc. (headquarters: 1201 Spyglass Dr, Austin, TX 78746). The learning platforms are owned by Trilogy Software/ESW Capital entities, creating close organizational ties between Alpha's educational operations and Liemandt's technology companies. Charter school applications in multiple states (PA, TX, UT, AR, NC) have been rejected, with only Arizona approving a charter application. Pennsylvania's 2025 rejection cited an "untested" AI model as a key concern.
 
 ### Funding and Business Model
@@ -68,7 +64,7 @@ Alpha School founder MacKenzie Price has stated the vision is to reach "a billio
 Alpha School operates as a for-profit private school network financed through tuition revenue and investor capital. The organization does not publicly disclose total revenue, profitability status, or detailed financial statements.
 
 **Revenue Sources**:
-- Tuition ranging \$10,000-\$75,000 annually per student depending on location (San Francisco \$75,000, Austin \$40,000, Brownsville \$10,000)
+- Tuition ranging \$45,000-\$75,000 annually per student depending on location (San Francisco \$75,000, Austin \$40,000)
 - 17 operating campuses with enrollment figures not publicly disclosed (Austin flagship confirmed at 150+ students)
 - Financial aid available via third-party Clarity software, though assistance not guaranteed to all applicants
 - School vouchers accepted in eligible states (~\$12,000 typical value), enabling strategic cost reduction
@@ -114,7 +110,6 @@ Alpha School employs proprietary and third-party platforms for academic instruct
 - **Timeback** (proprietary): Core platform for lesson sequencing and progress tracking
 - **Dash** (proprietary): Student dashboard for managing learning pathways
 - **Incept** (proprietary): Platform component (specific function not publicly detailed)
-- **IXL** (third-party): Adaptive practice for math and language arts
 - **Khan Academy** (third-party): Video instruction and practice exercises
 - **Math Academy** (third-party): Advanced mathematics instruction
 - **AlphaWrite** (proprietary): Writing instruction platform (acknowledged by Alpha as "needs improvement")
@@ -443,7 +438,7 @@ Alpha School uses a three-step enrollment pathway designed to assess fit before 
 
 ### Tuition Costs and Financial Aid
 
-**Tuition Range**: \$10,000-\$75,000 annually depending on campus location
+**Tuition Range**: \$45,000-\$75,000 annually depending on campus location
 
 **Location-Specific Pricing**:
 - San Francisco, CA: \$75,000/year (described as "most expensive private school in the city")

@@ -73,7 +73,7 @@ Alpha's AI integration explicitly positions technology as a tutoring system rath
 
 **Vision Monitoring**: Computer vision technology analyzes student behavior and work patterns, identifying engagement levels and anti-patterns (behaviors indicating disengagement or difficulty). This monitoring informs coaching interventions by human guides.
 
-**Third-Party and Proprietary Integration**: The system combines established platforms (IXL, Khan Academy, Math Academy, Synthesis Tutor) with Alpha-developed applications (Alpha Math, AlphaRead, AlphaWrite). A central platform called "Dash" orchestrates the student's pathway through these applications based on real-time performance analysis.
+**Third-Party and Proprietary Integration**: The system combines established platforms (Khan Academy, Math Academy, Synthesis Tutor) with Alpha-developed applications (Alpha Math, AlphaRead, AlphaWrite). A central platform called "Dash" orchestrates the student's pathway through these applications based on real-time performance analysis.
 
 **Pedagogical Trade-offs**: The 100% multiple-choice assessment format enables immediate feedback and algorithmic tracking but does not assess critical thinking, long-form writing, or complex problem-solving at the same depth as constructed-response or performance-based assessments. Educators should note this design choice and its implications for what the system can and cannot measure.
 
@@ -136,13 +136,13 @@ Alpha School teaches seven core academic subjects during the two-hour morning bl
 
 | Subject | Primary Delivery | Standards Alignment | Pedagogical Notes |
 |---------|------------------|-------------------|------------------|
-| **Math** | IXL (concepts) + "Fast Math" (fluency drills) | Common Core K-8; AP Calculus/Statistics (HS) | Immediate feedback on each problem; mastery required before advancement |
-| **English/Language Arts** | IXL (grammar/spelling) | Common Core K-8; AP English Language/Literature (HS) | Integrated with reading and writing components |
+| **Math** | Proprietary platforms + "Fast Math" (fluency drills) | Common Core K-8; AP Calculus/Statistics (HS) | Immediate feedback on each problem; mastery required before advancement |
+| **English/Language Arts** | Proprietary platforms (grammar/spelling) | Common Core K-8; AP English Language/Literature (HS) | Integrated with reading and writing components |
 | **Reading** | AlphaRead (older), Amira/Lalio (younger) | Common Core K-8; AP English Literature (HS) | History/geography integrated into passages |
 | **Writing** | AlphaWrite (proprietary) | Common Core K-8; AP English Language (HS) | Acknowledged as weaker area needing improvement |
-| **Science** | IXL (primary platform) | Common Core K-8; AP Biology/Chemistry/Physics (HS) | Inquiry-based with simulations |
-| **Social Studies** | IXL + integrated in reading | Common Core K-8 (integrated approach) | NOT standalone subject; embedded in literacy |
-| **Foreign Language** | IXL | Varies by campus | Availability/depth varies by location |
+| **Science** | Proprietary platforms | Common Core K-8; AP Biology/Chemistry/Physics (HS) | Inquiry-based with simulations |
+| **Social Studies** | Integrated in reading | Common Core K-8 (integrated approach) | NOT standalone subject; embedded in literacy |
+| **Foreign Language** | Proprietary platforms | Varies by campus | Availability/depth varies by location |
 
 **Standards Alignment Context**: Alpha follows Common Core for K-8 and Advanced Placement curriculum for high school. However, detailed curriculum alignment documents showing how specific lessons map to standards are not publicly available. No independent curriculum audit or third-party academic review of curriculum quality has been published.
 
@@ -229,7 +229,7 @@ As education professionals evaluating this model, we must note several significa
 
 **Self-Reported Data**: All performance outcome claims come from Alpha School's own reporting without independent third-party verification or external audit. Raw MAP score distributions, percentile breakdowns by campus, and year-over-year longitudinal data are not publicly available.
 
-**Selection Effects**: Alpha School has admission requirements and tuition ranging from \$10,000-\$75,000 annually, potentially pre-selecting for high-performing students from families with significant educational resources and commitment. This makes it impossible to determine whether outcomes result from the instructional model, student characteristics, family factors, or some combination.
+**Selection Effects**: Alpha School has admission requirements and tuition ranging from \$45,000-\$75,000 annually, potentially pre-selecting for high-performing students from families with significant educational resources and commitment. This makes it impossible to determine whether outcomes result from the instructional model, student characteristics, family factors, or some combination.
 
 **No Control Group Comparisons**: The claims of "2.6x faster learning" compare growth percentiles to national norms rather than matched control groups. Without randomized controlled trials or quasi-experimental designs with comparable baseline populations, we cannot establish causal claims about the model's effectiveness.
 
@@ -279,8 +279,6 @@ Alpha School was founded in 2014 by MacKenzie Price as "Emergent Academy" after 
 
 **MacKenzie Price** (Co-Founder): Stanford psychology graduate. Worked in mortgage industry before retiring in 2018 to focus on education. Hosts "Future of Education" podcast. Forbes Technology Council Member. Personal motivation as parent drives school's focus on student engagement and eliminating boredom.
 
-**Andrew Price** (Co-Founder/CFO): Rice University EECS graduate. Serves concurrently as CFO across Trilogy Software, ESW Capital, Crossover, and Ignite Technologies. 25+ years in Trilogy ecosystem. Married to MacKenzie Price since 2004.
-
 **Leadership Context**: The leadership team combines technology entrepreneurship, education innovation, and finance expertise. The close organizational ties to Trilogy Software and ESW Capital—with AI platforms owned by Trilogy—create an integrated ecosystem enabling technological development but also raising governance questions about board members serving dual roles as school governors and executives at vendor companies.
 
 ### Current Locations and Facilities
@@ -299,7 +297,7 @@ As of 2026, Alpha School operates 17 campuses across 8 U.S. states:
 
 ### Enrollment Model and Accessibility
 
-**Tuition Range**: \$10,000 (Brownsville, TX) to \$75,000 (San Francisco, CA) annually depending on location. Average tuition approximately \$40,000.
+**Tuition Range**: \$45,000 to \$75,000 (San Francisco, CA) annually depending on location.
 
 **Enrollment Process**: Application-based admission with requirements (specific requirements not publicly detailed). The selective enrollment model combined with tuition costs creates potential selection effects affecting student demographics and baseline characteristics.
 
@@ -443,7 +441,7 @@ Alpha School represents an ambitious attempt to apply AI technology and learning
 
 **Role of Human Educators**: The complete removal of teachers from academic instruction represents a profound shift. While guides provide valuable mentorship and emotional support, the long-term effects of zero human academic instruction on student learning, motivation, and intellectual development remain unknown.
 
-**Equity and Access**: The vision of a \$1,000 tablet democratizing education globally is compelling, but current tuition (\$10,000-\$75,000) places the model out of reach for most families. How the organization navigates the tension between premium pricing and democratization aspirations will shape its impact on educational equity.
+**Equity and Access**: The vision of a \$1,000 tablet democratizing education globally is compelling, but current tuition (\$45,000-\$75,000) places the model out of reach for most families. How the organization navigates the tension between premium pricing and democratization aspirations will shape its impact on educational equity.
 
 **Research Imperative**: The field needs independent research—randomized controlled trials, longitudinal studies, qualitative investigations of student and teacher experiences—to rigorously evaluate the model's effectiveness, understand its mechanisms, and identify its appropriate applications.
 

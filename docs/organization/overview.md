@@ -8,7 +8,7 @@ Alpha School is a private K-12 educational institution operating across multiple
 
 Founded in 2014 by MacKenzie Price and formally established in 2016, Alpha School has expanded to 17 campuses across 8 states as of 2026. The school requires students to demonstrate 90%+ mastery (vs. traditional 70% passing grades) before advancing to new material. Teachers, called "Guides," earn minimum salaries of &#36;100,000+ and focus on mentorship rather than direct instruction, as AI platforms handle the primary academic teaching.
 
-Alpha School reports that its students achieve accelerated academic growth—averaging 2.6 times faster progress than national norms on MAP standardized tests—though these claims are self-reported and have not been independently verified. Tuition ranges from &#36;10,000 to &#36;75,000 annually depending on location, making it among the most expensive private schools in certain markets such as San Francisco.
+Alpha School reports that its students achieve accelerated academic growth—averaging 2.6 times faster progress than national norms on MAP standardized tests. Tuition ranges from &#36;45,000 to &#36;75,000 annually depending on location, making it among the most expensive private schools in certain markets such as San Francisco.
 
 ## Properties
 
@@ -21,14 +21,14 @@ Alpha School reports that its students achieve accelerated academic growth—ave
 | educational_model | string | Core educational approach | "2 Hour Learning (AI-powered mastery-based)" |
 | grade_levels | string | Grades served | "PreK-12" |
 | locations | number | Number of campuses | 17 |
-| tuition_range | string | Annual tuition range | "&#36;10,000 - &#36;75,000" |
-| key_people | array | Founders and leadership | ["Joe Liemandt", "MacKenzie Price", "Andrew Price"] |
+| tuition_range | string | Annual tuition range | "&#36;45,000 - &#36;75,000" |
+| key_people | array | Founders and leadership | ["Joe Liemandt", "MacKenzie Price"] |
 
 ## Details
 
 ### Educational Model
 
-The "2 Hour Learning" model compresses academic instruction into approximately two hours of daily AI-powered, mastery-based learning. Students work individually with adaptive learning platforms including proprietary tools (Timeback, Dash, Incept) as well as third-party applications (IXL, Khan Academy). The system requires students to demonstrate 90%+ accuracy on assessments before advancing to new material, compared to traditional schools' 70% passing threshold.
+The "2 Hour Learning" model compresses academic instruction into approximately two hours of daily AI-powered, mastery-based learning. Students work individually with adaptive learning platforms including proprietary tools (Timeback, Dash, Incept) as well as third-party applications (Khan Academy). The system requires students to demonstrate 90%+ accuracy on assessments before advancing to new material, compared to traditional schools' 70% passing threshold.
 
 Alpha School reports that this approach enables students to complete an entire grade level of academic content in 20-30 hours versus the traditional 200 hours, resulting in what the organization claims is 2.6x faster learning growth on average. Once academic work is complete, students engage in four hours of life skills workshops covering entrepreneurship, public speaking, financial literacy, leadership, and teamwork.
 
@@ -39,8 +39,6 @@ The model is based on educational research including Bloom's 2 Sigma problem, zo
 **Joe Liemandt** serves as Principal and is the primary investor, having contributed approximately &#36;1 billion to develop the AI-powered learning platforms since 2022. Liemandt is a software entrepreneur who co-founded Trilogy Software in 1989 after dropping out of Stanford University. He previously made the Forbes 400 list at age 27 and founded ESW Capital in 2001. His involvement with Alpha School deepened after his daughters attended and preferred school to vacation.
 
 **MacKenzie Price** is co-founder of Alpha School, having started the institution in 2014 when her daughters expressed that "school was boring." Price holds a bachelor's degree in psychology from Stanford University and worked in the mortgage industry before retiring in 2018 to focus on education. She hosts the "Future of Education" podcast and serves as a Forbes Technology Council Member.
-
-**Andrew Price**, MacKenzie's husband (married 2004), serves as co-founder and CFO. He holds a bachelor's degree in Electrical Engineering and Computer Science from Rice University and has served in financial leadership roles at Trilogy Software, ESW Capital, Ignite Technologies, and Crossover since 1996.
 
 ### History
 
@@ -67,7 +65,7 @@ Announced expansions for Fall 2026 include The Woodlands TX, Dorado PR, Palo Alt
 
 ### Affiliations
 
-Alpha School has close organizational ties to **Trilogy Software**, a division of Trilogy Enterprises founded and led by Joe Liemandt. The "2 Hour Learning" platform is a collection of AI-driven applications owned by Trilogy Software. Andrew Price serves as CFO across multiple Trilogy-affiliated entities including Trilogy, ESW Capital, Ignite Technologies, and Crossover.
+Alpha School has close organizational ties to **Trilogy Software**, a division of Trilogy Enterprises founded and led by Joe Liemandt. The "2 Hour Learning" platform is a collection of AI-driven applications owned by Trilogy Software.
 
 The organization also operates or licenses its educational model to related schools including GT School, Lake Travis Sports Academy, NextGen Academy, Novatio School, and the proposed Unbound Academy charter school network. Media sources have noted governance concerns regarding board members serving dual roles as both school governors and executives at vendor companies (Trilogy/ESW Capital).
 
@@ -91,10 +89,9 @@ Students must demonstrate 90%+ mastery on assessments before advancing. Accordin
 
 ### Example 3: Leadership
 
-The three key leaders are:
+The two key leaders are:
 - **Joe Liemandt** (Principal/Investor): Trilogy Software founder, &#36;1B investor in Alpha's AI platforms, Stanford dropout who made Forbes 400 at age 27
 - **MacKenzie Price** (Co-Founder): Stanford psychology graduate, education podcaster, Forbes Technology Council Member, founded Alpha in 2014 for her daughters
-- **Andrew Price** (Co-Founder/CFO): Rice University EECS graduate, CFO across Trilogy/ESW Capital/Crossover, married to MacKenzie Price since 2004
 
 ## Related
 
@@ -107,16 +104,16 @@ The three key leaders are:
 ## FAQs
 
 **Q: What is Alpha School?**
-A: Alpha School is a private K-12 school using an AI-powered mastery-based learning model called "2 Hour Learning." Students complete academic instruction in approximately two hours daily through personalized adaptive platforms, then spend the remainder of the school day on life skills workshops and passion projects. The school operates 17 campuses across 8 U.S. states with tuition ranging from &#36;10,000 to &#36;75,000 annually.
+A: Alpha School is a private K-12 school using an AI-powered mastery-based learning model called "2 Hour Learning." Students complete academic instruction in approximately two hours daily through personalized adaptive platforms, then spend the remainder of the school day on life skills workshops and passion projects. The school operates 17 campuses across 8 U.S. states with tuition ranging from &#36;45,000 to &#36;75,000 annually.
 
 **Q: What is the "2 Hour Learning" model?**
-A: The "2 Hour Learning" model compresses academic instruction into approximately two hours of daily AI-powered learning. Students work with adaptive platforms (Timeback, Dash, IXL, Khan Academy) and must demonstrate 90%+ mastery before advancing, versus traditional 70% passing grades. Alpha School reports this approach enables 2.6x faster learning growth compared to national norms, though these claims are self-reported and not independently verified.
+A: The "2 Hour Learning" model compresses academic instruction into approximately two hours of daily AI-powered learning. Students work with adaptive platforms (Timeback, Dash, Khan Academy) and must demonstrate 90%+ mastery before advancing, versus traditional 70% passing grades. Alpha School reports this approach enables 2.6x faster learning growth compared to national norms.
 
 **Q: Where are Alpha School campuses located?**
 A: Alpha School operates in 8 states: Texas (6 campuses), California (3), Florida (3), North Carolina (2), and one each in Arizona, New York, and Virginia. The organization has announced 5 additional campuses opening in Fall 2026 in Texas, Puerto Rico, California (2), and Illinois.
 
 **Q: Who founded Alpha School?**
-A: Alpha School was founded in 2014 by MacKenzie Price and Brian Holtz, starting with 16 students in Holtz's home. The first formal campus opened in 2016. Joe Liemandt, founder of Trilogy Software, became the principal investor in 2022, contributing approximately &#36;1 billion to develop the AI learning platforms. Andrew Price (MacKenzie's husband) serves as co-founder and CFO.
+A: Alpha School was founded in 2014 by MacKenzie Price and Brian Holtz, starting with 16 students in Holtz's home. The first formal campus opened in 2016. Joe Liemandt, founder of Trilogy Software, became the principal investor in 2022, contributing approximately &#36;1 billion to develop the AI learning platforms.
 
 **Q: Is Alpha School a public or private school?**
 A: Alpha School is a private school. The organization attempted to expand through charter school applications (which would be publicly funded) in Pennsylvania, Texas, Utah, Arkansas, and North Carolina, but state education boards rejected these applications. Only Arizona approved a charter partnership. Pennsylvania's Department of Education specifically noted that "the artificial intelligence instructional model being proposed by this school is untested."
@@ -133,7 +130,6 @@ A: Alpha School is a private school. The organization attempted to expand throug
 - [Newsweek - Alpha School Article](https://www.newsweek.com/alpha-school-brownsville-ai-expanding-2063669) - Retrieved 2026-01-20
 - [SF Standard - Alpha School SF](https://sfstandard.com/2025/09/19/alpha-school-ai-teacher-san-francisco/) - Retrieved 2026-01-20
 - [Jacobin - AI Education Article](https://jacobin.com/2025/06/ai-education-mackenzie-price-tech) - Retrieved 2026-01-20
-- [The Org - Andrew Price Profile](https://theorg.com/org/trilogy/org-chart/andrew-price) - Retrieved 2026-01-20
 
 ---
 *Last updated: 2026-01-20*

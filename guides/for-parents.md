@@ -29,7 +29,7 @@ Alpha's signature claim is that students can master traditional academics—math
 
 ### How AI Powers Learning
 
-Alpha's "Time Back" platform functions as a personalized tutor, but it's important to understand what that means in practice. Despite marketing language about "AI tutoring," the platform doesn't use chatbots like ChatGPT (which Alpha explicitly says "enable cheating"). Instead, it combines third-party tools like IXL, Khan Academy, and Math Academy with proprietary apps to create custom lesson sequences.
+Alpha's "Time Back" platform functions as a personalized tutor, but it's important to understand what that means in practice. Despite marketing language about "AI tutoring," the platform doesn't use chatbots like ChatGPT (which Alpha explicitly says "enable cheating"). Instead, it combines third-party tools like Khan Academy and Math Academy with proprietary apps to create custom lesson sequences.
 
 The system:
 - Applies proven learning science (spaced repetition, cognitive load theory, multimodal support)
@@ -162,7 +162,7 @@ Alpha uses rolling admissions with no fixed deadlines, though capacity is limite
 
 ### Tuition and Financial Considerations
 
-Tuition varies significantly by location, ranging from \$10,000 to \$75,000 annually:
+Tuition varies significantly by location, ranging from \$45,000 to \$75,000 annually:
 
 | Location | Annual Tuition |
 |----------|---------------|

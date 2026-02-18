@@ -1,20 +1,20 @@
 # Locations Overview
 
-> Alpha School operates 17 campuses across 8 U.S. states serving PreK-12 students, headquartered in Austin, Texas (legal name: Legacy of Education, Inc.) with flagship campus established 2016 now enrolling 150+ students; network spans Texas (6 locations including PreK-5 flagship, two middle/high schools, Brownsville, Fort Worth, Plano), California (3: Lake Forest, San Francisco, Santa Barbara), Florida (3: Miami, Palm Beach, Tampa), North Carolina (2: Charlotte, Raleigh), plus Arizona (Scottsdale), New York (NYC), and Virginia (Chantilly); tuition varies by location from &#36;10,000/year (Brownsville) to &#36;75,000/year (San Francisco); all campuses follow standard 8:15 AM - 4:00 PM schedule with two-hour AI-powered learning model, mastery-based progression, 60-90 minutes daily outdoor play, and guides (mentors/coaches) rather than traditional teachers; Texas Sports Academy operates 6 sport-specific schools at &#36;15,000/year; Fall 2026 expansion plans include 5+ new campuses (The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, Chicago IL).
+> Alpha School operates 13 campuses across 6 U.S. states, with 9 locations opening in the Fall 2026. Headquartered in Austin, Texas (legal name: Legacy of Education, Inc.) with flagship campus established 2016 now enrolling 160+ students; network spans Texas (5 locations including two in Austin, Brownsville, Fort Worth, Plano), California (3: Orange County, San Francisco, Santa Barbara), Florida (2: Miami, Palm Beach), plus Arizona (Scottsdale), New York (NYC), and Virginia (Chantilly); tuition varies by location from &#36;10,000/year (Brownsville) to &#36;75,000/year (San Francisco); all campuses follow standard 8:15 AM - 4:00 PM schedule with two-hour AI-powered learning model, mastery-based progression, 60-90 minutes daily outdoor play, and guides (mentors/coaches) rather than traditional teachers; Texas Sports Academy operates 6 sport-specific schools at &#36;15,000/year; Fall 2026 expansion plans include 9+ new campuses (The Woodlands TX, Dorado PR, Palo Alto CA, Santa Monica CA, East Bay, CA, Chicago IL, Tampa FL, Charlotte, NC, Raleigh NC).
 
 ## Overview
 
-Alpha School operates 17 campuses across 8 states as of January 2026, headquartered in Austin, Texas under legal name Legacy of Education, Inc. The network spans Texas (6 campuses: Austin PreK-5 flagship, Austin 6-8 middle school, Austin High 9-12, Brownsville PreK-8, Fort Worth K-8, Plano K-5), Arizona (1 campus: Scottsdale K-8), California (3 campuses: Lake Forest K-5, San Francisco K-10, Santa Barbara K-12), Florida (3 campuses: Miami K-10, Palm Beach K-5, Tampa K-9), New York (1 campus: NYC K-8), Virginia (1 campus: Chantilly K-6), and North Carolina (2 campuses: Charlotte K-6, Raleigh K-6). The founding campus, established in 2016 in Austin's Barton Hills neighborhood, currently serves 150+ students and holds Cognia accreditation. The most recent opening, Raleigh NC, launched January 2026 with 25 students in its inaugural class. Grade levels served vary by campus from K-5 (Lake Forest, Palm Beach, Plano) to full K-12 (Santa Barbara is the only location offering a complete PreK-12 pathway). Tuition ranges from &#36;10,000/year (Brownsville, near SpaceX headquarters) to &#36;75,000/year (San Francisco, described as the city's most expensive private school). All campuses follow a standardized operational model: 8:15 AM - 4:00 PM schedule, two-hour AI-powered personalized learning block, mastery-based progression, afternoon life skills workshops, minimum 60-90 minutes outdoor play daily, and guides (mentors/coaches) rather than traditional teachers.
+Alpha School operates 13 campuses across 6 states as of January 2026, headquartered in Austin, Texas under legal name Legacy of Education, Inc. The network spans Texas (5 campuses: PreK-5, 6-8 Middle School and High School in Austin, Brownsville PreK-8, Fort Worth K-8, Plano K-5), Arizona (1 campus: Scottsdale K-8), California (3 campuses: Orange County K-5, San Francisco K-10, Santa Barbara K-12), Florida (2 campuses: Miami K-10, Palm Beach K-5), New York (1 campus: NYC K-8), and Virginia (1 campus: Chantilly K-6). The founding campus, established in 2016 in Austin's Barton Hills neighborhood, currently serves 160+ students and holds Cognia accreditation. Grade levels served vary by campus from K-5 (Lake Forest, Palm Beach, Plano) to full K-12 (Austin & Santa Barbara). Tuition ranges from &#36;10,000/year (Brownsville, near SpaceX headquarters) to &#36;75,000/year (San Francisco). All campuses follow a standardized operational model: 8:15 AM - 4:00 PM schedule, two-hour AI-powered personalized learning block, mastery-based progression, afternoon life skills workshops, minimum 60-90 minutes outdoor play daily, and guides (mentors/coaches) rather than traditional teachers.
 
-Campus facilities and features vary by location but share core characteristics. The Austin flagship campus (1201 Spyglass Dr) near MoPac and Zilker Park provides comprehensive facilities for over 150 students. The Scottsdale campus (20624 N 76th St) features a full basketball court, three playground structures, a gaga pit, and football field-sized open space near Greyhawk Park. The Fort Worth location (3300 Bryant Irvin Rd) operates within the CERA recreational facility, accessing racquetball courts, gymnasium, and expansive fields. The Miami campus (8000 SW 56th St) near Tropical Park serves the Palmetto Bay, Pinecrest, Coral Gables, and Brickell areas. The San Francisco campus (3741 Buchanan St) operates in the Marina/Fort Mason area at a former Guidepost Montessori facility opened August 2025. The New York City campus (180 Maiden Lane) occupies a prestigious Lower Manhattan building opened September 3, 2025. Some campuses operate alongside or within existing facilities—Chantilly operates inside a Guidepost Montessori location at 4550 Walney Road. Contact information varies by campus, with flagship Austin reachable at (512) 595-0801 / admissions.austin@alpha.school, Fort Worth at (817) 330-9327 / admissions.fortworth@alpha.school, Miami at (786) 864-0687 / admissions.miami@alpha.school, and Scottsdale at (480) 253-9802 / admissions.scottsdale@alpha.school. Alpha also operates specialty schools under its umbrella brand including GT School, Montessorium, NextGen Academy, Nova Academy, Texas Sports Academy, and Waypoint Academy.
+Campus facilities and features vary by location but share core characteristics. The Austin flagship campus (1201 Spyglass Dr) near MoPac and Zilker Park provides comprehensive facilities for over 160 students. The Scottsdale campus (20624 N 76th St) features a full basketball court, three playground structures, a gaga pit, and football field-sized open space near Greyhawk Park. The Fort Worth location (3300 Bryant Irvin Rd) operates within the CERA recreational facility, accessing racquetball courts, gymnasium, and expansive fields. The Miami campus (8000 SW 56th St) near Tropical Park serves the Palmetto Bay, Pinecrest, Coral Gables, and Brickell areas. The San Francisco campus (3741 Buchanan St) operates in the Marina/Fort Mason area. The New York City campus (180 Maiden Lane) occupies a prestigious Lower Manhattan building opened September 3, 2025. Contact information varies by campus and can be found at the respective location's page: https://alpha.school/locations/. Alpha also operates specialty schools under its umbrella brand including GT School, Montessorium, NextGen Academy, Nova Academy, Texas Sports Academy, and Waypoint Academy.
 
-Rapid expansion accelerated through strategic partnerships and acquisitions. In July 2025, Alpha announced a partnership with Guidepost Montessori to open K-3 elementary micro-schools in 9 new locations, fast-tracking 10 new K-8 campuses by December 2025 and reducing the typical 1-2 year opening timeline. The same month, Alpha acquired key assets from Higher Ground Education (former Guidepost parent company) including proprietary elementary materials and rights to select high-value campuses from closed Guidepost schools, accelerating growth by approximately 2 years. Texas Sports Academy operates sport-specific schools at &#36;15,000/year tuition including AIE Elite Prep basketball (Round Rock), The Bennett School baseball (Houston), with January 2026 openings for baseball (Pearland), basketball (Houston), gymnastics (San Antonio), and a Fall 2026 cheer program (Lago Vista). Expansion plans for Fall 2026 include The Woodlands TX (&#36;40,000), Dorado Puerto Rico (&#36;50,000), Palo Alto CA (tuition TBD), Santa Monica CA (tuition TBD), and Chicago IL (tuition TBD), with additional exploration targets in Aspen CO, Houston TX, Orlando FL, Phoenix AZ, and East Bay CA. INFORMATION GAPS: Specific enrollment capacity per campus is not publicly disclosed (only Austin confirms 150+), square footage/facility capacity details are unavailable, accreditation status is unknown for non-Austin campuses, transportation options are not detailed except for Fort Worth carpool coordination, before/after school care availability is not documented, waitlist information is not public, and historical opening dates for older campuses beyond Austin are not specified.
+ Texas Sports Academy operates sport-specific schools at &#36;15,000/year tuition including AIE Elite Prep basketball (Round Rock), The Bennett School baseball (Houston), with January 2026 openings for baseball (Pearland), basketball (Houston), gymnastics (San Antonio), and a Fall 2026 cheer program (Lago Vista). Expansion plans for Fall 2026 include The Woodlands TX (&#36;40,000), Dorado Puerto Rico (&#36;50,000), Palo Alto CA (&#36;75,000), Santa Monica CA (&#36;65,000), East Bay CA (&#36;65,000), Chicago IL (&#36;55,000), Tampa FL (&#36;40,000), Charlotte NC (&#36;45,000), Raleigh NC (&#36;45,000), with more being announced periodically. INFORMATION GAPS: Specific enrollment capacity per campus is not publicly disclosed (only Austin confirms 160+), square footage/facility capacity details are unavailable, transportation options are not detailed except for Fort Worth carpool coordination, before/after school care availability is not documented, waitlist information is not public, and historical opening dates for older campuses beyond Austin are not specified.
 
 ## Properties
 
 | Property | Type | Description | Example |
 |----------|------|-------------|---------|
-| total_campuses_operating | number | Currently operating Alpha School locations as of January 2026 | 17 |
+| total_campuses_operating | number | Currently operating Alpha School locations as of January 2026 | 13 |
 | states_served | number | Number of U.S. states with Alpha campuses | 8 |
 | headquarters_location | string | Corporate headquarters city and state | Austin, Texas |
 | founding_campus_year | number | Year original Alpha School campus was established | 2016 |
@@ -31,7 +31,7 @@ Rapid expansion accelerated through strategic partnerships and acquisitions. In 
 
 **Texas (6 campuses):**
 
-- **Austin PreK-5 (Flagship)**: 1201 Spyglass Dr, Austin, TX 78746 | PreK-5 | &#36;40,000/year | Contact: (512) 595-0801 / admissions.austin@alpha.school | 150+ students, Year 11 of operation, Cognia accredited, Barton Hills neighborhood near MoPac/Zilker Park
+- **Austin PreK-5 (Flagship)**: 1201 Spyglass Dr, Austin, TX 78746 | PreK-5 | &#36;40,000/year | Contact: (512) 595-0801 / admissions.austin@alpha.school | 150+ students, Year 11 of operation, Barton Hills neighborhood near MoPac/Zilker Park
 - **Austin 6-8**: 201 Colorado St, Austin, TX 78701 | Grades 6-8 | &#36;40,000/year | Contact: (512) 595-0801 | Downtown Austin location
 - **Austin High 9-12**: 201 Colorado St, Austin, TX 78701 | Grades 9-12 | &#36;40,000/year | Contact: (512) 595-0801 | High school program, downtown location
 - **Brownsville**: 591 N. Central Ave, Brownsville, TX 78521 | PreK-8 | &#36;10,000/year | Lowest tuition in network, near SpaceX headquarters
@@ -40,18 +40,18 @@ Rapid expansion accelerated through strategic partnerships and acquisitions. In 
 
 **Arizona (1 campus):**
 
-- **Scottsdale**: 20624 N 76th St, Scottsdale, AZ 85255 | K-8 | &#36;40,000/year | Contact: (480) 253-9802 / admissions.scottsdale@alpha.school | Near Greyhawk Park, full basketball court, 3 playground structures, gaga pit, football field-sized open space, serves North Scottsdale ZIP codes 85255/85260/85262/85254
+- **Scottsdale**: 20624 N 76th St, Scottsdale, AZ 85255 | K-8 | &#36;40,000/year | Contact: (480) 253-9802 / admissions.scottsdale@alpha.school | Near Greyhawk Park, full basketball court, 3 playground structures, gaga pit, football field-sized open space.
 
 **California (3 campuses):**
 
-- **Lake Forest (Orange County)**: 26462 Towne Centre Dr, Lake Forest, CA 92610 | K-5 | &#36;50,000/year | From Guidepost partnership
-- **San Francisco**: 3741 Buchanan St, San Francisco, CA 94123 | K-10 | &#36;75,000/year | Marina/Fort Mason area, opened August 2025, former Guidepost Fort Mason facility, 14th Alpha campus, highest tuition in network, described as "most expensive private school in the city"
-- **Santa Barbara**: 27 East Cota St, Santa Barbara, CA 93101 | K-12 | &#36;50,000/year | Only campus offering full K-12 pathway
+- **Lake Forest (Orange County)**: 26462 Towne Centre Dr, Lake Forest, CA 92610 | K-5 | &#36;50,000/year
+- **San Francisco**: 3741 Buchanan St, San Francisco, CA 94123 | K-10 | &#36;75,000/year | Marina/Fort Mason area, opened August 2025, highest tuition in network, described as "most expensive private school in the city"
+- **Santa Barbara**: 27 East Cota St, Santa Barbara, CA 93101 | K-12 | &#36;50,000/year | Offering full K-12 pathway
 
 **Florida (3 campuses):**
 
-- **Miami**: 8000 SW 56th St, Miami, FL 33155 | K-10 | &#36;50,000/year | Contact: (786) 864-0687 / admissions.miami@alpha.school | Opened Fall 2024, near Tropical Park (GPS: 25.716909, -80.325357), serves Palmetto Bay/Pinecrest/Coral Gables/Brickell, Leadership: Joshua Lezmi (Head Guide), Allyson Dudich (Dean of Parents)
-- **Palm Beach**: 353 Hiatt Dr, Palm Beach Gardens, FL 33418 | K-5 | &#36;50,000/year | From Guidepost partnership
+- **Miami**: 8000 SW 56th St, Miami, FL 33155 | K-10 | &#36;50,000/year | Contact: (786) 864-0687 / admissions.miami@alpha.school | Opened Fall 2024, near Tropical Park (GPS: 25.716909, -80.325357), Leadership: Joshua Lezmi (Head Guide), Allyson Dudich (Dean of Parents)
+- **Palm Beach**: 353 Hiatt Dr, Palm Beach Gardens, FL 33418 | K-5 | &#36;50,000/year
 - **Tampa**: 5252 Ehrlich Road, Tampa, FL 33624 | K-9 | &#36;40,000/year
 
 **New York (1 campus):**
@@ -60,12 +60,12 @@ Rapid expansion accelerated through strategic partnerships and acquisitions. In 
 
 **Virginia (1 campus):**
 
-- **Chantilly (DC area)**: 4550 Walney Road, Chantilly, VA 20151 | K-6 | &#36;65,000/year | Operates alongside Guidepost Montessori, rolling admission
+- **Chantilly (DC area)**: 4550 Walney Road, Chantilly, VA 20151 | K-6 | &#36;65,000/year
 
 **North Carolina (2 campuses):**
 
-- **Charlotte**: 4801 Prosperity Church Rd, Charlotte, NC 28269 | K-6 | &#36;45,000/year | From Guidepost partnership
-- **Raleigh**: 12600 Spruce Tree Way, Raleigh, NC 27614 | K-6 (K-5 at launch) | &#36;45,000/year | Opened January 2026, North Raleigh, 25 students in inaugural class, annual expansion with 1-2 additional grades
+- **Charlotte**: 4801 Prosperity Church Rd, Charlotte, NC 28269 | K-6 | &#36;45,000/year | Opens Fall 2026
+- **Raleigh**: 12600 Spruce Tree Way, Raleigh, NC 27614 | K-6 (K-5 at launch) | &#36;45,000/year | Opens Fall 2026
 
 ### Standard Campus Features and Operations
 
@@ -93,15 +93,11 @@ All Alpha School campuses follow a consistent operational model regardless of lo
 
 The original Alpha School campus, established in 2016 at 1201 Spyglass Drive, Austin, TX 78746, serves PreK-5 students and represents the founding location and organizational prototype.
 
-**Enrollment**: Over 150 students currently enrolled (only campus with publicly disclosed enrollment).
+**Enrollment**: Over 160 students currently enrolled.
 
 **Operational History**: Year 11 of operation as of 2026 (marking 10 years since 2016 establishment, though MacKenzie Price started the concept in 2014).
 
-**Accreditation**: Cognia accredited (only campus with confirmed accreditation status in public materials).
-
-**Location Context**: Barton Hills neighborhood near MoPac highway and Zilker Park, providing access to Austin outdoor recreation.
-
-**Contact**: (512) 595-0801 primary phone, admissions.austin@alpha.school for enrollment inquiries.
+**Accreditation**: Cognia accredited.
 
 **Hours**: 8:15 AM - 4:00 PM (drop-off 8:15-8:30 AM, pick-up 3:30-4:00 PM).
 
@@ -111,9 +107,6 @@ The original Alpha School campus, established in 2016 at 1201 Spyglass Drive, Au
 
 **Physical Activity**: Minimum 1 hour 15 minutes outdoor play daily.
 
-**Tuition**: &#36;40,000/year (2024-2025 academic year).
-
-**Additional Austin Locations**: Alpha operates three Austin campuses—PreK-5 flagship (Spyglass), 6-8 middle school (201 Colorado St downtown), and 9-12 Alpha High (same downtown address). The downtown campuses share the 201 Colorado St address, suggesting vertical grade-level separation within the facility. Austin market positioning reflects mid-range tuition (&#36;40,000) between the Brownsville low-cost model (&#36;10,000) and San Francisco premium positioning (&#36;75,000).
 
 ### Specialty Schools and Programs
 
@@ -141,15 +134,8 @@ Alpha School operates multiple specialty schools under its umbrella organization
 
 ### Strategic Growth and Partnerships
 
-Alpha School's rapid 2025-2026 expansion was enabled through strategic partnerships and acquisitions rather than organic campus-by-campus development:
+**Media Contact**: Anna Davlantes, Director of Communications (anna@alpha.school) for press inquiries.
 
-**Guidepost Montessori Partnership (July 2025)**: Strategic partnership accelerating expansion by opening K-3 elementary micro-schools in 9 new locations, dramatically increasing Alpha's reach while reducing the typical 1-2 year new school opening timeline. The partnership targeted 10 new K-8 campuses by December 2025. Locations from partnership include Charlotte NC, Raleigh NC, Folsom CA, Palm Beach FL, Chantilly VA, Lake Forest CA, Austin TX, and Plano TX. The partnership enables Alpha to leverage existing Guidepost facilities and communities for faster market entry.
-
-**Higher Ground Education Asset Acquisition (July 2025)**: Alpha agreed to acquire key assets from Higher Ground Education (former parent company of Guidepost Montessori) including proprietary elementary educational materials and rights to select high-value campuses from closed Guidepost schools. The acquisition accelerates Alpha's growth timeline by approximately 2 years. The first campus from this acquisition was the San Francisco Marina location, which opened in August 2025.
-
-**Media Contact**: Anna Davlantes, Director of Communications (anna@alpha.school, 312-488-3472) for press inquiries.
-
-**Growth Impact**: The dual July 2025 announcements transformed Alpha from slower organic growth to rapid multi-state expansion, adding 8+ campuses in the 6-month period from August 2025 to January 2026. The strategy leverages distressed Guidepost assets during Higher Ground Education difficulties, positioning Alpha as a consolidator in the premium private education space.
 
 ### Expansion Plans and Future Locations
 
@@ -158,23 +144,21 @@ Alpha School has announced aggressive expansion targets for 2026 and beyond:
 **Confirmed Fall 2026 Openings**:
 - The Woodlands, TX (&#36;40,000 tuition, Houston area)
 - Dorado, Puerto Rico (&#36;50,000 tuition)
-- Palo Alto, CA (tuition TBD, Bay Area expansion due to demand)
-- Santa Monica, CA (tuition TBD)
-- Chicago, IL (tuition TBD)
-
-**Additional Exploration Targets**: Aspen CO, Houston TX (additional to The Woodlands), Orlando FL, Phoenix AZ, East Bay CA (in addition to Palo Alto, suggesting dual Bay Area expansion).
+- Palo Alto, CA (&#36;75,000 tuition)
+- Santa Monica, CA (&#36;65,000 tuition)
+- East Bay CA (&#36;65,000 tuition)
+- Chicago, IL (&#36;55,000 tuition)
+- Tampa FL (&#36;40,000 tuition)
+- Charlotte NC (&#36;45,000 tuition)
+- Raleigh NC (&#36;45,000 tuition)
 
 **Bay Area Context**: ABC7 San Francisco reported Alpha is "looking to expand" in Palo Alto and East Bay due to "growing demand" following the San Francisco opening in August 2025.
 
-**Expansion Strategy**: Geographic diversification across high-income markets (Palo Alto, Santa Monica, Chicago, Aspen) and newer markets (Puerto Rico, Orlando, Phoenix). Tuition positioning likely follows local market strategy: premium markets command &#36;50,000-&#36;75,000 (San Francisco model), mid-tier markets &#36;40,000-&#36;45,000 (Austin/Charlotte model), and strategic low-cost entries &#36;10,000-&#36;15,000 (Brownsville/Texas Sports Academy model).
-
-**Timeline Variability**: "Exploring" targets (Aspen, Houston, Orlando, Phoenix, East Bay) lack confirmed opening dates or tuition—likely in planning/site selection phase vs. confirmed Fall 2026 openings.
-
-**Campus Count Trajectory**: 17 operating campuses (January 2026) → 22+ campuses (Fall 2026) → unknown 2027 targets. The growth rate suggests doubling the network size annually through the partnership model.
+**Expansion Strategy**: Geographic diversification across high-income markets (Palo Alto, Santa Monica, East Bay) and newer markets (Puerto Rico, Tampa). Tuition positioning likely follows local market strategy: premium markets command &#36;65,000-&#36;75,000 (San Francisco model), mid-tier markets &#36;40,000-&#36;55,000 (Austin/Charlotte model), and strategic low-cost entries &#36;10,000-&#36;15,000 (Brownsville/Texas Sports Academy model).
 
 **Community-Driven Expansion**: The website mentions "Bring Alpha To Your City" suggesting interest-driven expansion beyond announced targets.
 
-**INFORMATION GAPS**: Specific opening dates within "Fall 2026" timeframe, exact addresses for announced campuses, leadership/staffing plans for new locations, enrollment capacity targets, and facility specifications are not publicly available.
+**INFORMATION GAPS**: Specific opening dates within "Fall 2026" timeframe, leadership/staffing plans for new locations, enrollment capacity targets, and facility specifications are not publicly available.
 
 ## Examples
 

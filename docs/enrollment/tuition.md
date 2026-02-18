@@ -1,6 +1,6 @@
 # Tuition
 
-> Alpha School's location-based tuition pricing ranges from &#36;10,000/year to &#36;75,000/year (San Francisco), with an all-inclusive model covering all trips, activities, and supplies without additional fundraising; 5% sibling and $10,000 founding family discounts apply; &#36;100 application fee and &#36;1,000 enrollment deposit (applied to tuition) required.
+> Alpha School's location-based tuition pricing ranges from &#36;10,000/year (Brownsville) to &#36;75,000/year (San Francisco), with an all-inclusive model covering all trips, activities, and supplies without additional fundraising; 5% sibling and $10,000 founding family discounts apply; &#36;100 application fee and &#36;1,000 enrollment deposit (applied to tuition) required.
 
 ## Overview
 
